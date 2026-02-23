@@ -1,0 +1,11 @@
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+python-multipart==0.0.6
+opencv-python-headless>=4.9.0
+numpy>=1.24.0
+scipy>=1.11.0
+easyocr>=1.7.0
+scikit-image>=0.21.0
+imageio>=2.31.0
+Pillow>=10.0.0
+python-dotenv==1.0.0

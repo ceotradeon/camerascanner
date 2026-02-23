@@ -1,0 +1,8202 @@
+[
+  {
+    "en": "Abomasnow",
+    "jp": "ユキノオー",
+    "pokedex": "460",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ゆきのおー"
+  },
+  {
+    "en": "Abra",
+    "jp": "ケーシィ",
+    "pokedex": "063",
+    "prefix": "Sabrina, ナツメ",
+    "suffix": null,
+    "jphiragana": "けーしぃ"
+  },
+  {
+    "en": "Absol",
+    "jp": "アブソル",
+    "pokedex": "359",
+    "prefix": "M, ファウンス",
+    "suffix": "ex, EX, LV.X",
+    "jphiragana": "あぶそる"
+  },
+  {
+    "en": "Accelgor",
+    "jp": "アギルダー",
+    "pokedex": "617",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "あぎるだー"
+  },
+  {
+    "en": "Aegislash",
+    "jp": "ギルガルド",
+    "pokedex": "681",
+    "prefix": null,
+    "suffix": "ex, EX, V, VMAX",
+    "jphiragana": "ぎるがるど"
+  },
+  {
+    "en": "Aerodactyl",
+    "jp": "プテラ",
+    "pokedex": "142",
+    "prefix": "M, ワタル, 水の都",
+    "suffix": "ex, EX, GL, GX, V, VSTAR, δ",
+    "jphiragana": "ぷてら"
+  },
+  {
+    "en": "Aggron",
+    "jp": "ボスゴドラ",
+    "pokedex": "306",
+    "prefix": "M, Team Magma, マグマ団",
+    "suffix": "ex, EX, V, VMAX",
+    "jphiragana": "ぼすごどら"
+  },
+  {
+    "en": "Aipom",
+    "jp": "エイパム",
+    "pokedex": "190",
+    "prefix": "サトシ",
+    "suffix": null,
+    "jphiragana": "えいぱむ"
+  },
+  {
+    "en": "Alakazam",
+    "jp": "フーディン",
+    "pokedex": "065",
+    "prefix": "M, radiant, Sabrina, かがやく, ナツメ, わるい",
+    "suffix": "ex, EX, LV.X, V, 四天王",
+    "jphiragana": "ふーでぃん"
+  },
+  {
+    "en": "Alcremie",
+    "jp": "マホイップ",
+    "pokedex": "869",
+    "prefix": null,
+    "suffix": "ex, V, VMAX",
+    "jphiragana": "まほいっぷ"
+  },
+  {
+    "en": "Alomomola",
+    "jp": "ママンボウ",
+    "pokedex": "594",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ままんぼう"
+  },
+  {
+    "en": "Altaria",
+    "jp": "チルタリス",
+    "pokedex": "334",
+    "prefix": "M, ファウンス",
+    "suffix": "ex, EX, GX, δ",
+    "jphiragana": "ちるたりす"
+  },
+  {
+    "en": "Amaura",
+    "jp": "アマルス",
+    "pokedex": "698",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "あまるす"
+  },
+  {
+    "en": "Ambipom",
+    "jp": "エテボース",
+    "pokedex": "424",
+    "prefix": null,
+    "suffix": "G",
+    "jphiragana": "えてぼーす"
+  },
+  {
+    "en": "Amoonguss",
+    "jp": "モロバレル",
+    "pokedex": "591",
+    "prefix": null,
+    "suffix": "ex",
+    "jphiragana": "もろばれる"
+  },
+  {
+    "en": "Ampharos",
+    "jp": "デンリュウ",
+    "pokedex": "181",
+    "prefix": "M, Team Rocket, ミカン, ロケット団, ワタル, わるい",
+    "suffix": "ex, EX, GX, V, δ",
+    "jphiragana": "でんりゅう"
+  },
+  {
+    "en": "Annihilape",
+    "jp": "コノヨザル",
+    "pokedex": "979",
+    "prefix": null,
+    "suffix": "ex",
+    "jphiragana": "このよざる"
+  },
+  {
+    "en": "Anorith",
+    "jp": "アノプス",
+    "pokedex": "347",
+    "prefix": null,
+    "suffix": "δ",
+    "jphiragana": "あのぷす"
+  },
+  {
+    "en": "Appletun",
+    "jp": "タルップル",
+    "pokedex": "842",
+    "prefix": null,
+    "suffix": "V",
+    "jphiragana": "たるっぷる"
+  },
+  {
+    "en": "Applin",
+    "jp": "カジッチュ",
+    "pokedex": "840",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "かじっちゅ"
+  },
+  {
+    "en": "Araquanid",
+    "jp": "オニシズクモ",
+    "pokedex": "752",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "おにしずくも"
+  },
+  {
+    "en": "Arbok",
+    "jp": "アーボック",
+    "pokedex": "024",
+    "prefix": "Koga, Team Rocket, アンズ, キョウ, ロケット団, わるい",
+    "suffix": "ex, δ",
+    "jphiragana": "あーぼっく"
+  },
+  {
+    "en": "Arboliva",
+    "jp": "オリーヴァ",
+    "pokedex": "930",
+    "prefix": null,
+    "suffix": "ex",
+    "jphiragana": "おりーヴぁ"
+  },
+  {
+    "en": "Arcanine",
+    "jp": "ウインディ",
+    "pokedex": "059",
+    "prefix": "Blaine, やさしい",
+    "suffix": "BREAK, ex, V",
+    "jphiragana": "ういんでぃ"
+  },
+  {
+    "en": "Arceus",
+    "jp": "アルセウス",
+    "pokedex": "493",
+    "prefix": "Shining, ひかる",
+    "suffix": "GX, LV.X, V, VSTAR",
+    "jphiragana": "あるせうす"
+  },
+  {
+    "en": "Archaludon",
+    "jp": "ブリジュラス",
+    "pokedex": "1018",
+    "prefix": null,
+    "suffix": "ex",
+    "jphiragana": "ぶりじゅらす"
+  },
+  {
+    "en": "Archen",
+    "jp": "アーケン",
+    "pokedex": "566",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "あーけん"
+  },
+  {
+    "en": "Archeops",
+    "jp": "アーケオス",
+    "pokedex": "567",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "あーけおす"
+  },
+  {
+    "en": "Arctibax",
+    "jp": "セゴール",
+    "pokedex": "997",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "せごーる"
+  },
+  {
+    "en": "Arctovish",
+    "jp": "ウオチルドン",
+    "pokedex": "883",
+    "prefix": null,
+    "suffix": "V",
+    "jphiragana": "うおちるどん"
+  },
+  {
+    "en": "Arctozolt",
+    "jp": "パッチルドン",
+    "pokedex": "881",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ぱっちるどん"
+  },
+  {
+    "en": "Ariados",
+    "jp": "アリアドス",
+    "pokedex": "168",
+    "prefix": "アンズ, リオン, わるい",
+    "suffix": null,
+    "jphiragana": "ありあどす"
+  },
+  {
+    "en": "Armaldo",
+    "jp": "アーマルド",
+    "pokedex": "348",
+    "prefix": null,
+    "suffix": "ex, δ",
+    "jphiragana": "あーまるど"
+  },
+  {
+    "en": "Armarouge",
+    "jp": "グレンアルマ",
+    "pokedex": "936",
+    "prefix": null,
+    "suffix": "ex",
+    "jphiragana": "ぐれんあるま"
+  },
+  {
+    "en": "Aromatisse",
+    "jp": "フレフワン",
+    "pokedex": "683",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ふれふわん"
+  },
+  {
+    "en": "Aron",
+    "jp": "ココドラ",
+    "pokedex": "304",
+    "prefix": "Team Magma, マグマ団",
+    "suffix": null,
+    "jphiragana": "ここどら"
+  },
+  {
+    "en": "Arrokuda",
+    "jp": "サシカマス",
+    "pokedex": "846",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "さしかます"
+  },
+  {
+    "en": "Articuno",
+    "jp": "フリーザー",
+    "pokedex": "144",
+    "prefix": "Rocket, R団, Team Rocket, ヤナギ, ロケット団",
+    "suffix": "ex, EX, GX, V",
+    "jphiragana": "ふりーざー"
+  },
+  {
+    "en": "Audino",
+    "jp": "タブンネ",
+    "pokedex": "531",
+    "prefix": "M",
+    "suffix": "EX",
+    "jphiragana": "たぶんね"
+  },
+  {
+    "en": "Aurorus",
+    "jp": "アマルルガ",
+    "pokedex": "699",
+    "prefix": null,
+    "suffix": "EX",
+    "jphiragana": "あまるるが"
+  },
+  {
+    "en": "Avalugg",
+    "jp": "クレベース",
+    "pokedex": "713",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "くれべーす"
+  },
+  {
+    "en": "Axew",
+    "jp": "キバゴ",
+    "pokedex": "610",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "きばご"
+  },
+  {
+    "en": "Azelf",
+    "jp": "アグノム",
+    "pokedex": "482",
+    "prefix": null,
+    "suffix": "LV.X",
+    "jphiragana": "あぐのむ"
+  },
+  {
+    "en": "Azumarill",
+    "jp": "マリルリ",
+    "pokedex": "184",
+    "prefix": null,
+    "suffix": "δ",
+    "jphiragana": "まりるり"
+  },
+  {
+    "en": "Azurill",
+    "jp": "ルリリ",
+    "pokedex": "298",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "るりり"
+  },
+  {
+    "en": "Bagon",
+    "jp": "タツベイ",
+    "pokedex": "371",
+    "prefix": null,
+    "suffix": "δ",
+    "jphiragana": "たつべい"
+  },
+  {
+    "en": "Baltoy",
+    "jp": "ヤジロン",
+    "pokedex": "343",
+    "prefix": "Steven, Team Magma, ダイゴ, マグマ団",
+    "suffix": null,
+    "jphiragana": "やじろん"
+  },
+  {
+    "en": "Banette",
+    "jp": "ジュペッタ",
+    "pokedex": "354",
+    "prefix": null,
+    "suffix": "ex, GX",
+    "jphiragana": "じゅぺった"
+  },
+  {
+    "en": "Barbaracle",
+    "jp": "ガメノデス",
+    "pokedex": "689",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "がめのです"
+  },
+  {
+    "en": "Barboach",
+    "jp": "ドジョッチ",
+    "pokedex": "339",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "どじょっち"
+  },
+  {
+    "en": "Barraskewda",
+    "jp": "カマスジョー",
+    "pokedex": "847",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "かますじょー"
+  },
+  {
+    "en": "Basculegion",
+    "jp": "イダイトウ",
+    "pokedex": "902",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "いだいとう"
+  },
+  {
+    "en": "Basculin",
+    "jp": "バスラオ",
+    "pokedex": "550",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ばすらお"
+  },
+  {
+    "en": "Bastiodon",
+    "jp": "トリデプス",
+    "pokedex": "411",
+    "prefix": null,
+    "suffix": "GL",
+    "jphiragana": "とりでぷす"
+  },
+  {
+    "en": "Baxcalibur",
+    "jp": "セグレイブ",
+    "pokedex": "998",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "せぐれいぶ"
+  },
+  {
+    "en": "Bayleef",
+    "jp": "ベイリーフ",
+    "pokedex": "153",
+    "prefix": null,
+    "suffix": "δ",
+    "jphiragana": "べいりーふ"
+  },
+  {
+    "en": "Beartic",
+    "jp": "ツンベアー",
+    "pokedex": "614",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "つんべあー"
+  },
+  {
+    "en": "Beautifly",
+    "jp": "アゲハント",
+    "pokedex": "267",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "あげはんと"
+  },
+  {
+    "en": "Beedrill",
+    "jp": "スピアー",
+    "pokedex": "015",
+    "prefix": "Koga, M, アンズ, キョウ, ツクシ, ファントム",
+    "suffix": "EX, V, δ",
+    "jphiragana": "すぴあー"
+  },
+  {
+    "en": "Beheeyem",
+    "jp": "オーベム",
+    "pokedex": "606",
+    "prefix": null,
+    "suffix": "BREAK",
+    "jphiragana": "おーべむ"
+  },
+  {
+    "en": "Beldum",
+    "jp": "ダンバル",
+    "pokedex": "374",
+    "prefix": "Steven, ダイゴ",
+    "suffix": "δ",
+    "jphiragana": "だんばる"
+  },
+  {
+    "en": "Bellibolt",
+    "jp": "ハラバリー",
+    "pokedex": "939",
+    "prefix": "ナンジャモ",
+    "suffix": "ex",
+    "jphiragana": "はらばりー"
+  },
+  {
+    "en": "Bellossom",
+    "jp": "キレイハナ",
+    "pokedex": "182",
+    "prefix": "エリカ",
+    "suffix": "δ",
+    "jphiragana": "きれいはな"
+  },
+  {
+    "en": "Bellsprout",
+    "jp": "マダツボミ",
+    "pokedex": "069",
+    "prefix": "Erika, エリカ",
+    "suffix": null,
+    "jphiragana": "まだつぼみ"
+  },
+  {
+    "en": "Bergmite",
+    "jp": "カチコール",
+    "pokedex": "712",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "かちこーる"
+  },
+  {
+    "en": "Bewear",
+    "jp": "キテルグマ",
+    "pokedex": "760",
+    "prefix": null,
+    "suffix": "GX",
+    "jphiragana": "きてるぐま"
+  },
+  {
+    "en": "Bibarel",
+    "jp": "ビーダル",
+    "pokedex": "400",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "びーだる"
+  },
+  {
+    "en": "Bidoof",
+    "jp": "ビッパ",
+    "pokedex": "399",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "びっぱ"
+  },
+  {
+    "en": "Binacle",
+    "jp": "カメテテ",
+    "pokedex": "688",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "かめてて"
+  },
+  {
+    "en": "Bisharp",
+    "jp": "キリキザン",
+    "pokedex": "625",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "きりきざん"
+  },
+  {
+    "en": "Blacephalon",
+    "jp": "ズガドーン",
+    "pokedex": "806",
+    "prefix": null,
+    "suffix": "GX",
+    "jphiragana": "ずがどーん"
+  },
+  {
+    "en": "Blastoise",
+    "jp": "カメックス",
+    "pokedex": "009",
+    "prefix": "M, radiant, イブキ, かがやく, ショウタ, わるい",
+    "suffix": "ex, EX, GX, V, VMAX, δ",
+    "jphiragana": "かめっくす"
+  },
+  {
+    "en": "Blaziken",
+    "jp": "バシャーモ",
+    "pokedex": "257",
+    "prefix": "M, リュウ",
+    "suffix": "ex, EX, GX, LV.X, V, VMAX",
+    "jphiragana": "ばしゃーも"
+  },
+  {
+    "en": "Blipbug",
+    "jp": "サッチムシ",
+    "pokedex": "824",
+    "prefix": "Team Rocket, ロケット団",
+    "suffix": null,
+    "jphiragana": "さっちむし"
+  },
+  {
+    "en": "Blissey",
+    "jp": "ハピナス",
+    "pokedex": "242",
+    "prefix": null,
+    "suffix": "ex, V",
+    "jphiragana": "はぴなす"
+  },
+  {
+    "en": "Blitzle",
+    "jp": "シママ",
+    "pokedex": "522",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "しまま"
+  },
+  {
+    "en": "Boldore",
+    "jp": "ガントル",
+    "pokedex": "525",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "がんとる"
+  },
+  {
+    "en": "Boltund",
+    "jp": "パルスワン",
+    "pokedex": "836",
+    "prefix": null,
+    "suffix": "V, VMAX",
+    "jphiragana": "ぱるすわん"
+  },
+  {
+    "en": "Bombirdier",
+    "jp": "オトシドリ",
+    "pokedex": "962",
+    "prefix": null,
+    "suffix": "ex",
+    "jphiragana": "おとしどり"
+  },
+  {
+    "en": "Bonsly",
+    "jp": "ウソハチ",
+    "pokedex": "438",
+    "prefix": "ロータ",
+    "suffix": null,
+    "jphiragana": "うそはち"
+  },
+  {
+    "en": "Bouffalant",
+    "jp": "バッフロン",
+    "pokedex": "626",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ばっふろん"
+  },
+  {
+    "en": "Bounsweet",
+    "jp": "アマカジ",
+    "pokedex": "761",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "あまかじ"
+  },
+  {
+    "en": "Braixen",
+    "jp": "テールナー",
+    "pokedex": "654",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "てーるなー"
+  },
+  {
+    "en": "Brambleghast",
+    "jp": "アノホラグサ",
+    "pokedex": "947",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "あのほらぐさ"
+  },
+  {
+    "en": "Bramblin",
+    "jp": "アノクサ",
+    "pokedex": "946",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "あのくさ"
+  },
+  {
+    "en": "Braviary",
+    "jp": "ウォーグル",
+    "pokedex": "628",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "うぉーぐる"
+  },
+  {
+    "en": "Breloom",
+    "jp": "キノガッサ",
+    "pokedex": "286",
+    "prefix": "ファウンス",
+    "suffix": "V",
+    "jphiragana": "きのがっさ"
+  },
+  {
+    "en": "Brionne",
+    "jp": "オシャマリ",
+    "pokedex": "729",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "おしゃまり"
+  },
+  {
+    "en": "Bronzong",
+    "jp": "ドータクン",
+    "pokedex": "437",
+    "prefix": null,
+    "suffix": "BREAK, 四天王",
+    "jphiragana": "どーたくん"
+  },
+  {
+    "en": "Bronzor",
+    "jp": "ドーミラー",
+    "pokedex": "436",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "どーみらー"
+  },
+  {
+    "en": "Brute Bonnet",
+    "jp": "アラブルタケ",
+    "pokedex": "986",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "あらぶるたけ"
+  },
+  {
+    "en": "Bruxish",
+    "jp": "ハギギシリ",
+    "pokedex": "779",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "はぎぎしり"
+  },
+  {
+    "en": "Budew",
+    "jp": "スボミー",
+    "pokedex": "406",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "すぼみー"
+  },
+  {
+    "en": "Buizel",
+    "jp": "ブイゼル",
+    "pokedex": "418",
+    "prefix": "アクーシャ",
+    "suffix": null,
+    "jphiragana": "ぶいぜる"
+  },
+  {
+    "en": "Bulbasaur",
+    "jp": "フシギダネ",
+    "pokedex": "001",
+    "prefix": "Erika, エリカ",
+    "suffix": null,
+    "jphiragana": "ふしぎだね"
+  },
+  {
+    "en": "Buneary",
+    "jp": "ミミロル",
+    "pokedex": "427",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "みみろる"
+  },
+  {
+    "en": "Bunnelby",
+    "jp": "ホルビー",
+    "pokedex": "659",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ほるびー"
+  },
+  {
+    "en": "Burmy",
+    "jp": "ミノムッチ",
+    "pokedex": "412",
+    "prefix": "ミノムッチ くさき, ミノムッチ ゴミ, ミノムッチ すなち",
+    "suffix": null,
+    "jphiragana": "みのむっち"
+  },
+  {
+    "en": "Butterfree",
+    "jp": "バタフリー",
+    "pokedex": "012",
+    "prefix": "ツクシ",
+    "suffix": "V, VMAX",
+    "jphiragana": "ばたふりー"
+  },
+  {
+    "en": "Buzzwole",
+    "jp": "マッシブーン",
+    "pokedex": "794",
+    "prefix": null,
+    "suffix": "GX",
+    "jphiragana": "まっしぶーん"
+  },
+  {
+    "en": "Cacnea",
+    "jp": "サボネア",
+    "pokedex": "331",
+    "prefix": "Team Aqua, アクア団",
+    "suffix": null,
+    "jphiragana": "さぼねあ"
+  },
+  {
+    "en": "Cacturne",
+    "jp": "ノクタス",
+    "pokedex": "332",
+    "prefix": "Team Aqua, アクア団",
+    "suffix": "ex, δ",
+    "jphiragana": "のくたす"
+  },
+  {
+    "en": "Calyrex",
+    "jp": "バドレックス",
+    "pokedex": "898",
+    "prefix": null,
+    "suffix": "V, VMAX",
+    "jphiragana": "ばどれっくす"
+  },
+  {
+    "en": "Camerupt",
+    "jp": "バクーダ",
+    "pokedex": "323",
+    "prefix": "M, Team Magma, マグマ団",
+    "suffix": "ex, EX",
+    "jphiragana": "ばくーだ"
+  },
+  {
+    "en": "Capsakid",
+    "jp": "カプサイジ",
+    "pokedex": "951",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "かぷさいじ"
+  },
+  {
+    "en": "Carbink",
+    "jp": "メレシー",
+    "pokedex": "703",
+    "prefix": "Steven, ダイゴ",
+    "suffix": "BREAK",
+    "jphiragana": "めれしー"
+  },
+  {
+    "en": "Carkol",
+    "jp": "トロッゴン",
+    "pokedex": "838",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "とろっごん"
+  },
+  {
+    "en": "Carnivine",
+    "jp": "マスキッパ",
+    "pokedex": "455",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ますきっぱ"
+  },
+  {
+    "en": "Carracosta",
+    "jp": "アバゴーラ",
+    "pokedex": "565",
+    "prefix": null,
+    "suffix": "GX",
+    "jphiragana": "あばごーら"
+  },
+  {
+    "en": "Carvanha",
+    "jp": "キバニア",
+    "pokedex": "318",
+    "prefix": "Team Aqua, アクア団",
+    "suffix": "δ",
+    "jphiragana": "きばにあ"
+  },
+  {
+    "en": "Cascoon",
+    "jp": "マユルド",
+    "pokedex": "268",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "まゆるど"
+  },
+  {
+    "en": "Castform",
+    "jp": "ポワルン",
+    "pokedex": "351",
+    "prefix": "Holon, ホロン, ポワルン あまみず, ポワルン たいよう, ポワルン ゆきぐも, ポワルン 太陽, ポワルン 雨水, ポワルン 雪雲, 太陽, 雨水, 雪雲",
+    "suffix": null,
+    "jphiragana": "ぽわるん"
+  },
+  {
+    "en": "Caterpie",
+    "jp": "キャタピー",
+    "pokedex": "010",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "きゃたぴー"
+  },
+  {
+    "en": "Celebi",
+    "jp": "セレビィ",
+    "pokedex": "251",
+    "prefix": "_, R団, Shining, ひかる, ポケパーク",
+    "suffix": "ex, EX, GX, V, VMAX",
+    "jphiragana": "せれびぃ"
+  },
+  {
+    "en": "Celesteela",
+    "jp": "テッカグヤ",
+    "pokedex": "797",
+    "prefix": null,
+    "suffix": "GX",
+    "jphiragana": "てっかぐや"
+  },
+  {
+    "en": "Centiskorch",
+    "jp": "マルヤクデ",
+    "pokedex": "851",
+    "prefix": null,
+    "suffix": "V, VMAX",
+    "jphiragana": "まるやくで"
+  },
+  {
+    "en": "Ceruledge",
+    "jp": "ソウブレイズ",
+    "pokedex": "937",
+    "prefix": null,
+    "suffix": "ex",
+    "jphiragana": "そうぶれいず"
+  },
+  {
+    "en": "Cetitan",
+    "jp": "ハルクジラ",
+    "pokedex": "975",
+    "prefix": null,
+    "suffix": "ex",
+    "jphiragana": "はるくじら"
+  },
+  {
+    "en": "Cetoddle",
+    "jp": "アルクジラ",
+    "pokedex": "974",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "あるくじら"
+  },
+  {
+    "en": "Chandelure",
+    "jp": "シャンデラ",
+    "pokedex": "609",
+    "prefix": null,
+    "suffix": "EX, V, VMAX",
+    "jphiragana": "しゃんでら"
+  },
+  {
+    "en": "Chansey",
+    "jp": "ラッキー",
+    "pokedex": "113",
+    "prefix": "_, カリン",
+    "suffix": "ex, δ",
+    "jphiragana": "らっきー"
+  },
+  {
+    "en": "Charcadet",
+    "jp": "カルボウ",
+    "pokedex": "935",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "かるぼう"
+  },
+  {
+    "en": "Charizard",
+    "jp": "リザードン",
+    "pokedex": "006",
+    "prefix": "Lance, M, radiant, Shining, かがやく, カツラ, ひかる, ワタル, わるい",
+    "suffix": "ex, EX, GX, LV.X, V, VMAX, VSTAR, δ",
+    "jphiragana": "りざーどん"
+  },
+  {
+    "en": "Charjabug",
+    "jp": "デンヂムシ",
+    "pokedex": "737",
+    "prefix": "radiant, かがやく",
+    "suffix": null,
+    "jphiragana": "でんぢむし"
+  },
+  {
+    "en": "Charmander",
+    "jp": "ヒトカゲ",
+    "pokedex": "004",
+    "prefix": "Blaine, カツラ",
+    "suffix": "δ",
+    "jphiragana": "ひとかげ"
+  },
+  {
+    "en": "Charmeleon",
+    "jp": "リザード",
+    "pokedex": "005",
+    "prefix": "Blaine, カツラ, わるい",
+    "suffix": "δ",
+    "jphiragana": "りざーど"
+  },
+  {
+    "en": "Chatot",
+    "jp": "ペラップ",
+    "pokedex": "441",
+    "prefix": "アクーシャ, ファントム",
+    "suffix": null,
+    "jphiragana": "ぺらっぷ"
+  },
+  {
+    "en": "Cherrim",
+    "jp": "チェリム",
+    "pokedex": "421",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ちぇりむ"
+  },
+  {
+    "en": "Cherubi",
+    "jp": "チェリンボ",
+    "pokedex": "420",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ちぇりんぼ"
+  },
+  {
+    "en": "Chesnaught",
+    "jp": "ブリガロン",
+    "pokedex": "652",
+    "prefix": null,
+    "suffix": "BREAK, EX, V",
+    "jphiragana": "ぶりがろん"
+  },
+  {
+    "en": "Chespin",
+    "jp": "ハリマロン",
+    "pokedex": "650",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "はりまろん"
+  },
+  {
+    "en": "Chewtle",
+    "jp": "カムカメ",
+    "pokedex": "833",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "かむかめ"
+  },
+  {
+    "en": "Chi-Yu",
+    "jp": "イーユイ",
+    "pokedex": "1004",
+    "prefix": null,
+    "suffix": "ex",
+    "jphiragana": "いーゆい"
+  },
+  {
+    "en": "Chien-Pao",
+    "jp": "パオジアン",
+    "pokedex": "1002",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ぱおじあん"
+  },
+  {
+    "en": "Chikorita",
+    "jp": "チコリータ",
+    "pokedex": "152",
+    "prefix": null,
+    "suffix": "δ",
+    "jphiragana": "ちこりーた"
+  },
+  {
+    "en": "Chimchar",
+    "jp": "ヒコザル",
+    "pokedex": "390",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ひこざる"
+  },
+  {
+    "en": "Chimecho",
+    "jp": "チリーン",
+    "pokedex": "358",
+    "prefix": null,
+    "suffix": "δ",
+    "jphiragana": "ちりーん"
+  },
+  {
+    "en": "Chinchou",
+    "jp": "チョンチー",
+    "pokedex": "170",
+    "prefix": "Team Aqua, アクア団",
+    "suffix": null,
+    "jphiragana": "ちょんちー"
+  },
+  {
+    "en": "Chingling",
+    "jp": "リーシャン",
+    "pokedex": "433",
+    "prefix": "Team Rocket, ロケット団",
+    "suffix": null,
+    "jphiragana": "りーしゃん"
+  },
+  {
+    "en": "Cinccino",
+    "jp": "チラチーノ",
+    "pokedex": "573",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ちらちーの"
+  },
+  {
+    "en": "Cinderace",
+    "jp": "エースバーン",
+    "pokedex": "815",
+    "prefix": null,
+    "suffix": "ex, V, VMAX",
+    "jphiragana": "えーすばーん"
+  },
+  {
+    "en": "Clamperl",
+    "jp": "パールル",
+    "pokedex": "366",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ぱーるる"
+  },
+  {
+    "en": "Clauncher",
+    "jp": "ウデッポウ",
+    "pokedex": "692",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "うでっぽう"
+  },
+  {
+    "en": "Clawitzer",
+    "jp": "ブロスター",
+    "pokedex": "693",
+    "prefix": null,
+    "suffix": "BREAK",
+    "jphiragana": "ぶろすたー"
+  },
+  {
+    "en": "Claydol",
+    "jp": "ネンドール",
+    "pokedex": "344",
+    "prefix": "Steven, Team Magma, ダイゴ, マグマ団",
+    "suffix": "ex",
+    "jphiragana": "ねんどーる"
+  },
+  {
+    "en": "Clefable",
+    "jp": "ピクシー",
+    "pokedex": "036",
+    "prefix": "Erika, アカネ, エリカ, わるい",
+    "suffix": "ex",
+    "jphiragana": "ぴくしー"
+  },
+  {
+    "en": "Clefairy",
+    "jp": "ピッピ",
+    "pokedex": "035",
+    "prefix": "Erika, Lillie, エリカ, リーリエ",
+    "suffix": "ex",
+    "jphiragana": "ぴっぴ"
+  },
+  {
+    "en": "Cleffa",
+    "jp": "ピィ",
+    "pokedex": "173",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ぴぃ"
+  },
+  {
+    "en": "Clobbopus",
+    "jp": "タタッコ",
+    "pokedex": "852",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "たたっこ"
+  },
+  {
+    "en": "Clodsire",
+    "jp": "ドオー",
+    "pokedex": "980",
+    "prefix": null,
+    "suffix": "ex",
+    "jphiragana": "どおー"
+  },
+  {
+    "en": "Cloyster",
+    "jp": "パルシェン",
+    "pokedex": "091",
+    "prefix": "Misty, カスミ, ヤナギ",
+    "suffix": "δ",
+    "jphiragana": "ぱるしぇん"
+  },
+  {
+    "en": "Coalossal",
+    "jp": "セキタンザン",
+    "pokedex": "839",
+    "prefix": null,
+    "suffix": "V, VMAX",
+    "jphiragana": "せきたんざん"
+  },
+  {
+    "en": "Cobalion",
+    "jp": "コバルオン",
+    "pokedex": "638",
+    "prefix": null,
+    "suffix": "EX, GX",
+    "jphiragana": "こばるおん"
+  },
+  {
+    "en": "Cofagrigus",
+    "jp": "デスカーン",
+    "pokedex": "563",
+    "prefix": null,
+    "suffix": "ex",
+    "jphiragana": "ですかーん"
+  },
+  {
+    "en": "Combee",
+    "jp": "ミツハニー",
+    "pokedex": "415",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "みつはにー"
+  },
+  {
+    "en": "Combusken",
+    "jp": "ワカシャモ",
+    "pokedex": "256",
+    "prefix": "ハルカ",
+    "suffix": null,
+    "jphiragana": "わかしゃも"
+  },
+  {
+    "en": "Comfey",
+    "jp": "キュワワー",
+    "pokedex": "764",
+    "prefix": "Lillie, リーリエ",
+    "suffix": null,
+    "jphiragana": "きゅわわー"
+  },
+  {
+    "en": "Conkeldurr",
+    "jp": "ローブシン",
+    "pokedex": "534",
+    "prefix": null,
+    "suffix": "V",
+    "jphiragana": "ろーぶしん"
+  },
+  {
+    "en": "Copperajah",
+    "jp": "ダイオウドウ",
+    "pokedex": "879",
+    "prefix": null,
+    "suffix": "ex, V, VMAX",
+    "jphiragana": "だいおうどう"
+  },
+  {
+    "en": "Corphish",
+    "jp": "ヘイガニ",
+    "pokedex": "341",
+    "prefix": "Team Aqua, アクア団",
+    "suffix": null,
+    "jphiragana": "へいがに"
+  },
+  {
+    "en": "Corsola",
+    "jp": "サニーゴ",
+    "pokedex": "222",
+    "prefix": "カスミ",
+    "suffix": null,
+    "jphiragana": "さにーご"
+  },
+  {
+    "en": "Corviknight",
+    "jp": "アーマーガア",
+    "pokedex": "823",
+    "prefix": "Hop, ホップ",
+    "suffix": "V, VMAX",
+    "jphiragana": "あーまーがあ"
+  },
+  {
+    "en": "Corvisquire",
+    "jp": "アオガラス",
+    "pokedex": "822",
+    "prefix": "Hop, ホップ",
+    "suffix": null,
+    "jphiragana": "あおがらす"
+  },
+  {
+    "en": "Cosmoem",
+    "jp": "コスモウム",
+    "pokedex": "790",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "こすもうむ"
+  },
+  {
+    "en": "Cosmog",
+    "jp": "コスモッグ",
+    "pokedex": "789",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "こすもっぐ"
+  },
+  {
+    "en": "Cottonee",
+    "jp": "モンメン",
+    "pokedex": "546",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "もんめん"
+  },
+  {
+    "en": "Crabominable",
+    "jp": "ケケンカニ",
+    "pokedex": "740",
+    "prefix": null,
+    "suffix": "V",
+    "jphiragana": "けけんかに"
+  },
+  {
+    "en": "Crabrawler",
+    "jp": "マケンカニ",
+    "pokedex": "739",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "まけんかに"
+  },
+  {
+    "en": "Cradily",
+    "jp": "ユレイドル",
+    "pokedex": "346",
+    "prefix": null,
+    "suffix": "ex, δ",
+    "jphiragana": "ゆれいどる"
+  },
+  {
+    "en": "Cramorant",
+    "jp": "ウッウ",
+    "pokedex": "845",
+    "prefix": "Hop, ホップ",
+    "suffix": "V, VMAX",
+    "jphiragana": "うっう"
+  },
+  {
+    "en": "Cranidos",
+    "jp": "ズガイドス",
+    "pokedex": "408",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ずがいどす"
+  },
+  {
+    "en": "Crawdaunt",
+    "jp": "シザリガー",
+    "pokedex": "342",
+    "prefix": "Team Aqua, アクア団",
+    "suffix": "ex",
+    "jphiragana": "しざりがー"
+  },
+  {
+    "en": "Cresselia",
+    "jp": "クレセリア",
+    "pokedex": "488",
+    "prefix": null,
+    "suffix": "EX, LV.X",
+    "jphiragana": "くれせりあ"
+  },
+  {
+    "en": "Croagunk",
+    "jp": "グレッグル",
+    "pokedex": "453",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ぐれっぐる"
+  },
+  {
+    "en": "Crobat",
+    "jp": "クロバット",
+    "pokedex": "169",
+    "prefix": "Team Rocket, アンズ, キョウ, タケシ, ロケット団, わるい",
+    "suffix": "BREAK, ex, V, VMAX, δ",
+    "jphiragana": "くろばっと"
+  },
+  {
+    "en": "Crocalor",
+    "jp": "アチゲータ",
+    "pokedex": "910",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "あちげーた"
+  },
+  {
+    "en": "Croconaw",
+    "jp": "アリゲイツ",
+    "pokedex": "159",
+    "prefix": "わるい",
+    "suffix": "δ",
+    "jphiragana": "ありげいつ"
+  },
+  {
+    "en": "Crustle",
+    "jp": "イワパレス",
+    "pokedex": "558",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "いわぱれす"
+  },
+  {
+    "en": "Cryogonal",
+    "jp": "フリージオ",
+    "pokedex": "615",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ふりーじお"
+  },
+  {
+    "en": "Cubchoo",
+    "jp": "クマシュン",
+    "pokedex": "613",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "くましゅん"
+  },
+  {
+    "en": "Cubone",
+    "jp": "カラカラ",
+    "pokedex": "104",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "からから"
+  },
+  {
+    "en": "Cufant",
+    "jp": "ゾウドウ",
+    "pokedex": "878",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ぞうどう"
+  },
+  {
+    "en": "Cursola",
+    "jp": "サニゴーン",
+    "pokedex": "864",
+    "prefix": null,
+    "suffix": "V",
+    "jphiragana": "さにごーん"
+  },
+  {
+    "en": "Cutiefly",
+    "jp": "アブリー",
+    "pokedex": "742",
+    "prefix": "Lillie, リーリエ",
+    "suffix": null,
+    "jphiragana": "あぶりー"
+  },
+  {
+    "en": "Cyclizar",
+    "jp": "モトトカゲ",
+    "pokedex": "967",
+    "prefix": null,
+    "suffix": "ex",
+    "jphiragana": "もととかげ"
+  },
+  {
+    "en": "Cyndaquil",
+    "jp": "ヒノアラシ",
+    "pokedex": "155",
+    "prefix": "Ethan, ヒビキ",
+    "suffix": "δ",
+    "jphiragana": "ひのあらし"
+  },
+  {
+    "en": "Dachsbun",
+    "jp": "バウッツェル",
+    "pokedex": "927",
+    "prefix": null,
+    "suffix": "ex",
+    "jphiragana": "ばうっつぇる"
+  },
+  {
+    "en": "Darkrai",
+    "jp": "ダークライ",
+    "pokedex": "491",
+    "prefix": null,
+    "suffix": "ex, EX, GX, LEGEND, LV.X, V, VSTAR",
+    "jphiragana": "だーくらい"
+  },
+  {
+    "en": "Darmanitan",
+    "jp": "ヒヒダルマ",
+    "pokedex": "555",
+    "prefix": "N",
+    "suffix": "V, VMAX",
+    "jphiragana": "ひひだるま"
+  },
+  {
+    "en": "Dartrix",
+    "jp": "フクスロー",
+    "pokedex": "723",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ふくすろー"
+  },
+  {
+    "en": "Darumaka",
+    "jp": "ダルマッカ",
+    "pokedex": "554",
+    "prefix": "N",
+    "suffix": null,
+    "jphiragana": "だるまっか"
+  },
+  {
+    "en": "Decidueye",
+    "jp": "ジュナイパー",
+    "pokedex": "724",
+    "prefix": null,
+    "suffix": "ex, GX, V, VSTAR",
+    "jphiragana": "じゅないぱー"
+  },
+  {
+    "en": "Dedenne",
+    "jp": "デデンネ",
+    "pokedex": "702",
+    "prefix": null,
+    "suffix": "ex, GX",
+    "jphiragana": "ででんね"
+  },
+  {
+    "en": "Deerling",
+    "jp": "シキジカ",
+    "pokedex": "585",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "しきじか"
+  },
+  {
+    "en": "Deino",
+    "jp": "モノズ",
+    "pokedex": "633",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ものず"
+  },
+  {
+    "en": "Delcatty",
+    "jp": "エネコロロ",
+    "pokedex": "301",
+    "prefix": null,
+    "suffix": "ex",
+    "jphiragana": "えねころろ"
+  },
+  {
+    "en": "Delibird",
+    "jp": "デリバード",
+    "pokedex": "225",
+    "prefix": "ハヤト, ヤナギ",
+    "suffix": null,
+    "jphiragana": "でりばーど"
+  },
+  {
+    "en": "Delphox",
+    "jp": "マフォクシー",
+    "pokedex": "655",
+    "prefix": null,
+    "suffix": "BREAK, EX, V",
+    "jphiragana": "まふぉくしー"
+  },
+  {
+    "en": "Deoxys",
+    "jp": "デオキシス",
+    "pokedex": "386",
+    "prefix": "裂空",
+    "suffix": "ex, EX, V, VMAX, VSTAR, δ",
+    "jphiragana": "でおきしす"
+  },
+  {
+    "en": "Dewgong",
+    "jp": "ジュゴン",
+    "pokedex": "087",
+    "prefix": "Misty, カスミ, やさしい, ヤナギ",
+    "suffix": "δ",
+    "jphiragana": "じゅごん"
+  },
+  {
+    "en": "Dewott",
+    "jp": "フタチマル",
+    "pokedex": "502",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ふたちまる"
+  },
+  {
+    "en": "Dewpider",
+    "jp": "シズクモ",
+    "pokedex": "751",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "しずくも"
+  },
+  {
+    "en": "Dhelmise",
+    "jp": "ダダリン",
+    "pokedex": "781",
+    "prefix": null,
+    "suffix": "V, VMAX",
+    "jphiragana": "だだりん"
+  },
+  {
+    "en": "Dialga",
+    "jp": "ディアルガ",
+    "pokedex": "483",
+    "prefix": null,
+    "suffix": "EX, GX, LV.X, V, VSTAR",
+    "jphiragana": "でぃあるが"
+  },
+  {
+    "en": "Diancie",
+    "jp": "ディアンシー",
+    "pokedex": "719",
+    "prefix": "M",
+    "suffix": "EX",
+    "jphiragana": "でぃあんしー"
+  },
+  {
+    "en": "Diggersby",
+    "jp": "ホルード",
+    "pokedex": "660",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ほるーど"
+  },
+  {
+    "en": "Diglett",
+    "jp": "ディグダ",
+    "pokedex": "050",
+    "prefix": "Brock, タケシ",
+    "suffix": null,
+    "jphiragana": "でぃぐだ"
+  },
+  {
+    "en": "Dipplin",
+    "jp": "カミッチュ",
+    "pokedex": "1011",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "かみっちゅ"
+  },
+  {
+    "en": "Ditto",
+    "jp": "メタモン",
+    "pokedex": "132",
+    "prefix": "Koga, キョウ",
+    "suffix": "V, VMAX",
+    "jphiragana": "めたもん"
+  },
+  {
+    "en": "Dodrio",
+    "jp": "ドードリオ",
+    "pokedex": "085",
+    "prefix": "Blaine, カツラ, ハヤト",
+    "suffix": "V",
+    "jphiragana": "どーどりお"
+  },
+  {
+    "en": "Doduo",
+    "jp": "ドードー",
+    "pokedex": "084",
+    "prefix": "Blaine, Imakuni?, イマクニ?, カツラ",
+    "suffix": null,
+    "jphiragana": "どーどー"
+  },
+  {
+    "en": "Dolliv",
+    "jp": "オリーニョ",
+    "pokedex": "929",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "おりーにょ"
+  },
+  {
+    "en": "Dondozo",
+    "jp": "ヘイラッシャ",
+    "pokedex": "977",
+    "prefix": null,
+    "suffix": "ex",
+    "jphiragana": "へいらっしゃ"
+  },
+  {
+    "en": "Donphan",
+    "jp": "ドンファン",
+    "pokedex": "232",
+    "prefix": "シジマ, わるい",
+    "suffix": null,
+    "jphiragana": "どんふぁん"
+  },
+  {
+    "en": "Dottler",
+    "jp": "レドームシ",
+    "pokedex": "825",
+    "prefix": "Team Rocket, ロケット団",
+    "suffix": null,
+    "jphiragana": "れどーむし"
+  },
+  {
+    "en": "Doublade",
+    "jp": "ニダンギル",
+    "pokedex": "680",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "にだんぎる"
+  },
+  {
+    "en": "Dracovish",
+    "jp": "ウオノラゴン",
+    "pokedex": "882",
+    "prefix": null,
+    "suffix": "V",
+    "jphiragana": "うおのらごん"
+  },
+  {
+    "en": "Dracozolt",
+    "jp": "パッチラゴン",
+    "pokedex": "880",
+    "prefix": null,
+    "suffix": "V, VMAX",
+    "jphiragana": "ぱっちらごん"
+  },
+  {
+    "en": "Dragalge",
+    "jp": "ドラミドロ",
+    "pokedex": "691",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "どらみどろ"
+  },
+  {
+    "en": "Dragapult",
+    "jp": "ドラパルト",
+    "pokedex": "887",
+    "prefix": null,
+    "suffix": "ex, V, VMAX",
+    "jphiragana": "どらぱると"
+  },
+  {
+    "en": "Dragonair",
+    "jp": "ハクリュー",
+    "pokedex": "148",
+    "prefix": "Erika, エリカ, やさしい, わるい",
+    "suffix": "δ",
+    "jphiragana": "はくりゅー"
+  },
+  {
+    "en": "Dragonite",
+    "jp": "カイリュー",
+    "pokedex": "149",
+    "prefix": "イブキ, やさしい, ワタル, わるい",
+    "suffix": "ex, EX, GX, V, VSTAR, δ",
+    "jphiragana": "かいりゅー"
+  },
+  {
+    "en": "Drakloak",
+    "jp": "ドロンチ",
+    "pokedex": "886",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "どろんち"
+  },
+  {
+    "en": "Drampa",
+    "jp": "ジジーロン",
+    "pokedex": "780",
+    "prefix": null,
+    "suffix": "GX, V",
+    "jphiragana": "じじーろん"
+  },
+  {
+    "en": "Drapion",
+    "jp": "ドラピオン",
+    "pokedex": "452",
+    "prefix": null,
+    "suffix": "LV.X, V, VSTAR, 四天王",
+    "jphiragana": "どらぴおん"
+  },
+  {
+    "en": "Dratini",
+    "jp": "ミニリュウ",
+    "pokedex": "147",
+    "prefix": "Erika, エリカ",
+    "suffix": "δ",
+    "jphiragana": "みにりゅう"
+  },
+  {
+    "en": "Drednaw",
+    "jp": "カジリガメ",
+    "pokedex": "834",
+    "prefix": null,
+    "suffix": "V, VMAX",
+    "jphiragana": "かじりがめ"
+  },
+  {
+    "en": "Dreepy",
+    "jp": "ドラメシヤ",
+    "pokedex": "885",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "どらめしや"
+  },
+  {
+    "en": "Drifblim",
+    "jp": "フワライド",
+    "pokedex": "426",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ふわらいど"
+  },
+  {
+    "en": "Drifloon",
+    "jp": "フワンテ",
+    "pokedex": "425",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ふわんて"
+  },
+  {
+    "en": "Drilbur",
+    "jp": "モグリュー",
+    "pokedex": "529",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "もぐりゅー"
+  },
+  {
+    "en": "Drizzile",
+    "jp": "ジメレオン",
+    "pokedex": "817",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "じめれおん"
+  },
+  {
+    "en": "Drowzee",
+    "jp": "スリープ",
+    "pokedex": "096",
+    "prefix": "Sabrina, Team Rocket, ナツメ, ロケット団",
+    "suffix": null,
+    "jphiragana": "すりーぷ"
+  },
+  {
+    "en": "Druddigon",
+    "jp": "クリムガン",
+    "pokedex": "621",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "くりむがん"
+  },
+  {
+    "en": "Dubwool",
+    "jp": "バイウールー",
+    "pokedex": "832",
+    "prefix": "Hop, ホップ",
+    "suffix": "V",
+    "jphiragana": "ばいうーるー"
+  },
+  {
+    "en": "Ducklett",
+    "jp": "コアルヒー",
+    "pokedex": "580",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "こあるひー"
+  },
+  {
+    "en": "Dudunsparce",
+    "jp": "ノココッチ",
+    "pokedex": "982",
+    "prefix": null,
+    "suffix": "ex",
+    "jphiragana": "のここっち"
+  },
+  {
+    "en": "Dugtrio",
+    "jp": "ダグトリオ",
+    "pokedex": "051",
+    "prefix": "Brock, タケシ, わるい",
+    "suffix": null,
+    "jphiragana": "だぐとりお"
+  },
+  {
+    "en": "Dunsparce",
+    "jp": "ノコッチ",
+    "pokedex": "206",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "のこっち"
+  },
+  {
+    "en": "Duosion",
+    "jp": "ダブラン",
+    "pokedex": "578",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "だぶらん"
+  },
+  {
+    "en": "Duraludon",
+    "jp": "ジュラルドン",
+    "pokedex": "884",
+    "prefix": null,
+    "suffix": "V, VMAX",
+    "jphiragana": "じゅらるどん"
+  },
+  {
+    "en": "Durant",
+    "jp": "アイアント",
+    "pokedex": "632",
+    "prefix": null,
+    "suffix": "ex",
+    "jphiragana": "あいあんと"
+  },
+  {
+    "en": "Dusclops",
+    "jp": "サマヨール",
+    "pokedex": "356",
+    "prefix": "バトラー",
+    "suffix": "ex",
+    "jphiragana": "さまよーる"
+  },
+  {
+    "en": "Dusknoir",
+    "jp": "ヨノワール",
+    "pokedex": "477",
+    "prefix": null,
+    "suffix": "LV.X",
+    "jphiragana": "よのわーる"
+  },
+  {
+    "en": "Duskull",
+    "jp": "ヨマワル",
+    "pokedex": "355",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "よまわる"
+  },
+  {
+    "en": "Dustox",
+    "jp": "ドクケイル",
+    "pokedex": "269",
+    "prefix": null,
+    "suffix": "ex",
+    "jphiragana": "どくけいる"
+  },
+  {
+    "en": "Dwebble",
+    "jp": "イシズマイ",
+    "pokedex": "557",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "いしずまい"
+  },
+  {
+    "en": "Eelektrik",
+    "jp": "シビビール",
+    "pokedex": "603",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "しびびーる"
+  },
+  {
+    "en": "Eelektross",
+    "jp": "シビルドン",
+    "pokedex": "604",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "しびるどん"
+  },
+  {
+    "en": "Eevee",
+    "jp": "イーブイ",
+    "pokedex": "133",
+    "prefix": "Lt. Surge, radiant, かがやく, マチス",
+    "suffix": "ex, GX, V, VMAX, δ",
+    "jphiragana": "いーぶい"
+  },
+  {
+    "en": "Eiscue",
+    "jp": "コオリッポ",
+    "pokedex": "875",
+    "prefix": null,
+    "suffix": "ex, V",
+    "jphiragana": "こおりっぽ"
+  },
+  {
+    "en": "Ekans",
+    "jp": "アーボ",
+    "pokedex": "023",
+    "prefix": "Koga, Team Rocket, ���ョウ",
+    "suffix": "δ",
+    "jphiragana": "あーぼ"
+  },
+  {
+    "en": "Eldegoss",
+    "jp": "ワタシラガ",
+    "pokedex": "830",
+    "prefix": null,
+    "suffix": "V",
+    "jphiragana": "わたしらが"
+  },
+  {
+    "en": "Electabuzz",
+    "jp": "エレブー",
+    "pokedex": "125",
+    "prefix": "Lt. Surge, マチス, ミカン",
+    "suffix": "ex, δ",
+    "jphiragana": "えれぶー"
+  },
+  {
+    "en": "Electivire",
+    "jp": "エレキブル",
+    "pokedex": "466",
+    "prefix": null,
+    "suffix": "ex, LV.X",
+    "jphiragana": "えれきぶる"
+  },
+  {
+    "en": "Electrike",
+    "jp": "ラクライ",
+    "pokedex": "309",
+    "prefix": "アクア団",
+    "suffix": null,
+    "jphiragana": "らくらい"
+  },
+  {
+    "en": "Electrode",
+    "jp": "マルマイン",
+    "pokedex": "101",
+    "prefix": "Holon, Iono, Lt. Surge, ナンジャモ, ホロン, マチス, わるい",
+    "suffix": "ex, GX, V",
+    "jphiragana": "まるまいん"
+  },
+  {
+    "en": "Elekid",
+    "jp": "エレキッド",
+    "pokedex": "239",
+    "prefix": null,
+    "suffix": "δ",
+    "jphiragana": "えれきっど"
+  },
+  {
+    "en": "Elgyem",
+    "jp": "リグレー",
+    "pokedex": "605",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "りぐれー"
+  },
+  {
+    "en": "Emboar",
+    "jp": "エンブオー",
+    "pokedex": "500",
+    "prefix": null,
+    "suffix": "EX",
+    "jphiragana": "えんぶおー"
+  },
+  {
+    "en": "Emolga",
+    "jp": "エモンガ",
+    "pokedex": "587",
+    "prefix": null,
+    "suffix": "EX",
+    "jphiragana": "えもんが"
+  },
+  {
+    "en": "Empoleon",
+    "jp": "エンペルト",
+    "pokedex": "395",
+    "prefix": null,
+    "suffix": "BREAK, LV.X, V",
+    "jphiragana": "えんぺると"
+  },
+  {
+    "en": "Enamorus",
+    "jp": "ラブトロス",
+    "pokedex": "905",
+    "prefix": null,
+    "suffix": "V",
+    "jphiragana": "らぶとろす"
+  },
+  {
+    "en": "Entei",
+    "jp": "エンテイ",
+    "pokedex": "244",
+    "prefix": "Rocket, R団, 結晶塔",
+    "suffix": "ex, EX, GX, LEGEND, V",
+    "jphiragana": "えんてい"
+  },
+  {
+    "en": "Escavalier",
+    "jp": "シュバルゴ",
+    "pokedex": "589",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "しゅばるご"
+  },
+  {
+    "en": "Espathra",
+    "jp": "クエスパトラ",
+    "pokedex": "956",
+    "prefix": null,
+    "suffix": "ex",
+    "jphiragana": "くえすぱとら"
+  },
+  {
+    "en": "Espeon",
+    "jp": "エーフィ",
+    "pokedex": "196",
+    "prefix": "イツキ, ザンナー, ナツメ, わるい",
+    "suffix": "ex, EX, GX, V, VMAX, δ, 四天王",
+    "jphiragana": "えーふぃ"
+  },
+  {
+    "en": "Espurr",
+    "jp": "ニャスパー",
+    "pokedex": "677",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "にゃすぱー"
+  },
+  {
+    "en": "Eternatus",
+    "jp": "ムゲンダイナ",
+    "pokedex": "890",
+    "prefix": "radiant, かがやく",
+    "suffix": "V, VMAX",
+    "jphiragana": "むげんだいな"
+  },
+  {
+    "en": "Excadrill",
+    "jp": "ドリュウズ",
+    "pokedex": "530",
+    "prefix": null,
+    "suffix": "ex, EX",
+    "jphiragana": "どりゅうず"
+  },
+  {
+    "en": "Exeggcute",
+    "jp": "タマタマ",
+    "pokedex": "102",
+    "prefix": "Erika, エリカ",
+    "suffix": "ex, δ",
+    "jphiragana": "たまたま"
+  },
+  {
+    "en": "Exeggutor",
+    "jp": "ナッシー",
+    "pokedex": "103",
+    "prefix": "Erika, イツキ, エリカ, わるい",
+    "suffix": "ex, GX, V, δ",
+    "jphiragana": "なっしー"
+  },
+  {
+    "en": "Exploud",
+    "jp": "バクオング",
+    "pokedex": "295",
+    "prefix": "イマクニ?",
+    "suffix": "ex",
+    "jphiragana": "ばくおんぐ"
+  },
+  {
+    "en": "Falinks",
+    "jp": "タイレーツ",
+    "pokedex": "870",
+    "prefix": null,
+    "suffix": "V",
+    "jphiragana": "たいれーつ"
+  },
+  {
+    "en": "Farfetch'd",
+    "jp": "カモネギ",
+    "pokedex": "083",
+    "prefix": "ハヤト",
+    "suffix": null,
+    "jphiragana": "かもねぎ"
+  },
+  {
+    "en": "Farigiraf",
+    "jp": "リキキリン",
+    "pokedex": "981",
+    "prefix": null,
+    "suffix": "ex",
+    "jphiragana": "りききりん"
+  },
+  {
+    "en": "Fearow",
+    "jp": "オニドリル",
+    "pokedex": "022",
+    "prefix": "Lt. Surge, アクーシャ, ハヤト, マチス, わるい",
+    "suffix": "δ",
+    "jphiragana": "おにどりる"
+  },
+  {
+    "en": "Feebas",
+    "jp": "ヒンバス",
+    "pokedex": "349",
+    "prefix": "Cynthia, シロナ",
+    "suffix": "δ",
+    "jphiragana": "ひんばす"
+  },
+  {
+    "en": "Fennekin",
+    "jp": "フォッコ",
+    "pokedex": "653",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ふぉっこ"
+  },
+  {
+    "en": "Feraligatr",
+    "jp": "オーダイル",
+    "pokedex": "160",
+    "prefix": "わるい",
+    "suffix": "ex, δ",
+    "jphiragana": "おーだいる"
+  },
+  {
+    "en": "Ferroseed",
+    "jp": "テッシード",
+    "pokedex": "597",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "てっしーど"
+  },
+  {
+    "en": "Ferrothorn",
+    "jp": "ナットレイ",
+    "pokedex": "598",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "なっとれい"
+  },
+  {
+    "en": "Fezandipiti",
+    "jp": "キチキギス",
+    "pokedex": "1016",
+    "prefix": null,
+    "suffix": "ex",
+    "jphiragana": "きちきぎす"
+  },
+  {
+    "en": "Fidough",
+    "jp": "パピモッチ",
+    "pokedex": "926",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ぱぴもっち"
+  },
+  {
+    "en": "Finizen",
+    "jp": "ナミイルカ",
+    "pokedex": "963",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "なみいるか"
+  },
+  {
+    "en": "Finneon",
+    "jp": "ケイコウオ",
+    "pokedex": "456",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "けいこうお"
+  },
+  {
+    "en": "Flaaffy",
+    "jp": "モココ",
+    "pokedex": "180",
+    "prefix": "Team Rocket, ロケット団, わるい",
+    "suffix": "δ",
+    "jphiragana": "もここ"
+  },
+  {
+    "en": "Flabébé",
+    "jp": "フラベベ",
+    "pokedex": "669",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ふらべべ"
+  },
+  {
+    "en": "Flamigo",
+    "jp": "カラミンゴ",
+    "pokedex": "973",
+    "prefix": null,
+    "suffix": "ex",
+    "jphiragana": "からみんご"
+  },
+  {
+    "en": "Flapple",
+    "jp": "アップリュー",
+    "pokedex": "841",
+    "prefix": null,
+    "suffix": "V, VMAX",
+    "jphiragana": "あっぷりゅー"
+  },
+  {
+    "en": "Flareon",
+    "jp": "ブースター",
+    "pokedex": "136",
+    "prefix": "カリン, やさしい, わるい",
+    "suffix": "ex, EX, GX, V, VMAX, δ, 四天王",
+    "jphiragana": "ぶーすたー"
+  },
+  {
+    "en": "Fletchinder",
+    "jp": "ヒノヤコマ",
+    "pokedex": "662",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ひのやこま"
+  },
+  {
+    "en": "Fletchling",
+    "jp": "ヤヤコマ",
+    "pokedex": "661",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ややこま"
+  },
+  {
+    "en": "Flittle",
+    "jp": "ヒラヒナ",
+    "pokedex": "955",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ひらひな"
+  },
+  {
+    "en": "Floatzel",
+    "jp": "フローゼル",
+    "pokedex": "419",
+    "prefix": null,
+    "suffix": "GL, LV.X",
+    "jphiragana": "ふろーぜる"
+  },
+  {
+    "en": "Floette",
+    "jp": "フラエッテ",
+    "pokedex": "670",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ふらえって"
+  },
+  {
+    "en": "Floragato",
+    "jp": "ニャローテ",
+    "pokedex": "907",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "にゃろーて"
+  },
+  {
+    "en": "Florges",
+    "jp": "フラージェス",
+    "pokedex": "671",
+    "prefix": null,
+    "suffix": "BREAK, EX",
+    "jphiragana": "ふらーじぇす"
+  },
+  {
+    "en": "Flutter Mane",
+    "jp": "ハバタクカミ",
+    "pokedex": "987",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "はばたくかみ"
+  },
+  {
+    "en": "Flygon",
+    "jp": "フライゴン",
+    "pokedex": "330",
+    "prefix": "ファウンス",
+    "suffix": "ex, EX, GX, LV.X, V, δ",
+    "jphiragana": "ふらいごん"
+  },
+  {
+    "en": "Fomantis",
+    "jp": "カリキリ",
+    "pokedex": "753",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "かりきり"
+  },
+  {
+    "en": "Foongus",
+    "jp": "タマゲタケ",
+    "pokedex": "590",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "たまげたけ"
+  },
+  {
+    "en": "Forretress",
+    "jp": "フォレトス",
+    "pokedex": "205",
+    "prefix": "キョウ, タケシ, わるい",
+    "suffix": "ex, G",
+    "jphiragana": "ふぉれとす"
+  },
+  {
+    "en": "Fraxure",
+    "jp": "オノンド",
+    "pokedex": "611",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "おのんど"
+  },
+  {
+    "en": "Frigibax",
+    "jp": "セビエ",
+    "pokedex": "996",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "せびえ"
+  },
+  {
+    "en": "Frillish",
+    "jp": "プルリル",
+    "pokedex": "592",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ぷるりる"
+  },
+  {
+    "en": "Froakie",
+    "jp": "ケロマツ",
+    "pokedex": "656",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "けろまつ"
+  },
+  {
+    "en": "Frogadier",
+    "jp": "ゲコガシラ",
+    "pokedex": "657",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "げこがしら"
+  },
+  {
+    "en": "Froslass",
+    "jp": "ユキメノコ",
+    "pokedex": "478",
+    "prefix": null,
+    "suffix": "ex, GL",
+    "jphiragana": "ゆきめのこ"
+  },
+  {
+    "en": "Frosmoth",
+    "jp": "モスノウ",
+    "pokedex": "873",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "もすのう"
+  },
+  {
+    "en": "Fuecoco",
+    "jp": "ホゲータ",
+    "pokedex": "909",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ほげーた"
+  },
+  {
+    "en": "Furfrou",
+    "jp": "トリミアン",
+    "pokedex": "676",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "とりみあん"
+  },
+  {
+    "en": "Furret",
+    "jp": "オオタチ",
+    "pokedex": "162",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "おおたち"
+  },
+  {
+    "en": "Gabite",
+    "jp": "ガバイト",
+    "pokedex": "444",
+    "prefix": "Cynthia, シロナ",
+    "suffix": null,
+    "jphiragana": "がばいと"
+  },
+  {
+    "en": "Gallade",
+    "jp": "エルレイド",
+    "pokedex": "475",
+    "prefix": "M",
+    "suffix": "EX, LV.X, V, 四天王",
+    "jphiragana": "えるれいど"
+  },
+  {
+    "en": "Galvantula",
+    "jp": "デンチュラ",
+    "pokedex": "596",
+    "prefix": null,
+    "suffix": "ex",
+    "jphiragana": "でんちゅら"
+  },
+  {
+    "en": "Garbodor",
+    "jp": "ダストダス",
+    "pokedex": "569",
+    "prefix": null,
+    "suffix": "V, VMAX",
+    "jphiragana": "だすとだす"
+  },
+  {
+    "en": "Garchomp",
+    "jp": "ガブリアス",
+    "pokedex": "445",
+    "prefix": "Cynthia, M, シロナ",
+    "suffix": "ex, EX, GX, LV.X, V",
+    "jphiragana": "がぶりあす"
+  },
+  {
+    "en": "Gardevoir",
+    "jp": "サーナイト",
+    "pokedex": "282",
+    "prefix": "M, radiant, かがやく",
+    "suffix": "ex, EX, GX, LV.X, V, VMAX, δ",
+    "jphiragana": "さーないと"
+  },
+  {
+    "en": "Garganacl",
+    "jp": "キョジオーン",
+    "pokedex": "934",
+    "prefix": null,
+    "suffix": "ex",
+    "jphiragana": "きょじおーん"
+  },
+  {
+    "en": "Gastly",
+    "jp": "ゴース",
+    "pokedex": "092",
+    "prefix": "Sabrina, ナツメ, わるい",
+    "suffix": null,
+    "jphiragana": "ごーす"
+  },
+  {
+    "en": "Gastrodon",
+    "jp": "トリトドン",
+    "pokedex": "423",
+    "prefix": "トリトドン にし, トリトドン ひがし",
+    "suffix": null,
+    "jphiragana": "とりとどん"
+  },
+  {
+    "en": "Genesect",
+    "jp": "ゲノセクト",
+    "pokedex": "649",
+    "prefix": "Shining, ひかる",
+    "suffix": "ex, EX, GX, V",
+    "jphiragana": "げのせくと"
+  },
+  {
+    "en": "Gengar",
+    "jp": "ゲンガー",
+    "pokedex": "094",
+    "prefix": "M, Sabrina, ナツメ, マツバ, わるい",
+    "suffix": "ex, EX, GL, GX, LV.X, V, VMAX",
+    "jphiragana": "げんがー"
+  },
+  {
+    "en": "Geodude",
+    "jp": "イシツブテ",
+    "pokedex": "074",
+    "prefix": "Brock, タケシ",
+    "suffix": null,
+    "jphiragana": "いしつぶて"
+  },
+  {
+    "en": "Gholdengo",
+    "jp": "サーフゴー",
+    "pokedex": "1000",
+    "prefix": null,
+    "suffix": "ex",
+    "jphiragana": "さーふごー"
+  },
+  {
+    "en": "Gible",
+    "jp": "フカマル",
+    "pokedex": "443",
+    "prefix": "Cynthia, シロナ",
+    "suffix": null,
+    "jphiragana": "ふかまる"
+  },
+  {
+    "en": "Gigalith",
+    "jp": "ギガイアス",
+    "pokedex": "526",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ぎがいあす"
+  },
+  {
+    "en": "Gimmighoul",
+    "jp": "コレクレー",
+    "pokedex": "999",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "これくれー"
+  },
+  {
+    "en": "Girafarig",
+    "jp": "キリンリキ",
+    "pokedex": "203",
+    "prefix": "イツキ",
+    "suffix": null,
+    "jphiragana": "きりんりき"
+  },
+  {
+    "en": "Giratina",
+    "jp": "ギラティナ",
+    "pokedex": "487",
+    "prefix": "反転世界, 現実世界",
+    "suffix": "EX, LV.X, V, VSTAR",
+    "jphiragana": "ぎらてぃな"
+  },
+  {
+    "en": "Glaceon",
+    "jp": "グレイシア",
+    "pokedex": "471",
+    "prefix": null,
+    "suffix": "ex, EX, GX, LV.X, V, VMAX, VSTAR",
+    "jphiragana": "ぐれいしあ"
+  },
+  {
+    "en": "Glalie",
+    "jp": "オニゴーリ",
+    "pokedex": "362",
+    "prefix": "M",
+    "suffix": "EX",
+    "jphiragana": "おにごーり"
+  },
+  {
+    "en": "Glameow",
+    "jp": "ニャルマー",
+    "pokedex": "431",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "にゃるまー"
+  },
+  {
+    "en": "Glastrier",
+    "jp": "ブリザポス",
+    "pokedex": "896",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ぶりざぽす"
+  },
+  {
+    "en": "Gligar",
+    "jp": "グライガー",
+    "pokedex": "207",
+    "prefix": null,
+    "suffix": "δ",
+    "jphiragana": "ぐらいがー"
+  },
+  {
+    "en": "Glimmet",
+    "jp": "キラーメ",
+    "pokedex": "969",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "きらーめ"
+  },
+  {
+    "en": "Glimmora",
+    "jp": "キラフロル",
+    "pokedex": "970",
+    "prefix": null,
+    "suffix": "ex",
+    "jphiragana": "きらふろる"
+  },
+  {
+    "en": "Gliscor",
+    "jp": "グライオン",
+    "pokedex": "472",
+    "prefix": null,
+    "suffix": "LV.X, 四天王",
+    "jphiragana": "ぐらいおん"
+  },
+  {
+    "en": "Gloom",
+    "jp": "クサイハナ",
+    "pokedex": "044",
+    "prefix": "Erika, エリカ, わるい",
+    "suffix": "δ",
+    "jphiragana": "くさいはな"
+  },
+  {
+    "en": "Gogoat",
+    "jp": "ゴーゴート",
+    "pokedex": "673",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ごーごーと"
+  },
+  {
+    "en": "Golbat",
+    "jp": "ゴルバット",
+    "pokedex": "042",
+    "prefix": "Brock, Koga, Team Rocket, キョウ, タケシ, ロケット団, わるい",
+    "suffix": null,
+    "jphiragana": "ごるばっと"
+  },
+  {
+    "en": "Goldeen",
+    "jp": "トサキント",
+    "pokedex": "118",
+    "prefix": "Misty, カスミ",
+    "suffix": null,
+    "jphiragana": "とさきんと"
+  },
+  {
+    "en": "Golduck",
+    "jp": "ゴルダック",
+    "pokedex": "055",
+    "prefix": "Misty, Sabrina, カスミ, ナツメ, やさしい, わるい",
+    "suffix": "BREAK, δ",
+    "jphiragana": "ごるだっく"
+  },
+  {
+    "en": "Golem",
+    "jp": "ゴローニャ",
+    "pokedex": "076",
+    "prefix": "Brock, タケシ",
+    "suffix": "ex, EX, GX, 四天王",
+    "jphiragana": "ごろーにゃ"
+  },
+  {
+    "en": "Golett",
+    "jp": "ゴビット",
+    "pokedex": "622",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ごびっと"
+  },
+  {
+    "en": "Golisopod",
+    "jp": "グソクムシャ",
+    "pokedex": "768",
+    "prefix": null,
+    "suffix": "ex, GX",
+    "jphiragana": "ぐそくむしゃ"
+  },
+  {
+    "en": "Golurk",
+    "jp": "ゴルーグ",
+    "pokedex": "623",
+    "prefix": null,
+    "suffix": "V",
+    "jphiragana": "ごるーぐ"
+  },
+  {
+    "en": "Goodra",
+    "jp": "ヌメルゴン",
+    "pokedex": "706",
+    "prefix": null,
+    "suffix": "V, VSTAR",
+    "jphiragana": "ぬめるごん"
+  },
+  {
+    "en": "Goomy",
+    "jp": "ヌメラ",
+    "pokedex": "704",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ぬめら"
+  },
+  {
+    "en": "Gorebyss",
+    "jp": "サクラビス",
+    "pokedex": "368",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "さくらびす"
+  },
+  {
+    "en": "Gossifleur",
+    "jp": "ヒメンカ",
+    "pokedex": "829",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ひめんか"
+  },
+  {
+    "en": "Gothita",
+    "jp": "ゴチム",
+    "pokedex": "574",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ごちむ"
+  },
+  {
+    "en": "Gothitelle",
+    "jp": "ゴチルゼル",
+    "pokedex": "576",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ごちるぜる"
+  },
+  {
+    "en": "Gothorita",
+    "jp": "ゴチミル",
+    "pokedex": "575",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ごちみる"
+  },
+  {
+    "en": "Gouging Fire",
+    "jp": "ウガツホムラ",
+    "pokedex": "1020",
+    "prefix": null,
+    "suffix": "ex",
+    "jphiragana": "うがつほむら"
+  },
+  {
+    "en": "Gourgeist",
+    "jp": "パンプジン",
+    "pokedex": "711",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ぱんぷじん"
+  },
+  {
+    "en": "Grafaiai",
+    "jp": "タギングル",
+    "pokedex": "945",
+    "prefix": null,
+    "suffix": "ex",
+    "jphiragana": "たぎんぐる"
+  },
+  {
+    "en": "Granbull",
+    "jp": "グランブル",
+    "pokedex": "210",
+    "prefix": "シジマ",
+    "suffix": "V",
+    "jphiragana": "ぐらんぶる"
+  },
+  {
+    "en": "Grapploct",
+    "jp": "オトスパス",
+    "pokedex": "853",
+    "prefix": null,
+    "suffix": "V",
+    "jphiragana": "おとすぱす"
+  },
+  {
+    "en": "Graveler",
+    "jp": "ゴローン",
+    "pokedex": "075",
+    "prefix": "Brock, タケシ",
+    "suffix": null,
+    "jphiragana": "ごろーん"
+  },
+  {
+    "en": "Great Tusk",
+    "jp": "イダイナキバ",
+    "pokedex": "984",
+    "prefix": null,
+    "suffix": "ex",
+    "jphiragana": "いだいなきば"
+  },
+  {
+    "en": "Greavard",
+    "jp": "ボチ",
+    "pokedex": "971",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ぼち"
+  },
+  {
+    "en": "Greedent",
+    "jp": "ヨクバリス",
+    "pokedex": "820",
+    "prefix": "ペパー",
+    "suffix": "ex, V, VMAX",
+    "jphiragana": "よくばりす"
+  },
+  {
+    "en": "Greninja",
+    "jp": "ゲッコウガ",
+    "pokedex": "658",
+    "prefix": "radiant, かがやく",
+    "suffix": "BREAK, ex, EX, GX, V",
+    "jphiragana": "げっこうが"
+  },
+  {
+    "en": "Grimer",
+    "jp": "ベトベター",
+    "pokedex": "088",
+    "prefix": "Koga, Team Aqua, Team Rocket, アクア団, キョウ, ロケット団",
+    "suffix": null,
+    "jphiragana": "べとべたー"
+  },
+  {
+    "en": "Grimmsnarl",
+    "jp": "オーロンゲ",
+    "pokedex": "861",
+    "prefix": "Marnie, マリィ",
+    "suffix": "ex, V, VMAX",
+    "jphiragana": "おーろんげ"
+  },
+  {
+    "en": "Grookey",
+    "jp": "サルノリ",
+    "pokedex": "810",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "さるのり"
+  },
+  {
+    "en": "Grotle",
+    "jp": "ハヤシガメ",
+    "pokedex": "388",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "はやしがめ"
+  },
+  {
+    "en": "Groudon",
+    "jp": "グラードン",
+    "pokedex": "383",
+    "prefix": "_, Team Magma, マグマ団",
+    "suffix": "ex, EX",
+    "jphiragana": "ぐらーどん"
+  },
+  {
+    "en": "Grovyle",
+    "jp": "ジュプトル",
+    "pokedex": "253",
+    "prefix": "サトシ",
+    "suffix": "δ",
+    "jphiragana": "じゅぷとる"
+  },
+  {
+    "en": "Growlithe",
+    "jp": "ガーディ",
+    "pokedex": "058",
+    "prefix": "Blaine, カツラ",
+    "suffix": null,
+    "jphiragana": "がーでぃ"
+  },
+  {
+    "en": "Grubbin",
+    "jp": "アゴジムシ",
+    "pokedex": "736",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "あごじむし"
+  },
+  {
+    "en": "Grumpig",
+    "jp": "ブーピッグ",
+    "pokedex": "326",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ぶーぴっぐ"
+  },
+  {
+    "en": "Gulpin",
+    "jp": "ゴクリン",
+    "pokedex": "316",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ごくりん"
+  },
+  {
+    "en": "Gumshoos",
+    "jp": "デカグース",
+    "pokedex": "735",
+    "prefix": null,
+    "suffix": "GX",
+    "jphiragana": "でかぐーす"
+  },
+  {
+    "en": "Gurdurr",
+    "jp": "ドテッコツ",
+    "pokedex": "533",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "どてっこつ"
+  },
+  {
+    "en": "Guzzlord",
+    "jp": "アクジキング",
+    "pokedex": "799",
+    "prefix": null,
+    "suffix": "GX",
+    "jphiragana": "あくじきんぐ"
+  },
+  {
+    "en": "Gyarados",
+    "jp": "ギャラドス",
+    "pokedex": "130",
+    "prefix": "Giovanni, M, Misty, Shining, イブキ, カスミ, サカキ, ひかる, ワタル, わるい",
+    "suffix": "ex, EX, GX, V, VMAX, δ",
+    "jphiragana": "ぎゃらどす"
+  },
+  {
+    "en": "Hakamo-o",
+    "jp": "ジャランゴ",
+    "pokedex": "783",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "じゃらんご"
+  },
+  {
+    "en": "Happiny",
+    "jp": "ピンプク",
+    "pokedex": "440",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ぴんぷく"
+  },
+  {
+    "en": "Hariyama",
+    "jp": "ハリテヤマ",
+    "pokedex": "297",
+    "prefix": null,
+    "suffix": "ex",
+    "jphiragana": "はりてやま"
+  },
+  {
+    "en": "Hatenna",
+    "jp": "ミブリム",
+    "pokedex": "856",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "みぶりむ"
+  },
+  {
+    "en": "Hatterene",
+    "jp": "ブリムオン",
+    "pokedex": "858",
+    "prefix": null,
+    "suffix": "V, VMAX",
+    "jphiragana": "ぶりむおん"
+  },
+  {
+    "en": "Hattrem",
+    "jp": "テブリム",
+    "pokedex": "857",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "てぶりむ"
+  },
+  {
+    "en": "Haunter",
+    "jp": "ゴースト",
+    "pokedex": "093",
+    "prefix": "Sabrina",
+    "suffix": null,
+    "jphiragana": "ごーすと"
+  },
+  {
+    "en": "Hawlucha",
+    "jp": "ルチャブル",
+    "pokedex": "701",
+    "prefix": "radiant, かがやく",
+    "suffix": "EX",
+    "jphiragana": "るちゃぶる"
+  },
+  {
+    "en": "Haxorus",
+    "jp": "オノノクス",
+    "pokedex": "612",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "おののくす"
+  },
+  {
+    "en": "Heatmor",
+    "jp": "クイタラン",
+    "pokedex": "631",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "くいたらん"
+  },
+  {
+    "en": "Heatran",
+    "jp": "ヒードラン",
+    "pokedex": "485",
+    "prefix": "radiant, かがやく",
+    "suffix": "EX, GX, LV.X, V, VMAX",
+    "jphiragana": "ひーどらん"
+  },
+  {
+    "en": "Heliolisk",
+    "jp": "エレザード",
+    "pokedex": "695",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "えれざーど"
+  },
+  {
+    "en": "Helioptile",
+    "jp": "エリキテル",
+    "pokedex": "694",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "えりきてる"
+  },
+  {
+    "en": "Heracross",
+    "jp": "ヘラクロス",
+    "pokedex": "214",
+    "prefix": "M",
+    "suffix": "EX, δ, 四天王",
+    "jphiragana": "へらくろす"
+  },
+  {
+    "en": "Herdier",
+    "jp": "ハーデリア",
+    "pokedex": "507",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "はーでりあ"
+  },
+  {
+    "en": "Hippopotas",
+    "jp": "ヒポポタス",
+    "pokedex": "449",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ひぽぽたす"
+  },
+  {
+    "en": "Hippowdon",
+    "jp": "カバルドン",
+    "pokedex": "450",
+    "prefix": null,
+    "suffix": "LV.X, 四天王",
+    "jphiragana": "かばるどん"
+  },
+  {
+    "en": "Hitmonchan",
+    "jp": "エビワラー",
+    "pokedex": "107",
+    "prefix": "Rocket, R団, シバ",
+    "suffix": "ex",
+    "jphiragana": "えびわらー"
+  },
+  {
+    "en": "Hitmonlee",
+    "jp": "サワムラー",
+    "pokedex": "106",
+    "prefix": "シバ",
+    "suffix": null,
+    "jphiragana": "さわむらー"
+  },
+  {
+    "en": "Hitmontop",
+    "jp": "カポエラー",
+    "pokedex": "237",
+    "prefix": "シバ",
+    "suffix": null,
+    "jphiragana": "かぽえらー"
+  },
+  {
+    "en": "Ho-oh",
+    "jp": "ホウオウ",
+    "pokedex": "250",
+    "prefix": "Ethan, Shining, ひかる, ヒビキ",
+    "suffix": "BREAK, ex, EX, GX, LEGEND, V",
+    "jphiragana": "ほうおう"
+  },
+  {
+    "en": "Honchkrow",
+    "jp": "ドンカラス",
+    "pokedex": "430",
+    "prefix": null,
+    "suffix": "GX, LV.X, V",
+    "jphiragana": "どんからす"
+  },
+  {
+    "en": "Honedge",
+    "jp": "ヒトツキ",
+    "pokedex": "679",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ひとつき"
+  },
+  {
+    "en": "Hoopa",
+    "jp": "フーパ",
+    "pokedex": "720",
+    "prefix": null,
+    "suffix": "ex, EX, GX, V",
+    "jphiragana": "ふーぱ"
+  },
+  {
+    "en": "Hoothoot",
+    "jp": "ホーホー",
+    "pokedex": "163",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ほーほー"
+  },
+  {
+    "en": "Hoppip",
+    "jp": "ハネッコ",
+    "pokedex": "187",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "はねっこ"
+  },
+  {
+    "en": "Horsea",
+    "jp": "タッツー",
+    "pokedex": "116",
+    "prefix": "Misty, カスミ, ふたごじま",
+    "suffix": "δ",
+    "jphiragana": "たっつー"
+  },
+  {
+    "en": "Houndoom",
+    "jp": "ヘルガー",
+    "pokedex": "229",
+    "prefix": "M, Team Magma, Team Rocket, カリン, マグマ団, ロケット団, わるい",
+    "suffix": "ex, EX, V, 四天王",
+    "jphiragana": "へるがー"
+  },
+  {
+    "en": "Houndour",
+    "jp": "デルビル",
+    "pokedex": "228",
+    "prefix": "Team Magma, Team Rocket, マグマ団, ロケット団",
+    "suffix": null,
+    "jphiragana": "でるびる"
+  },
+  {
+    "en": "Houndstone",
+    "jp": "ハカドッグ",
+    "pokedex": "972",
+    "prefix": null,
+    "suffix": "ex",
+    "jphiragana": "はかどっぐ"
+  },
+  {
+    "en": "Huntail",
+    "jp": "ハンテール",
+    "pokedex": "367",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "はんてーる"
+  },
+  {
+    "en": "Hydrapple",
+    "jp": "カミツオロチ",
+    "pokedex": "1019",
+    "prefix": null,
+    "suffix": "ex",
+    "jphiragana": "かみつおろち"
+  },
+  {
+    "en": "Hydreigon",
+    "jp": "サザンドラ",
+    "pokedex": "635",
+    "prefix": null,
+    "suffix": "BREAK, ex, EX",
+    "jphiragana": "さざんどら"
+  },
+  {
+    "en": "Hypno",
+    "jp": "スリーパー",
+    "pokedex": "097",
+    "prefix": "Sabrina, Team Rocket, ナツメ, マツバ, ロケット団, わるい",
+    "suffix": null,
+    "jphiragana": "すりーぱー"
+  },
+  {
+    "en": "Igglybuff",
+    "jp": "ププリン",
+    "pokedex": "174",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ぷぷりん"
+  },
+  {
+    "en": "Illumise",
+    "jp": "イルミーゼ",
+    "pokedex": "314",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "いるみーぜ"
+  },
+  {
+    "en": "Impidimp",
+    "jp": "ベロバー",
+    "pokedex": "859",
+    "prefix": "Marnie, マリィ",
+    "suffix": null,
+    "jphiragana": "べろばー"
+  },
+  {
+    "en": "Incineroar",
+    "jp": "ガオガエン",
+    "pokedex": "727",
+    "prefix": null,
+    "suffix": "ex, GX, V",
+    "jphiragana": "がおがえん"
+  },
+  {
+    "en": "Indeedee",
+    "jp": "イエッサン",
+    "pokedex": "876",
+    "prefix": null,
+    "suffix": "V",
+    "jphiragana": "いえっさん"
+  },
+  {
+    "en": "Infernape",
+    "jp": "ゴウカザル",
+    "pokedex": "392",
+    "prefix": null,
+    "suffix": "LV.X, V, 四天王",
+    "jphiragana": "ごうかざる"
+  },
+  {
+    "en": "Inkay",
+    "jp": "マーイーカ",
+    "pokedex": "686",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "まーいーか"
+  },
+  {
+    "en": "Inteleon",
+    "jp": "インテレオン",
+    "pokedex": "818",
+    "prefix": null,
+    "suffix": "V, VMAX",
+    "jphiragana": "いんてれおん"
+  },
+  {
+    "en": "Iron Boulder",
+    "jp": "テツノイワオ",
+    "pokedex": "1022",
+    "prefix": null,
+    "suffix": "ex",
+    "jphiragana": "てつのいわお"
+  },
+  {
+    "en": "Iron Bundle",
+    "jp": "テツノツツミ",
+    "pokedex": "991",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "てつのつつみ"
+  },
+  {
+    "en": "Iron Crown",
+    "jp": "テツノカシラ",
+    "pokedex": "1023",
+    "prefix": null,
+    "suffix": "ex",
+    "jphiragana": "てつのかしら"
+  },
+  {
+    "en": "Iron Hands",
+    "jp": "テツノカイナ",
+    "pokedex": "992",
+    "prefix": null,
+    "suffix": "ex",
+    "jphiragana": "てつのかいな"
+  },
+  {
+    "en": "Iron Jugulis",
+    "jp": "テツノコウベ",
+    "pokedex": "993",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "てつのこうべ"
+  },
+  {
+    "en": "Iron Leaves",
+    "jp": "テツノイサハ",
+    "pokedex": "1010",
+    "prefix": null,
+    "suffix": "ex",
+    "jphiragana": "てつのいさは"
+  },
+  {
+    "en": "Iron Moth",
+    "jp": "テツノドクガ",
+    "pokedex": "994",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "てつのどくが"
+  },
+  {
+    "en": "Iron Thorns",
+    "jp": "テツノイバラ",
+    "pokedex": "995",
+    "prefix": null,
+    "suffix": "ex",
+    "jphiragana": "てつのいばら"
+  },
+  {
+    "en": "Iron Treads",
+    "jp": "テツノワダチ",
+    "pokedex": "990",
+    "prefix": null,
+    "suffix": "ex",
+    "jphiragana": "てつのわだち"
+  },
+  {
+    "en": "Iron Valiant",
+    "jp": "テツノブジン",
+    "pokedex": "1006",
+    "prefix": null,
+    "suffix": "ex",
+    "jphiragana": "てつのぶじん"
+  },
+  {
+    "en": "Ivysaur",
+    "jp": "フシギソウ",
+    "pokedex": "002",
+    "prefix": "Erika, エリカ, わるい",
+    "suffix": null,
+    "jphiragana": "ふしぎそう"
+  },
+  {
+    "en": "Jangmo-o",
+    "jp": "ジャラコ",
+    "pokedex": "782",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "じゃらこ"
+  },
+  {
+    "en": "Jellicent",
+    "jp": "ブルンゲル",
+    "pokedex": "593",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ぶるんげる"
+  },
+  {
+    "en": "Jigglypuff",
+    "jp": "プリン",
+    "pokedex": "039",
+    "prefix": "Erika, エリカ",
+    "suffix": "GX",
+    "jphiragana": "ぷりん"
+  },
+  {
+    "en": "Jirachi",
+    "jp": "ジラーチ",
+    "pokedex": "385",
+    "prefix": "_, radiant, Shining, かがやく, ひかる, ファウンス, ポケパーク, 七夜",
+    "suffix": "ex, EX, GX, V",
+    "jphiragana": "じらーち"
+  },
+  {
+    "en": "Jolteon",
+    "jp": "サンダース",
+    "pokedex": "135",
+    "prefix": "Lt. Surge, マチス, ミカン, やさしい, わるい",
+    "suffix": "ex, EX, GX, V, VMAX, δ",
+    "jphiragana": "さんだーす"
+  },
+  {
+    "en": "Joltik",
+    "jp": "バチュル",
+    "pokedex": "595",
+    "prefix": "N",
+    "suffix": null,
+    "jphiragana": "ばちゅる"
+  },
+  {
+    "en": "Jumpluff",
+    "jp": "ワタッコ",
+    "pokedex": "189",
+    "prefix": "エリカ",
+    "suffix": null,
+    "jphiragana": "わたっこ"
+  },
+  {
+    "en": "Jynx",
+    "jp": "ルージュラ",
+    "pokedex": "124",
+    "prefix": "Sabrina, イツキ, イブキ, ナツメ",
+    "suffix": "ex, δ",
+    "jphiragana": "るーじゅら"
+  },
+  {
+    "en": "Kabuto",
+    "jp": "カブト",
+    "pokedex": "140",
+    "prefix": "タケシ, ひかる, 水の都",
+    "suffix": "δ",
+    "jphiragana": "かぶと"
+  },
+  {
+    "en": "Kabutops",
+    "jp": "カブトプス",
+    "pokedex": "141",
+    "prefix": "Shining",
+    "suffix": "ex, δ",
+    "jphiragana": "かぶとぷす"
+  },
+  {
+    "en": "Kadabra",
+    "jp": "ユンゲラー",
+    "pokedex": "064",
+    "prefix": "Sabrina, ナツメ, わるい",
+    "suffix": null,
+    "jphiragana": "ゆんげらー"
+  },
+  {
+    "en": "Kakuna",
+    "jp": "コクーン",
+    "pokedex": "014",
+    "prefix": "Koga, キョウ",
+    "suffix": null,
+    "jphiragana": "こくーん"
+  },
+  {
+    "en": "Kangaskhan",
+    "jp": "ガルーラ",
+    "pokedex": "115",
+    "prefix": "Blaine, M, カツラ, ロケット団",
+    "suffix": "ex, EX, GX",
+    "jphiragana": "がるーら"
+  },
+  {
+    "en": "Karrablast",
+    "jp": "カブルモ",
+    "pokedex": "588",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "かぶるも"
+  },
+  {
+    "en": "Kartana",
+    "jp": "カミツルギ",
+    "pokedex": "798",
+    "prefix": null,
+    "suffix": "GX",
+    "jphiragana": "かみつるぎ"
+  },
+  {
+    "en": "Kecleon",
+    "jp": "カクレオン",
+    "pokedex": "352",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "かくれおん"
+  },
+  {
+    "en": "Keldeo",
+    "jp": "ケルディオ",
+    "pokedex": "647",
+    "prefix": null,
+    "suffix": "EX, GX, V",
+    "jphiragana": "けるでぃお"
+  },
+  {
+    "en": "Kilowattrel",
+    "jp": "タイカイデン",
+    "pokedex": "941",
+    "prefix": "ナンジャモ",
+    "suffix": "ex",
+    "jphiragana": "たいかいでん"
+  },
+  {
+    "en": "Kingambit",
+    "jp": "ドドゲザン",
+    "pokedex": "983",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "どどげざん"
+  },
+  {
+    "en": "Kingdra",
+    "jp": "キングドラ",
+    "pokedex": "230",
+    "prefix": "イブキ, ワタル",
+    "suffix": "ex, EX, GX, δ",
+    "jphiragana": "きんぐどら"
+  },
+  {
+    "en": "Kingler",
+    "jp": "キングラー",
+    "pokedex": "099",
+    "prefix": null,
+    "suffix": "V, VMAX, δ",
+    "jphiragana": "きんぐらー"
+  },
+  {
+    "en": "Kirlia",
+    "jp": "キルリア",
+    "pokedex": "281",
+    "prefix": "バトラー",
+    "suffix": "δ",
+    "jphiragana": "きるりあ"
+  },
+  {
+    "en": "Klang",
+    "jp": "ギギアル",
+    "pokedex": "600",
+    "prefix": "N",
+    "suffix": null,
+    "jphiragana": "ぎぎある"
+  },
+  {
+    "en": "Klawf",
+    "jp": "ガケガニ",
+    "pokedex": "950",
+    "prefix": null,
+    "suffix": "ex",
+    "jphiragana": "がけがに"
+  },
+  {
+    "en": "Kleavor",
+    "jp": "バサギリ",
+    "pokedex": "900",
+    "prefix": null,
+    "suffix": "V, VSTAR",
+    "jphiragana": "ばさぎり"
+  },
+  {
+    "en": "Klefki",
+    "jp": "クレッフィ",
+    "pokedex": "707",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "くれっふぃ"
+  },
+  {
+    "en": "Klink",
+    "jp": "ギアル",
+    "pokedex": "599",
+    "prefix": "N",
+    "suffix": null,
+    "jphiragana": "ぎある"
+  },
+  {
+    "en": "Klinklang",
+    "jp": "ギギギアル",
+    "pokedex": "601",
+    "prefix": "N",
+    "suffix": null,
+    "jphiragana": "ぎぎぎある"
+  },
+  {
+    "en": "Koffing",
+    "jp": "ドガース",
+    "pokedex": "109",
+    "prefix": "Koga, Team Rocket, キョウ, ロケット団",
+    "suffix": null,
+    "jphiragana": "どがーす"
+  },
+  {
+    "en": "Komala",
+    "jp": "ネッコアラ",
+    "pokedex": "775",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ねっこあら"
+  },
+  {
+    "en": "Kommo-o",
+    "jp": "ジャラランガ",
+    "pokedex": "784",
+    "prefix": null,
+    "suffix": "GX",
+    "jphiragana": "じゃららんが"
+  },
+  {
+    "en": "Koraidon",
+    "jp": "コライドン",
+    "pokedex": "1007",
+    "prefix": null,
+    "suffix": "ex",
+    "jphiragana": "こらいどん"
+  },
+  {
+    "en": "Krabby",
+    "jp": "クラブ",
+    "pokedex": "098",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "くらぶ"
+  },
+  {
+    "en": "Kricketot",
+    "jp": "コロボーシ",
+    "pokedex": "401",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ころぼーし"
+  },
+  {
+    "en": "Kricketune",
+    "jp": "コロトック",
+    "pokedex": "402",
+    "prefix": null,
+    "suffix": "V",
+    "jphiragana": "ころとっく"
+  },
+  {
+    "en": "Krokorok",
+    "jp": "ワルビル",
+    "pokedex": "552",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "わるびる"
+  },
+  {
+    "en": "Krookodile",
+    "jp": "ワルビアル",
+    "pokedex": "553",
+    "prefix": null,
+    "suffix": "EX",
+    "jphiragana": "わるびある"
+  },
+  {
+    "en": "Kubfu",
+    "jp": "ダクマ",
+    "pokedex": "891",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "だくま"
+  },
+  {
+    "en": "Kyogre",
+    "jp": "カイオーガ",
+    "pokedex": "382",
+    "prefix": "_, Team Aqua, アクア団",
+    "suffix": "ex, EX, LEGEND, V",
+    "jphiragana": "かいおーが"
+  },
+  {
+    "en": "Kyurem",
+    "jp": "キュレム",
+    "pokedex": "646",
+    "prefix": null,
+    "suffix": "ex, EX, GX, V, VMAX",
+    "jphiragana": "きゅれむ"
+  },
+  {
+    "en": "Lairon",
+    "jp": "コドラ",
+    "pokedex": "305",
+    "prefix": "Team Magma, マグマ団",
+    "suffix": null,
+    "jphiragana": "こどら"
+  },
+  {
+    "en": "Lampent",
+    "jp": "ランプラー",
+    "pokedex": "608",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "らんぷらー"
+  },
+  {
+    "en": "Landorus",
+    "jp": "ランドロス",
+    "pokedex": "645",
+    "prefix": null,
+    "suffix": "EX",
+    "jphiragana": "らんどろす"
+  },
+  {
+    "en": "Lanturn",
+    "jp": "ランターン",
+    "pokedex": "171",
+    "prefix": "Team Aqua, アクア団, マチス, やさしい",
+    "suffix": null,
+    "jphiragana": "らんたーん"
+  },
+  {
+    "en": "Lapras",
+    "jp": "ラプラス",
+    "pokedex": "131",
+    "prefix": "Misty, カスミ, ヤナギ",
+    "suffix": "ex, GX, V, VMAX",
+    "jphiragana": "らぷらす"
+  },
+  {
+    "en": "Larvesta",
+    "jp": "メラルバ",
+    "pokedex": "636",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "めらるば"
+  },
+  {
+    "en": "Larvitar",
+    "jp": "ヨーギラス",
+    "pokedex": "246",
+    "prefix": "Team Rocket, ロケット団",
+    "suffix": "δ",
+    "jphiragana": "よーぎらす"
+  },
+  {
+    "en": "Latias",
+    "jp": "ラティアス",
+    "pokedex": "380",
+    "prefix": "ポケパーク, 水の都",
+    "suffix": "ex, EX, GX, δ",
+    "jphiragana": "らてぃあす"
+  },
+  {
+    "en": "Latios",
+    "jp": "ラティオス",
+    "pokedex": "381",
+    "prefix": "M, ポケパーク, 水の都",
+    "suffix": "ex, EX, GX, δ",
+    "jphiragana": "らてぃおす"
+  },
+  {
+    "en": "Leafeon",
+    "jp": "リーフィア",
+    "pokedex": "470",
+    "prefix": null,
+    "suffix": "ex, EX, GX, LV.X, V, VMAX, VSTAR",
+    "jphiragana": "りーふぃあ"
+  },
+  {
+    "en": "Leavanny",
+    "jp": "ハハコモリ",
+    "pokedex": "542",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ははこもり"
+  },
+  {
+    "en": "Lechonk",
+    "jp": "グルトン",
+    "pokedex": "915",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ぐるとん"
+  },
+  {
+    "en": "Ledian",
+    "jp": "レディアン",
+    "pokedex": "166",
+    "prefix": "ツクシ, やさしい",
+    "suffix": "δ",
+    "jphiragana": "れでぃあん"
+  },
+  {
+    "en": "Ledyba",
+    "jp": "レディバ",
+    "pokedex": "165",
+    "prefix": null,
+    "suffix": "δ",
+    "jphiragana": "れでぃば"
+  },
+  {
+    "en": "Lickilicky",
+    "jp": "ベロベルト",
+    "pokedex": "463",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "べろべると"
+  },
+  {
+    "en": "Lickitung",
+    "jp": "ベロリンガ",
+    "pokedex": "108",
+    "prefix": "Brock, アカネ, タケシ",
+    "suffix": "δ",
+    "jphiragana": "べろりんが"
+  },
+  {
+    "en": "Liepard",
+    "jp": "レパルダス",
+    "pokedex": "510",
+    "prefix": "マリィ",
+    "suffix": "V",
+    "jphiragana": "れぱるだす"
+  },
+  {
+    "en": "Lileep",
+    "jp": "リリーラ",
+    "pokedex": "345",
+    "prefix": null,
+    "suffix": "δ",
+    "jphiragana": "りりーら"
+  },
+  {
+    "en": "Lilligant",
+    "jp": "ドレディア",
+    "pokedex": "549",
+    "prefix": null,
+    "suffix": "V, VSTAR",
+    "jphiragana": "どれでぃあ"
+  },
+  {
+    "en": "Lillipup",
+    "jp": "ヨーテリー",
+    "pokedex": "506",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "よーてりー"
+  },
+  {
+    "en": "Linoone",
+    "jp": "マッスグマ",
+    "pokedex": "264",
+    "prefix": "ファウンス",
+    "suffix": null,
+    "jphiragana": "まっすぐま"
+  },
+  {
+    "en": "Litleo",
+    "jp": "シシコ",
+    "pokedex": "667",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ししこ"
+  },
+  {
+    "en": "Litten",
+    "jp": "ニャビー",
+    "pokedex": "725",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "にゃびー"
+  },
+  {
+    "en": "Litwick",
+    "jp": "ヒトモシ",
+    "pokedex": "607",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ひともし"
+  },
+  {
+    "en": "Lokix",
+    "jp": "エクスレッグ",
+    "pokedex": "920",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "えくすれっぐ"
+  },
+  {
+    "en": "Lombre",
+    "jp": "ハスブレロ",
+    "pokedex": "271",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "はすぶれろ"
+  },
+  {
+    "en": "Lopunny",
+    "jp": "ミミロップ",
+    "pokedex": "428",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "みみろっぷ"
+  },
+  {
+    "en": "Lotad",
+    "jp": "ハスボー",
+    "pokedex": "270",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "はすぼー"
+  },
+  {
+    "en": "Loudred",
+    "jp": "ドゴーム",
+    "pokedex": "294",
+    "prefix": "イマクニ?",
+    "suffix": null,
+    "jphiragana": "どごーむ"
+  },
+  {
+    "en": "Lucario",
+    "jp": "ルカリオ",
+    "pokedex": "448",
+    "prefix": "M, 伝承, 波導",
+    "suffix": "ex, EX, GL, GX, LV.X, V, VSTAR",
+    "jphiragana": "るかりお"
+  },
+  {
+    "en": "Ludicolo",
+    "jp": "ルンパッパ",
+    "pokedex": "272",
+    "prefix": null,
+    "suffix": "δ",
+    "jphiragana": "るんぱっぱ"
+  },
+  {
+    "en": "Lugia",
+    "jp": "ルギア",
+    "pokedex": "249",
+    "prefix": "Shining, ひかる, 爆誕",
+    "suffix": "BREAK, ex, EX, GX, LEGEND, V, VSTAR",
+    "jphiragana": "るぎあ"
+  },
+  {
+    "en": "Lumineon",
+    "jp": "ネオラント",
+    "pokedex": "457",
+    "prefix": null,
+    "suffix": "V",
+    "jphiragana": "ねおらんと"
+  },
+  {
+    "en": "Lunala",
+    "jp": "ルナアーラ",
+    "pokedex": "792",
+    "prefix": null,
+    "suffix": "GX",
+    "jphiragana": "るなあーら"
+  },
+  {
+    "en": "Lunatone",
+    "jp": "ルナトーン",
+    "pokedex": "337",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "るなとーん"
+  },
+  {
+    "en": "Lurantis",
+    "jp": "ラランテス",
+    "pokedex": "754",
+    "prefix": null,
+    "suffix": "GX",
+    "jphiragana": "ららんてす"
+  },
+  {
+    "en": "Luvdisc",
+    "jp": "ラブカス",
+    "pokedex": "370",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "らぶかす"
+  },
+  {
+    "en": "Luxio",
+    "jp": "ルクシオ",
+    "pokedex": "404",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "るくしお"
+  },
+  {
+    "en": "Luxray",
+    "jp": "レントラー",
+    "pokedex": "405",
+    "prefix": null,
+    "suffix": "BREAK, ex, GL, LV.X, V",
+    "jphiragana": "れんとらー"
+  },
+  {
+    "en": "Lycanroc",
+    "jp": "ルガルガン",
+    "pokedex": "745",
+    "prefix": null,
+    "suffix": "ex, GX, V, VMAX",
+    "jphiragana": "るがるがん"
+  },
+  {
+    "en": "Mabosstiff",
+    "jp": "マフィティフ",
+    "pokedex": "943",
+    "prefix": "Arven, ペパー",
+    "suffix": "ex",
+    "jphiragana": "まふぃてぃふ"
+  },
+  {
+    "en": "Machamp",
+    "jp": "カイリキー",
+    "pokedex": "068",
+    "prefix": "Giovanni, サカキ, シバ, やさしい, わるい",
+    "suffix": "BREAK, EX, GL, GX, LV.X, V, VMAX",
+    "jphiragana": "かいりきー"
+  },
+  {
+    "en": "Machoke",
+    "jp": "ゴーリキー",
+    "pokedex": "067",
+    "prefix": "Giovanni, サカキ, やさしい, わるい",
+    "suffix": null,
+    "jphiragana": "ごーりきー"
+  },
+  {
+    "en": "Machop",
+    "jp": "ワンリキー",
+    "pokedex": "066",
+    "prefix": "Giovanni, サカキ",
+    "suffix": null,
+    "jphiragana": "わんりきー"
+  },
+  {
+    "en": "Magby",
+    "jp": "ブビィ",
+    "pokedex": "240",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ぶびぃ"
+  },
+  {
+    "en": "Magcargo",
+    "jp": "マグカルゴ",
+    "pokedex": "219",
+    "prefix": "Ethan, カツラ, ヒビキ, わるい",
+    "suffix": "ex, GX",
+    "jphiragana": "まぐかるご"
+  },
+  {
+    "en": "Magearna",
+    "jp": "マギアナ",
+    "pokedex": "801",
+    "prefix": null,
+    "suffix": "EX, V",
+    "jphiragana": "まぎあな"
+  },
+  {
+    "en": "Magikarp",
+    "jp": "コイキング",
+    "pokedex": "129",
+    "prefix": "Giovanni, Misty, Shining, カスミ, サカキ, ひかる",
+    "suffix": "GX, δ",
+    "jphiragana": "こいきんぐ"
+  },
+  {
+    "en": "Magmar",
+    "jp": "ブーバー",
+    "pokedex": "126",
+    "prefix": "Blaine, カツラ, カリン",
+    "suffix": "ex",
+    "jphiragana": "ぶーばー"
+  },
+  {
+    "en": "Magmortar",
+    "jp": "ブーバーン",
+    "pokedex": "467",
+    "prefix": null,
+    "suffix": "LV.X",
+    "jphiragana": "ぶーばーん"
+  },
+  {
+    "en": "Magnemite",
+    "jp": "コイル",
+    "pokedex": "081",
+    "prefix": "Holon, Lt. Surge, ホロン, マチス, ミカン, わるい",
+    "suffix": null,
+    "jphiragana": "こいる"
+  },
+  {
+    "en": "Magneton",
+    "jp": "レアコイル",
+    "pokedex": "082",
+    "prefix": "Holon, Lt. Surge",
+    "suffix": null,
+    "jphiragana": "れあこいる"
+  },
+  {
+    "en": "Magnezone",
+    "jp": "ジバコイル",
+    "pokedex": "462",
+    "prefix": null,
+    "suffix": "ex, EX, LV.X, V, VSTAR",
+    "jphiragana": "じばこいる"
+  },
+  {
+    "en": "Makuhita",
+    "jp": "マクノシタ",
+    "pokedex": "296",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "まくのした"
+  },
+  {
+    "en": "Malamar",
+    "jp": "カラマネロ",
+    "pokedex": "687",
+    "prefix": null,
+    "suffix": "EX, V, VMAX",
+    "jphiragana": "からまねろ"
+  },
+  {
+    "en": "Mamoswine",
+    "jp": "マンムー",
+    "pokedex": "473",
+    "prefix": null,
+    "suffix": "ex, GL",
+    "jphiragana": "まんむー"
+  },
+  {
+    "en": "Manaphy",
+    "jp": "マナフィ",
+    "pokedex": "490",
+    "prefix": "マナフィ, 蒼海",
+    "suffix": "EX",
+    "jphiragana": "まなふぃ"
+  },
+  {
+    "en": "Mandibuzz",
+    "jp": "バルジーナ",
+    "pokedex": "630",
+    "prefix": null,
+    "suffix": "BREAK",
+    "jphiragana": "ばるじーな"
+  },
+  {
+    "en": "Manectric",
+    "jp": "ライボルト",
+    "pokedex": "310",
+    "prefix": "M, Team Aqua, アクア団",
+    "suffix": "ex, EX",
+    "jphiragana": "らいぼると"
+  },
+  {
+    "en": "Mankey",
+    "jp": "マンキー",
+    "pokedex": "056",
+    "prefix": "Blaine, Brock, カツラ, タケシ",
+    "suffix": "δ",
+    "jphiragana": "まんきー"
+  },
+  {
+    "en": "Mantine",
+    "jp": "マンタイン",
+    "pokedex": "226",
+    "prefix": "イブキ",
+    "suffix": "δ",
+    "jphiragana": "まんたいん"
+  },
+  {
+    "en": "Mantyke",
+    "jp": "タマンタ",
+    "pokedex": "458",
+    "prefix": "アクーシャ",
+    "suffix": null,
+    "jphiragana": "たまんた"
+  },
+  {
+    "en": "Maractus",
+    "jp": "マラカッチ",
+    "pokedex": "556",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "まらかっち"
+  },
+  {
+    "en": "Mareanie",
+    "jp": "ヒドイデ",
+    "pokedex": "747",
+    "prefix": "Marnie",
+    "suffix": null,
+    "jphiragana": "ひどいで"
+  },
+  {
+    "en": "Mareep",
+    "jp": "メリープ",
+    "pokedex": "179",
+    "prefix": "Team Rocket, ロケット団",
+    "suffix": "δ",
+    "jphiragana": "めりーぷ"
+  },
+  {
+    "en": "Marill",
+    "jp": "マリル",
+    "pokedex": "183",
+    "prefix": "やさしい",
+    "suffix": "δ",
+    "jphiragana": "まりる"
+  },
+  {
+    "en": "Marowak",
+    "jp": "ガラガラ",
+    "pokedex": "105",
+    "prefix": "マツバ, わるい",
+    "suffix": "BREAK, GX, δ",
+    "jphiragana": "がらがら"
+  },
+  {
+    "en": "Marshadow",
+    "jp": "マーシャドー",
+    "pokedex": "802",
+    "prefix": null,
+    "suffix": "GX",
+    "jphiragana": "まーしゃどー"
+  },
+  {
+    "en": "Marshtomp",
+    "jp": "ヌマクロー",
+    "pokedex": "259",
+    "prefix": "タケシ",
+    "suffix": null,
+    "jphiragana": "ぬまくろー"
+  },
+  {
+    "en": "Maschiff",
+    "jp": "オラチフ",
+    "pokedex": "942",
+    "prefix": "ペパー",
+    "suffix": null,
+    "jphiragana": "おらちふ"
+  },
+  {
+    "en": "Masquerain",
+    "jp": "アメモース",
+    "pokedex": "284",
+    "prefix": "オードリー",
+    "suffix": null,
+    "jphiragana": "あめもーす"
+  },
+  {
+    "en": "Maushold",
+    "jp": "イッカネズミ",
+    "pokedex": "925",
+    "prefix": null,
+    "suffix": "ex",
+    "jphiragana": "いっかねずみ"
+  },
+  {
+    "en": "Mawile",
+    "jp": "クチート",
+    "pokedex": "303",
+    "prefix": "M",
+    "suffix": "EX, GX, V, VSTAR",
+    "jphiragana": "くちーと"
+  },
+  {
+    "en": "Medicham",
+    "jp": "チャーレム",
+    "pokedex": "308",
+    "prefix": "ヒロミ",
+    "suffix": "ex, V",
+    "jphiragana": "ちゃーれむ"
+  },
+  {
+    "en": "Meditite",
+    "jp": "アサナン",
+    "pokedex": "307",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "あさなん"
+  },
+  {
+    "en": "Meganium",
+    "jp": "メガニウム",
+    "pokedex": "154",
+    "prefix": null,
+    "suffix": "ex, δ",
+    "jphiragana": "めがにうむ"
+  },
+  {
+    "en": "Melmetal",
+    "jp": "メルメタル",
+    "pokedex": "809",
+    "prefix": null,
+    "suffix": "ex, GX, V, VMAX",
+    "jphiragana": "めるめたる"
+  },
+  {
+    "en": "Meloetta",
+    "jp": "メロエッタ",
+    "pokedex": "648",
+    "prefix": null,
+    "suffix": "ex, EX",
+    "jphiragana": "めろえった"
+  },
+  {
+    "en": "Meltan",
+    "jp": "メルタン",
+    "pokedex": "808",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "めるたん"
+  },
+  {
+    "en": "Meowscarada",
+    "jp": "マスカーニャ",
+    "pokedex": "908",
+    "prefix": null,
+    "suffix": "ex",
+    "jphiragana": "ますかーにゃ"
+  },
+  {
+    "en": "Meowstic",
+    "jp": "ニャオニクス",
+    "pokedex": "678",
+    "prefix": null,
+    "suffix": "EX",
+    "jphiragana": "にゃおにくす"
+  },
+  {
+    "en": "Meowth",
+    "jp": "ニャース",
+    "pokedex": "052",
+    "prefix": "Giovanni, Rocket, R団, Team Rocket, サカキ, ロケット団",
+    "suffix": "V, VMAX, δ",
+    "jphiragana": "にゃーす"
+  },
+  {
+    "en": "Mesprit",
+    "jp": "エムリット",
+    "pokedex": "481",
+    "prefix": null,
+    "suffix": "LV.X",
+    "jphiragana": "えむりっと"
+  },
+  {
+    "en": "Metagross",
+    "jp": "メタグロス",
+    "pokedex": "376",
+    "prefix": "M, Steven, ダイゴ, ヒトミ",
+    "suffix": "ex, EX, GX, V, VMAX, δ",
+    "jphiragana": "めたぐろす"
+  },
+  {
+    "en": "Metang",
+    "jp": "メタング",
+    "pokedex": "375",
+    "prefix": "Steven, ダイゴ",
+    "suffix": "δ",
+    "jphiragana": "めたんぐ"
+  },
+  {
+    "en": "Metapod",
+    "jp": "トランセル",
+    "pokedex": "011",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "とらんせる"
+  },
+  {
+    "en": "Mew",
+    "jp": "ミュウ",
+    "pokedex": "151",
+    "prefix": "_, Shining, はじまりの樹, ひかる, ロータ",
+    "suffix": "ex, EX, V, VMAX, δ",
+    "jphiragana": "みゅう"
+  },
+  {
+    "en": "Mewtwo",
+    "jp": "ミュウツー",
+    "pokedex": "150",
+    "prefix": "GR団, M, Rocket, R団, Shining, Team Rocket, ひかる, ロケット団, 逆襲",
+    "suffix": "ex, EX, GX, LV.X, V, VSTAR, δ",
+    "jphiragana": "みゅうつー"
+  },
+  {
+    "en": "Mienfoo",
+    "jp": "コジョフー",
+    "pokedex": "619",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "こじょふー"
+  },
+  {
+    "en": "Mienshao",
+    "jp": "コジョンド",
+    "pokedex": "620",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "こじょんど"
+  },
+  {
+    "en": "Mightyena",
+    "jp": "グラエナ",
+    "pokedex": "262",
+    "prefix": "Team Aqua, Team Magma, アクア団, バトラー, マグマ団",
+    "suffix": "ex, δ",
+    "jphiragana": "ぐらえな"
+  },
+  {
+    "en": "Milcery",
+    "jp": "マホミル",
+    "pokedex": "868",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "まほみる"
+  },
+  {
+    "en": "Milotic",
+    "jp": "ミロカロス",
+    "pokedex": "350",
+    "prefix": "Cynthia, シロナ",
+    "suffix": "ex, V, δ",
+    "jphiragana": "みろかろす"
+  },
+  {
+    "en": "Miltank",
+    "jp": "ミルタンク",
+    "pokedex": "241",
+    "prefix": "アカネ",
+    "suffix": null,
+    "jphiragana": "みるたんく"
+  },
+  {
+    "en": "Mime Jr.",
+    "jp": "マネネ",
+    "pokedex": "439",
+    "prefix": "アイリーン, ロータ",
+    "suffix": "Jr.",
+    "jphiragana": "まねね"
+  },
+  {
+    "en": "Mimikyu",
+    "jp": "ミミッキュ",
+    "pokedex": "778",
+    "prefix": "Team Rocket, ロケット団",
+    "suffix": "ex, GX, V, VMAX, δ",
+    "jphiragana": "みみっきゅ"
+  },
+  {
+    "en": "Minccino",
+    "jp": "チラーミィ",
+    "pokedex": "572",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ちらーみぃ"
+  },
+  {
+    "en": "Minior",
+    "jp": "メテノ",
+    "pokedex": "774",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "めての"
+  },
+  {
+    "en": "Minun",
+    "jp": "マイナン",
+    "pokedex": "312",
+    "prefix": "ラルース",
+    "suffix": null,
+    "jphiragana": "まいなん"
+  },
+  {
+    "en": "Miraidon",
+    "jp": "ミライドン",
+    "pokedex": "1008",
+    "prefix": null,
+    "suffix": "ex",
+    "jphiragana": "みらいどん"
+  },
+  {
+    "en": "Misdreavus",
+    "jp": "ムウマ",
+    "pokedex": "200",
+    "prefix": "マツバ",
+    "suffix": null,
+    "jphiragana": "むうま"
+  },
+  {
+    "en": "Mismagius",
+    "jp": "ムウマージ",
+    "pokedex": "429",
+    "prefix": null,
+    "suffix": "GL, LV.X",
+    "jphiragana": "むうまーじ"
+  },
+  {
+    "en": "Moltres",
+    "jp": "ファイヤー",
+    "pokedex": "146",
+    "prefix": "Blaine, Rocket, R団, Team Rocket, カツラ, ロケット団",
+    "suffix": "ex, EX, GX, V",
+    "jphiragana": "ふぁいやー"
+  },
+  {
+    "en": "Monferno",
+    "jp": "モウカザル",
+    "pokedex": "391",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "もうかざる"
+  },
+  {
+    "en": "Morelull",
+    "jp": "ネマシュ",
+    "pokedex": "755",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ねましゅ"
+  },
+  {
+    "en": "Morgrem",
+    "jp": "ギモー",
+    "pokedex": "860",
+    "prefix": "Marnie, マリィ",
+    "suffix": null,
+    "jphiragana": "ぎもー"
+  },
+  {
+    "en": "Morpeko",
+    "jp": "モルペコ",
+    "pokedex": "877",
+    "prefix": "Marnie, マリィ",
+    "suffix": "V, VMAX",
+    "jphiragana": "もるぺこ"
+  },
+  {
+    "en": "Mothim",
+    "jp": "ガーメイル",
+    "pokedex": "414",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "がーめいる"
+  },
+  {
+    "en": "Mr. Mime",
+    "jp": "バリヤード",
+    "pokedex": "122",
+    "prefix": "Sabrina, ナツメ",
+    "suffix": "ex, GX, 四天王",
+    "jphiragana": "ばりやーど"
+  },
+  {
+    "en": "Mr. Rime",
+    "jp": "バリコオル",
+    "pokedex": "866",
+    "prefix": null,
+    "suffix": "V",
+    "jphiragana": "ばりこおる"
+  },
+  {
+    "en": "Mudbray",
+    "jp": "ドロバンコ",
+    "pokedex": "749",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "どろばんこ"
+  },
+  {
+    "en": "Mudkip",
+    "jp": "ミズゴロウ",
+    "pokedex": "258",
+    "prefix": "タケシ, ポケパーク",
+    "suffix": null,
+    "jphiragana": "みずごろう"
+  },
+  {
+    "en": "Mudsdale",
+    "jp": "バンバドロ",
+    "pokedex": "750",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ばんばどろ"
+  },
+  {
+    "en": "Muk",
+    "jp": "ベトベトン",
+    "pokedex": "089",
+    "prefix": "Koga, Team Aqua, Team Rocket, アクア団, キョウ, ロケット団, わるい",
+    "suffix": "ex, GX",
+    "jphiragana": "べとべとん"
+  },
+  {
+    "en": "Munchlax",
+    "jp": "ゴンベ",
+    "pokedex": "446",
+    "prefix": "ハルカ, ポケパーク, ラルース, ロータ",
+    "suffix": null,
+    "jphiragana": "ごんべ"
+  },
+  {
+    "en": "Munkidori",
+    "jp": "マシマシラ",
+    "pokedex": "1015",
+    "prefix": null,
+    "suffix": "ex",
+    "jphiragana": "ましましら"
+  },
+  {
+    "en": "Munna",
+    "jp": "ムンナ",
+    "pokedex": "517",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "むんな"
+  },
+  {
+    "en": "Murkrow",
+    "jp": "ヤミカラス",
+    "pokedex": "198",
+    "prefix": "Team Rocket, マツバ, ロケット団",
+    "suffix": null,
+    "jphiragana": "やみからす"
+  },
+  {
+    "en": "Musharna",
+    "jp": "ムシャーナ",
+    "pokedex": "518",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "むしゃーな"
+  },
+  {
+    "en": "Nacli",
+    "jp": "コジオ",
+    "pokedex": "932",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "こじお"
+  },
+  {
+    "en": "Naclstack",
+    "jp": "ジオヅム",
+    "pokedex": "933",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "じおづむ"
+  },
+  {
+    "en": "Naganadel",
+    "jp": "アーゴヨン",
+    "pokedex": "804",
+    "prefix": null,
+    "suffix": "GX",
+    "jphiragana": "あーごよん"
+  },
+  {
+    "en": "Natu",
+    "jp": "ネイティ",
+    "pokedex": "177",
+    "prefix": "イツキ, ナツメ, 水の都",
+    "suffix": "δ",
+    "jphiragana": "ねいてぃ"
+  },
+  {
+    "en": "Necrozma",
+    "jp": "ネクロズマ",
+    "pokedex": "800",
+    "prefix": "ネクロズマ あかつき, ネクロズマ たそがれ, ネクロズマあかつき",
+    "suffix": "GX, V",
+    "jphiragana": "ねくろずま"
+  },
+  {
+    "en": "Nickit",
+    "jp": "クスネ",
+    "pokedex": "827",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "くすね"
+  },
+  {
+    "en": "Nidoking",
+    "jp": "ニドキング",
+    "pokedex": "034",
+    "prefix": "Giovanni, Team Rocket, サカキ, ロケット団",
+    "suffix": "BREAK, ex, δ",
+    "jphiragana": "にどきんぐ"
+  },
+  {
+    "en": "Nidoqueen",
+    "jp": "ニドクイン",
+    "pokedex": "031",
+    "prefix": "Giovanni, Team Rocket, サカキ, ロケット団",
+    "suffix": "δ",
+    "jphiragana": "にどくいん"
+  },
+  {
+    "en": "Nidoran♀",
+    "jp": "ニドラン♀",
+    "pokedex": "029",
+    "prefix": "Giovanni, Team Rocket, サカキ, ロケット団",
+    "suffix": "δ",
+    "jphiragana": "にどらん♀"
+  },
+  {
+    "en": "Nidoran♂",
+    "jp": "ニドラン♂",
+    "pokedex": "032",
+    "prefix": "Giovanni, Team Rocket, サカキ, ロケット団",
+    "suffix": "δ",
+    "jphiragana": "にどらん♂"
+  },
+  {
+    "en": "Nidorina",
+    "jp": "ニドリーナ",
+    "pokedex": "030",
+    "prefix": "Giovanni, Team Rocket, サカキ, ロケット団",
+    "suffix": "δ",
+    "jphiragana": "にどりーな"
+  },
+  {
+    "en": "Nidorino",
+    "jp": "ニドリーノ",
+    "pokedex": "033",
+    "prefix": "Giovanni, Team Rocket, サカキ, ロケット団",
+    "suffix": "δ",
+    "jphiragana": "にどりーの"
+  },
+  {
+    "en": "Nihilego",
+    "jp": "ウツロイド",
+    "pokedex": "793",
+    "prefix": null,
+    "suffix": "GX",
+    "jphiragana": "うつろいど"
+  },
+  {
+    "en": "Nincada",
+    "jp": "ツチニン",
+    "pokedex": "290",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "つちにん"
+  },
+  {
+    "en": "Ninetales",
+    "jp": "キュウコン",
+    "pokedex": "038",
+    "prefix": "Blaine, Brock, カツラ, タケシ, マツバ, やさしい, わるい",
+    "suffix": "BREAK, ex, EX, GX, V, δ",
+    "jphiragana": "きゅうこん"
+  },
+  {
+    "en": "Ninjask",
+    "jp": "テッカニン",
+    "pokedex": "291",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "てっかにん"
+  },
+  {
+    "en": "Noctowl",
+    "jp": "ヨルノズク",
+    "pokedex": "164",
+    "prefix": "Shining, ひかる, マツバ",
+    "suffix": "BREAK",
+    "jphiragana": "よるのずく"
+  },
+  {
+    "en": "Noibat",
+    "jp": "オンバット",
+    "pokedex": "714",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "おんばっと"
+  },
+  {
+    "en": "Noivern",
+    "jp": "オンバーン",
+    "pokedex": "715",
+    "prefix": null,
+    "suffix": "BREAK, ex, GX, V",
+    "jphiragana": "おんばーん"
+  },
+  {
+    "en": "Nosepass",
+    "jp": "ノズパス",
+    "pokedex": "299",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "のずぱす"
+  },
+  {
+    "en": "Numel",
+    "jp": "ドンメル",
+    "pokedex": "322",
+    "prefix": "Team Magma, マグマ団",
+    "suffix": null,
+    "jphiragana": "どんめる"
+  },
+  {
+    "en": "Nuzleaf",
+    "jp": "コノハナ",
+    "pokedex": "274",
+    "prefix": "ファウンス",
+    "suffix": null,
+    "jphiragana": "このはな"
+  },
+  {
+    "en": "Nymble",
+    "jp": "マメバッタ",
+    "pokedex": "919",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "まめばった"
+  },
+  {
+    "en": "Obstagoon",
+    "jp": "タチフサグマ",
+    "pokedex": "862",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "たちふさぐま"
+  },
+  {
+    "en": "Octillery",
+    "jp": "オクタン",
+    "pokedex": "224",
+    "prefix": "わるい",
+    "suffix": null,
+    "jphiragana": "おくたん"
+  },
+  {
+    "en": "Oddish",
+    "jp": "ナゾノクサ",
+    "pokedex": "043",
+    "prefix": "Erika, エリカ",
+    "suffix": "δ",
+    "jphiragana": "なぞのくさ"
+  },
+  {
+    "en": "Ogerpon",
+    "jp": "オーガポン",
+    "pokedex": "1017",
+    "prefix": "オーガポン いしずえ, オーガポン いど, オーガポン かまど, オーガポン みどり, オーガポンみどり",
+    "suffix": null,
+    "jphiragana": "おーがぽん"
+  },
+  {
+    "en": "Oinkologne",
+    "jp": "パフュートン",
+    "pokedex": "916",
+    "prefix": null,
+    "suffix": "ex",
+    "jphiragana": "ぱふゅーとん"
+  },
+  {
+    "en": "Okidogi",
+    "jp": "イイネイヌ",
+    "pokedex": "1014",
+    "prefix": null,
+    "suffix": "ex",
+    "jphiragana": "いいねいぬ"
+  },
+  {
+    "en": "Omanyte",
+    "jp": "オムナイト",
+    "pokedex": "138",
+    "prefix": "わるい",
+    "suffix": "δ",
+    "jphiragana": "おむないと"
+  },
+  {
+    "en": "Omastar",
+    "jp": "オムスター",
+    "pokedex": "139",
+    "prefix": "タケシ, わるい",
+    "suffix": "BREAK, V, δ",
+    "jphiragana": "おむすたー"
+  },
+  {
+    "en": "Onix",
+    "jp": "イワーク",
+    "pokedex": "095",
+    "prefix": "Brock, タケシ",
+    "suffix": "GX",
+    "jphiragana": "いわーく"
+  },
+  {
+    "en": "Oranguru",
+    "jp": "ヤレユータン",
+    "pokedex": "765",
+    "prefix": null,
+    "suffix": "V",
+    "jphiragana": "やれゆーたん"
+  },
+  {
+    "en": "Orbeetle",
+    "jp": "イオルブ",
+    "pokedex": "826",
+    "prefix": "Team Rocket, ロケット団",
+    "suffix": "V, VMAX",
+    "jphiragana": "いおるぶ"
+  },
+  {
+    "en": "Oricorio",
+    "jp": "オドリドリ",
+    "pokedex": "741",
+    "prefix": null,
+    "suffix": "GX",
+    "jphiragana": "おどりどり"
+  },
+  {
+    "en": "Orthworm",
+    "jp": "ミミズズ",
+    "pokedex": "968",
+    "prefix": null,
+    "suffix": "ex",
+    "jphiragana": "みみずず"
+  },
+  {
+    "en": "Oshawott",
+    "jp": "ミジュマル",
+    "pokedex": "501",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "みじゅまる"
+  },
+  {
+    "en": "Overqwil",
+    "jp": "ハリーマン",
+    "pokedex": "904",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "はりーまん"
+  },
+  {
+    "en": "Pachirisu",
+    "jp": "パチリス",
+    "pokedex": "417",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ぱちりす"
+  },
+  {
+    "en": "Palafin",
+    "jp": "イルカマン",
+    "pokedex": "964",
+    "prefix": null,
+    "suffix": "ex",
+    "jphiragana": "いるかまん"
+  },
+  {
+    "en": "Palkia",
+    "jp": "パルキア",
+    "pokedex": "484",
+    "prefix": null,
+    "suffix": "EX, GX, LEGEND, LV.X, V, VSTAR",
+    "jphiragana": "ぱるきあ"
+  },
+  {
+    "en": "Palossand",
+    "jp": "シロデスナ",
+    "pokedex": "770",
+    "prefix": null,
+    "suffix": "ex, GX",
+    "jphiragana": "しろですな"
+  },
+  {
+    "en": "Palpitoad",
+    "jp": "ガマガル",
+    "pokedex": "536",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "がまがる"
+  },
+  {
+    "en": "Pancham",
+    "jp": "ヤンチャム",
+    "pokedex": "674",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "やんちゃむ"
+  },
+  {
+    "en": "Pangoro",
+    "jp": "ゴロンダ",
+    "pokedex": "675",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ごろんだ"
+  },
+  {
+    "en": "Panpour",
+    "jp": "ヒヤップ",
+    "pokedex": "515",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ひやっぷ"
+  },
+  {
+    "en": "Pansage",
+    "jp": "ヤナップ",
+    "pokedex": "511",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "やなっぷ"
+  },
+  {
+    "en": "Pansear",
+    "jp": "バオップ",
+    "pokedex": "513",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ばおっぷ"
+  },
+  {
+    "en": "Paras",
+    "jp": "パラス",
+    "pokedex": "046",
+    "prefix": "Erika, エリカ",
+    "suffix": null,
+    "jphiragana": "ぱらす"
+  },
+  {
+    "en": "Parasect",
+    "jp": "パラセクト",
+    "pokedex": "047",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ぱらせくと"
+  },
+  {
+    "en": "Passimian",
+    "jp": "ナゲツケサル",
+    "pokedex": "766",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "なげつけさる"
+  },
+  {
+    "en": "Patrat",
+    "jp": "ミネズミ",
+    "pokedex": "504",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "みねずみ"
+  },
+  {
+    "en": "Pawmi",
+    "jp": "パモ",
+    "pokedex": "921",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ぱも"
+  },
+  {
+    "en": "Pawmo",
+    "jp": "パモット",
+    "pokedex": "922",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ぱもっと"
+  },
+  {
+    "en": "Pawmot",
+    "jp": "パーモット",
+    "pokedex": "923",
+    "prefix": null,
+    "suffix": "ex",
+    "jphiragana": "ぱーもっと"
+  },
+  {
+    "en": "Pawniard",
+    "jp": "コマタナ",
+    "pokedex": "624",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "こまたな"
+  },
+  {
+    "en": "Pecharunt",
+    "jp": "モモワロウ",
+    "pokedex": "1025",
+    "prefix": null,
+    "suffix": "ex",
+    "jphiragana": "ももわろう"
+  },
+  {
+    "en": "Pelipper",
+    "jp": "ペリッパー",
+    "pokedex": "279",
+    "prefix": null,
+    "suffix": "δ",
+    "jphiragana": "ぺりっぱー"
+  },
+  {
+    "en": "Perrserker",
+    "jp": "ニャイキング",
+    "pokedex": "863",
+    "prefix": null,
+    "suffix": "V",
+    "jphiragana": "にゃいきんぐ"
+  },
+  {
+    "en": "Persian",
+    "jp": "ペルシアン",
+    "pokedex": "053",
+    "prefix": "Giovanni, Rocket, R団, Team Rocket, アカネ, サカキ, ロケット団, わるい",
+    "suffix": "ex, GX, δ",
+    "jphiragana": "ぺるしあん"
+  },
+  {
+    "en": "Petilil",
+    "jp": "チュリネ",
+    "pokedex": "548",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ちゅりね"
+  },
+  {
+    "en": "Phanpy",
+    "jp": "ゴマゾウ",
+    "pokedex": "231",
+    "prefix": "サトシ",
+    "suffix": null,
+    "jphiragana": "ごまぞう"
+  },
+  {
+    "en": "Phantump",
+    "jp": "ボクレー",
+    "pokedex": "708",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ぼくれー"
+  },
+  {
+    "en": "Pheromosa",
+    "jp": "フェローチェ",
+    "pokedex": "795",
+    "prefix": null,
+    "suffix": "GX",
+    "jphiragana": "ふぇろーちぇ"
+  },
+  {
+    "en": "Phione",
+    "jp": "フィオネ",
+    "pokedex": "489",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ふぃおね"
+  },
+  {
+    "en": "Pichu",
+    "jp": "ピチュー",
+    "pokedex": "172",
+    "prefix": "Ethan, いたずら好き, ヒビキ",
+    "suffix": "δ",
+    "jphiragana": "ぴちゅー"
+  },
+  {
+    "en": "Pidgeot",
+    "jp": "ピジョット",
+    "pokedex": "018",
+    "prefix": "M, アーロン, ハヤト",
+    "suffix": "ex, EX, V, δ",
+    "jphiragana": "ぴじょっと"
+  },
+  {
+    "en": "Pidgeotto",
+    "jp": "ピジョン",
+    "pokedex": "017",
+    "prefix": "Koga, キョウ, 水の都",
+    "suffix": "δ",
+    "jphiragana": "ぴじょん"
+  },
+  {
+    "en": "Pidgey",
+    "jp": "ポッポ",
+    "pokedex": "016",
+    "prefix": "Koga, キョウ",
+    "suffix": "δ",
+    "jphiragana": "ぽっぽ"
+  },
+  {
+    "en": "Pidove",
+    "jp": "マメパト",
+    "pokedex": "519",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "まめぱと"
+  },
+  {
+    "en": "Pignite",
+    "jp": "チャオブー",
+    "pokedex": "499",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ちゃおぶー"
+  },
+  {
+    "en": "Pikachu",
+    "jp": "ピカチュウ",
+    "pokedex": "025",
+    "prefix": "_, _____, Ash, Lt. Surge, イースター, オーヤマ, おかいも, カナザワ, サッポロ, サトシ, シブヤ, トウホク, なみ, ピッチ, ポケテレ, ポケパーク, マチス, まる, メガトウキョー, ヨコハマ, レッド, 救助隊DX, 日本代表, 桜アフロ, 火消し姿, 紳士風, 袴姿",
+    "suffix": "ex, EX, GX, V, VMAX, δ",
+    "jphiragana": "ぴかちゅう"
+  },
+  {
+    "en": "Pikipek",
+    "jp": "ツツケラ",
+    "pokedex": "731",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "つつけら"
+  },
+  {
+    "en": "Piloswine",
+    "jp": "イノムー",
+    "pokedex": "221",
+    "prefix": "やさしい, ヤナギ",
+    "suffix": null,
+    "jphiragana": "いのむー"
+  },
+  {
+    "en": "Pincurchin",
+    "jp": "バチンウニ",
+    "pokedex": "871",
+    "prefix": "ホップ",
+    "suffix": "V",
+    "jphiragana": "ばちんうに"
+  },
+  {
+    "en": "Pineco",
+    "jp": "クヌギダマ",
+    "pokedex": "204",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "くぬぎだま"
+  },
+  {
+    "en": "Pinsir",
+    "jp": "カイロス",
+    "pokedex": "127",
+    "prefix": "Ethan, Giovanni, サカキ, ツクシ, ヒビキ",
+    "suffix": "GX, δ",
+    "jphiragana": "かいろす"
+  },
+  {
+    "en": "Piplup",
+    "jp": "ポッチャマ",
+    "pokedex": "393",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ぽっちゃま"
+  },
+  {
+    "en": "Plusle",
+    "jp": "プラスル",
+    "pokedex": "311",
+    "prefix": "ラルース",
+    "suffix": null,
+    "jphiragana": "ぷらする"
+  },
+  {
+    "en": "Poipole",
+    "jp": "ベベノム",
+    "pokedex": "803",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "べべのむ"
+  },
+  {
+    "en": "Politoed",
+    "jp": "ニョロトノ",
+    "pokedex": "186",
+    "prefix": "イブキ, カスミ",
+    "suffix": "ex",
+    "jphiragana": "にょろとの"
+  },
+  {
+    "en": "Poliwag",
+    "jp": "ニョロモ",
+    "pokedex": "060",
+    "prefix": "Misty, カスミ",
+    "suffix": null,
+    "jphiragana": "にょろも"
+  },
+  {
+    "en": "Poliwhirl",
+    "jp": "ニョロゾ",
+    "pokedex": "061",
+    "prefix": "Misty, カスミ",
+    "suffix": null,
+    "jphiragana": "にょろぞ"
+  },
+  {
+    "en": "Poliwrath",
+    "jp": "ニョロボン",
+    "pokedex": "062",
+    "prefix": "Misty, カスミ, シジマ",
+    "suffix": null,
+    "jphiragana": "にょろぼん"
+  },
+  {
+    "en": "Poltchageist",
+    "jp": "チャデス",
+    "pokedex": "1012",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ちゃです"
+  },
+  {
+    "en": "Polteageist",
+    "jp": "ポットデス",
+    "pokedex": "855",
+    "prefix": null,
+    "suffix": "V",
+    "jphiragana": "ぽっとです"
+  },
+  {
+    "en": "Ponyta",
+    "jp": "ポニータ",
+    "pokedex": "077",
+    "prefix": "カツラ",
+    "suffix": null,
+    "jphiragana": "ぽにーた"
+  },
+  {
+    "en": "Poochyena",
+    "jp": "ポチエナ",
+    "pokedex": "261",
+    "prefix": "Team Aqua, Team Magma, アクア団, マグマ団",
+    "suffix": null,
+    "jphiragana": "ぽちえな"
+  },
+  {
+    "en": "Popplio",
+    "jp": "アシマリ",
+    "pokedex": "728",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "あしまり"
+  },
+  {
+    "en": "Porygon",
+    "jp": "ポリゴン",
+    "pokedex": "137",
+    "prefix": "Sabrina, Team Rocket, ナツメ, ロケット団, わるい",
+    "suffix": "GX, LV.X",
+    "jphiragana": "ぽりごん"
+  },
+  {
+    "en": "Porygon-Z",
+    "jp": "ポリゴンＺ",
+    "pokedex": "474",
+    "prefix": "Team Rocket",
+    "suffix": null,
+    "jphiragana": "ぽりごんＺ"
+  },
+  {
+    "en": "Porygon2",
+    "jp": "ポリゴン２",
+    "pokedex": "233",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ぽりごん２"
+  },
+  {
+    "en": "Primarina",
+    "jp": "アシレーヌ",
+    "pokedex": "730",
+    "prefix": null,
+    "suffix": "GX",
+    "jphiragana": "あしれーぬ"
+  },
+  {
+    "en": "Primeape",
+    "jp": "オコリザル",
+    "pokedex": "057",
+    "prefix": "Brock, シジマ, タケシ, わるい",
+    "suffix": "δ",
+    "jphiragana": "おこりざる"
+  },
+  {
+    "en": "Prinplup",
+    "jp": "ポッタイシ",
+    "pokedex": "394",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ぽったいし"
+  },
+  {
+    "en": "Probopass",
+    "jp": "ダイノーズ",
+    "pokedex": "476",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "だいのーず"
+  },
+  {
+    "en": "Psyduck",
+    "jp": "コダック",
+    "pokedex": "054",
+    "prefix": "Misty, Sabrina, カスミ, ナツメ",
+    "suffix": "δ",
+    "jphiragana": "こだっく"
+  },
+  {
+    "en": "Pumpkaboo",
+    "jp": "バケッチャ",
+    "pokedex": "710",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ばけっちゃ"
+  },
+  {
+    "en": "Pupitar",
+    "jp": "サナギラス",
+    "pokedex": "247",
+    "prefix": "Team Rocket, ロケット団, わるい",
+    "suffix": "δ",
+    "jphiragana": "さなぎらす"
+  },
+  {
+    "en": "Purrloin",
+    "jp": "チョロネコ",
+    "pokedex": "509",
+    "prefix": "Marnie, N, マリィ",
+    "suffix": null,
+    "jphiragana": "ちょろねこ"
+  },
+  {
+    "en": "Purugly",
+    "jp": "ブニャット",
+    "pokedex": "432",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ぶにゃっと"
+  },
+  {
+    "en": "Pyroar",
+    "jp": "カエンジシ",
+    "pokedex": "668",
+    "prefix": null,
+    "suffix": "BREAK",
+    "jphiragana": "かえんじし"
+  },
+  {
+    "en": "Pyukumuku",
+    "jp": "ナマコブシ",
+    "pokedex": "771",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "なまこぶし"
+  },
+  {
+    "en": "Quagsire",
+    "jp": "ヌオー",
+    "pokedex": "195",
+    "prefix": "カスミ",
+    "suffix": "GL, δ",
+    "jphiragana": "ぬおー"
+  },
+  {
+    "en": "Quaquaval",
+    "jp": "ウェーニバル",
+    "pokedex": "914",
+    "prefix": null,
+    "suffix": "ex",
+    "jphiragana": "うぇーにばる"
+  },
+  {
+    "en": "Quaxly",
+    "jp": "クワッス",
+    "pokedex": "912",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "くわっす"
+  },
+  {
+    "en": "Quaxwell",
+    "jp": "ウェルカモ",
+    "pokedex": "913",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "うぇるかも"
+  },
+  {
+    "en": "Quilava",
+    "jp": "マグマラシ",
+    "pokedex": "156",
+    "prefix": "Ethan, ヒビキ, わるい",
+    "suffix": "δ",
+    "jphiragana": "まぐまらし"
+  },
+  {
+    "en": "Quilladin",
+    "jp": "ハリボーグ",
+    "pokedex": "651",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "はりぼーぐ"
+  },
+  {
+    "en": "Qwilfish",
+    "jp": "ハリーセン",
+    "pokedex": "211",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "はりーせん"
+  },
+  {
+    "en": "Raboot",
+    "jp": "ラビフット",
+    "pokedex": "814",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "らびふっと"
+  },
+  {
+    "en": "Rabsca",
+    "jp": "ベラカス",
+    "pokedex": "954",
+    "prefix": null,
+    "suffix": "ex",
+    "jphiragana": "べらかす"
+  },
+  {
+    "en": "Raging Bolt",
+    "jp": "タケルライコ",
+    "pokedex": "1021",
+    "prefix": null,
+    "suffix": "ex",
+    "jphiragana": "たけるらいこ"
+  },
+  {
+    "en": "Raichu",
+    "jp": "ライチュウ",
+    "pokedex": "026",
+    "prefix": "Lt. Surge, Shining, ひかる, マチス, ミカン, わるい",
+    "suffix": "BREAK, ex, GL, GX, LV.X, V, δ",
+    "jphiragana": "らいちゅう"
+  },
+  {
+    "en": "Raikou",
+    "jp": "ライコウ",
+    "pokedex": "243",
+    "prefix": "Rocket, R団",
+    "suffix": "ex, EX, GX, LEGEND, V",
+    "jphiragana": "らいこう"
+  },
+  {
+    "en": "Ralts",
+    "jp": "ラルトス",
+    "pokedex": "280",
+    "prefix": null,
+    "suffix": "δ",
+    "jphiragana": "らるとす"
+  },
+  {
+    "en": "Rampardos",
+    "jp": "ラムパルド",
+    "pokedex": "409",
+    "prefix": null,
+    "suffix": "GL",
+    "jphiragana": "らむぱるど"
+  },
+  {
+    "en": "Rapidash",
+    "jp": "ギャロップ",
+    "pokedex": "078",
+    "prefix": "Blaine, カツラ, カリン, わるい",
+    "suffix": "V, 四天王",
+    "jphiragana": "ぎゃろっぷ"
+  },
+  {
+    "en": "Raticate",
+    "jp": "ラッタ",
+    "pokedex": "020",
+    "prefix": "Lt. Surge, Team Rocket, マチス, ロケット団, わるい",
+    "suffix": "BREAK, GX",
+    "jphiragana": "らった"
+  },
+  {
+    "en": "Rattata",
+    "jp": "コラッタ",
+    "pokedex": "019",
+    "prefix": "Lt. Surge, Team Rocket, マチス, ロケット団",
+    "suffix": null,
+    "jphiragana": "こらった"
+  },
+  {
+    "en": "Rayquaza",
+    "jp": "レックウザ",
+    "pokedex": "384",
+    "prefix": "_, M, Shining, ひかる, 天空",
+    "suffix": "ex, EX, GX, LEGEND, LV.X, V, VMAX, δ",
+    "jphiragana": "れっくうざ"
+  },
+  {
+    "en": "Regice",
+    "jp": "レジアイス",
+    "pokedex": "378",
+    "prefix": null,
+    "suffix": "ex",
+    "jphiragana": "れじあいす"
+  },
+  {
+    "en": "Regidrago",
+    "jp": "レジドラゴ",
+    "pokedex": "895",
+    "prefix": null,
+    "suffix": "V, VSTAR",
+    "jphiragana": "れじどらご"
+  },
+  {
+    "en": "Regieleki",
+    "jp": "レジエレキ",
+    "pokedex": "894",
+    "prefix": null,
+    "suffix": "V, VMAX",
+    "jphiragana": "れじえれき"
+  },
+  {
+    "en": "Regigigas",
+    "jp": "レジギガス",
+    "pokedex": "486",
+    "prefix": null,
+    "suffix": "EX, LV.X, V, VSTAR",
+    "jphiragana": "れじぎがす"
+  },
+  {
+    "en": "Regirock",
+    "jp": "レジロック",
+    "pokedex": "377",
+    "prefix": null,
+    "suffix": "ex, EX, V",
+    "jphiragana": "れじろっく"
+  },
+  {
+    "en": "Registeel",
+    "jp": "レジスチル",
+    "pokedex": "379",
+    "prefix": null,
+    "suffix": "ex, EX",
+    "jphiragana": "れじすちる"
+  },
+  {
+    "en": "Relicanth",
+    "jp": "ジーランス",
+    "pokedex": "369",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "じーらんす"
+  },
+  {
+    "en": "Rellor",
+    "jp": "シガロコ",
+    "pokedex": "953",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "しがろこ"
+  },
+  {
+    "en": "Remoraid",
+    "jp": "テッポウオ",
+    "pokedex": "223",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "てっぽうお"
+  },
+  {
+    "en": "Reshiram",
+    "jp": "レシラム",
+    "pokedex": "643",
+    "prefix": "N",
+    "suffix": "ex, EX, GX, V",
+    "jphiragana": "れしらむ"
+  },
+  {
+    "en": "Reuniclus",
+    "jp": "ランクルス",
+    "pokedex": "579",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "らんくるす"
+  },
+  {
+    "en": "Revavroom",
+    "jp": "ブロロローム",
+    "pokedex": "966",
+    "prefix": null,
+    "suffix": "ex",
+    "jphiragana": "ぶろろろーむ"
+  },
+  {
+    "en": "Rhydon",
+    "jp": "サイドン",
+    "pokedex": "112",
+    "prefix": "Brock, Team Magma, シジマ, タケシ, マグマ団",
+    "suffix": null,
+    "jphiragana": "さいどん"
+  },
+  {
+    "en": "Rhyhorn",
+    "jp": "サイホーン",
+    "pokedex": "111",
+    "prefix": "Blaine, Brock, Team Magma, カツラ, タケシ, マグマ団",
+    "suffix": null,
+    "jphiragana": "さいほーん"
+  },
+  {
+    "en": "Rhyperior",
+    "jp": "ドサイドン",
+    "pokedex": "464",
+    "prefix": null,
+    "suffix": "LV.X, V, 四天王",
+    "jphiragana": "どさいどん"
+  },
+  {
+    "en": "Ribombee",
+    "jp": "アブリボン",
+    "pokedex": "743",
+    "prefix": "Lillie, リーリエ",
+    "suffix": null,
+    "jphiragana": "あぶりぼん"
+  },
+  {
+    "en": "Rillaboom",
+    "jp": "ゴリランダー",
+    "pokedex": "812",
+    "prefix": null,
+    "suffix": "V, VMAX",
+    "jphiragana": "ごりらんだー"
+  },
+  {
+    "en": "Riolu",
+    "jp": "リオル",
+    "pokedex": "447",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "りおる"
+  },
+  {
+    "en": "Roaring Moon",
+    "jp": "トドロクツキ",
+    "pokedex": "1005",
+    "prefix": null,
+    "suffix": "ex",
+    "jphiragana": "とどろくつき"
+  },
+  {
+    "en": "Rockruff",
+    "jp": "イワンコ",
+    "pokedex": "744",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "いわんこ"
+  },
+  {
+    "en": "Roggenrola",
+    "jp": "ダンゴロ",
+    "pokedex": "524",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "だんごろ"
+  },
+  {
+    "en": "Rolycoly",
+    "jp": "タンドン",
+    "pokedex": "837",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "たんどん"
+  },
+  {
+    "en": "Rookidee",
+    "jp": "ココガラ",
+    "pokedex": "821",
+    "prefix": "Hop, ホップ",
+    "suffix": null,
+    "jphiragana": "ここがら"
+  },
+  {
+    "en": "Roselia",
+    "jp": "ロゼリア",
+    "pokedex": "315",
+    "prefix": "Cynthia, シロナ",
+    "suffix": null,
+    "jphiragana": "ろぜりあ"
+  },
+  {
+    "en": "Roserade",
+    "jp": "ロズレイド",
+    "pokedex": "407",
+    "prefix": "Cynthia, シロナ",
+    "suffix": "GL",
+    "jphiragana": "ろずれいど"
+  },
+  {
+    "en": "Rotom",
+    "jp": "ロトム",
+    "pokedex": "479",
+    "prefix": null,
+    "suffix": "V, VSTAR",
+    "jphiragana": "ろとむ"
+  },
+  {
+    "en": "Rowlet",
+    "jp": "モクロー",
+    "pokedex": "722",
+    "prefix": null,
+    "suffix": "GX",
+    "jphiragana": "もくろー"
+  },
+  {
+    "en": "Rufflet",
+    "jp": "ワシボン",
+    "pokedex": "627",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "わしぼん"
+  },
+  {
+    "en": "Runerigus",
+    "jp": "デスバーン",
+    "pokedex": "867",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ですばーん"
+  },
+  {
+    "en": "Sableye",
+    "jp": "ヤミラミ",
+    "pokedex": "302",
+    "prefix": null,
+    "suffix": "V",
+    "jphiragana": "やみらみ"
+  },
+  {
+    "en": "Salamence",
+    "jp": "ボーマンダ",
+    "pokedex": "373",
+    "prefix": "M, バトラー",
+    "suffix": "ex, EX, GX, LV.X, V, VMAX, δ",
+    "jphiragana": "ぼーまんだ"
+  },
+  {
+    "en": "Salandit",
+    "jp": "ヤトウモリ",
+    "pokedex": "757",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "やとうもり"
+  },
+  {
+    "en": "Salazzle",
+    "jp": "エンニュート",
+    "pokedex": "758",
+    "prefix": null,
+    "suffix": "GX",
+    "jphiragana": "えんにゅーと"
+  },
+  {
+    "en": "Samurott",
+    "jp": "ダイケンキ",
+    "pokedex": "503",
+    "prefix": null,
+    "suffix": "V, VSTAR",
+    "jphiragana": "だいけんき"
+  },
+  {
+    "en": "Sandaconda",
+    "jp": "サダイジャ",
+    "pokedex": "844",
+    "prefix": "Hop, ホップ",
+    "suffix": "V, VMAX",
+    "jphiragana": "さだいじゃ"
+  },
+  {
+    "en": "Sandile",
+    "jp": "メグロコ",
+    "pokedex": "551",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "めぐろこ"
+  },
+  {
+    "en": "Sandshrew",
+    "jp": "サンド",
+    "pokedex": "027",
+    "prefix": "Brock, タケシ, わるい",
+    "suffix": null,
+    "jphiragana": "さんど"
+  },
+  {
+    "en": "Sandslash",
+    "jp": "サンドパン",
+    "pokedex": "028",
+    "prefix": "Brock",
+    "suffix": "GX, δ",
+    "jphiragana": "さんどぱん"
+  },
+  {
+    "en": "Sandy Shocks",
+    "jp": "スナノケガワ",
+    "pokedex": "989",
+    "prefix": null,
+    "suffix": "ex",
+    "jphiragana": "すなのけがわ"
+  },
+  {
+    "en": "Sandygast",
+    "jp": "スナバァ",
+    "pokedex": "769",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "すなばぁ"
+  },
+  {
+    "en": "Sawk",
+    "jp": "ダゲキ",
+    "pokedex": "539",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "だげき"
+  },
+  {
+    "en": "Sawsbuck",
+    "jp": "メブキジカ",
+    "pokedex": "586",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "めぶきじか"
+  },
+  {
+    "en": "Scatterbug",
+    "jp": "コフキムシ",
+    "pokedex": "664",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "こふきむし"
+  },
+  {
+    "en": "Sceptile",
+    "jp": "ジュカイン",
+    "pokedex": "254",
+    "prefix": "M",
+    "suffix": "ex, EX, GX, δ",
+    "jphiragana": "じゅかいん"
+  },
+  {
+    "en": "Scizor",
+    "jp": "ハッサム",
+    "pokedex": "212",
+    "prefix": "M, Rocket, R団, ツクシ, わるい",
+    "suffix": "ex, EX, GX, V, VMAX, 四天王",
+    "jphiragana": "はっさむ"
+  },
+  {
+    "en": "Scolipede",
+    "jp": "ペンドラー",
+    "pokedex": "545",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ぺんどらー"
+  },
+  {
+    "en": "Scorbunny",
+    "jp": "ヒバニー",
+    "pokedex": "813",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ひばにー"
+  },
+  {
+    "en": "Scovillain",
+    "jp": "スコヴィラン",
+    "pokedex": "952",
+    "prefix": null,
+    "suffix": "ex",
+    "jphiragana": "すこヴぃらん"
+  },
+  {
+    "en": "Scrafty",
+    "jp": "ズルズキン",
+    "pokedex": "560",
+    "prefix": "マリィ",
+    "suffix": null,
+    "jphiragana": "ずるずきん"
+  },
+  {
+    "en": "Scraggy",
+    "jp": "ズルッグ",
+    "pokedex": "559",
+    "prefix": "Marnie, マリィ",
+    "suffix": null,
+    "jphiragana": "ずるっぐ"
+  },
+  {
+    "en": "Scream Tail",
+    "jp": "サケブシッポ",
+    "pokedex": "985",
+    "prefix": null,
+    "suffix": "ex",
+    "jphiragana": "さけぶしっぽ"
+  },
+  {
+    "en": "Scyther",
+    "jp": "ストライク",
+    "pokedex": "123",
+    "prefix": "Rocket, R団",
+    "suffix": "ex",
+    "jphiragana": "すとらいく"
+  },
+  {
+    "en": "Seadra",
+    "jp": "シードラ",
+    "pokedex": "117",
+    "prefix": "Misty, カスミ",
+    "suffix": "δ",
+    "jphiragana": "しーどら"
+  },
+  {
+    "en": "Seaking",
+    "jp": "アズマオウ",
+    "pokedex": "119",
+    "prefix": "Misty, カスミ",
+    "suffix": null,
+    "jphiragana": "あずまおう"
+  },
+  {
+    "en": "Sealeo",
+    "jp": "トドグラー",
+    "pokedex": "364",
+    "prefix": "Team Aqua, アクア団",
+    "suffix": null,
+    "jphiragana": "とどぐらー"
+  },
+  {
+    "en": "Seedot",
+    "jp": "タネボー",
+    "pokedex": "273",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "たねぼー"
+  },
+  {
+    "en": "Seel",
+    "jp": "パウワウ",
+    "pokedex": "086",
+    "prefix": "Misty, カスミ",
+    "suffix": "δ",
+    "jphiragana": "ぱうわう"
+  },
+  {
+    "en": "Seismitoad",
+    "jp": "ガマゲロゲ",
+    "pokedex": "537",
+    "prefix": null,
+    "suffix": "EX",
+    "jphiragana": "がまげろげ"
+  },
+  {
+    "en": "Sentret",
+    "jp": "オタチ",
+    "pokedex": "161",
+    "prefix": "アカネ",
+    "suffix": null,
+    "jphiragana": "おたち"
+  },
+  {
+    "en": "Serperior",
+    "jp": "ジャローダ",
+    "pokedex": "497",
+    "prefix": null,
+    "suffix": "ex, V, VSTAR",
+    "jphiragana": "じゃろーだ"
+  },
+  {
+    "en": "Servine",
+    "jp": "ジャノビー",
+    "pokedex": "496",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "じゃのびー"
+  },
+  {
+    "en": "Seviper",
+    "jp": "ハブネーク",
+    "pokedex": "336",
+    "prefix": "Team Aqua, アクア団",
+    "suffix": null,
+    "jphiragana": "はぶねーく"
+  },
+  {
+    "en": "Sewaddle",
+    "jp": "クルミル",
+    "pokedex": "540",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "くるみる"
+  },
+  {
+    "en": "Sharpedo",
+    "jp": "サメハダー",
+    "pokedex": "319",
+    "prefix": "M, Team Aqua, アクア団",
+    "suffix": "ex, EX, δ",
+    "jphiragana": "さめはだー"
+  },
+  {
+    "en": "Shaymin",
+    "jp": "シェイミ",
+    "pokedex": "492",
+    "prefix": "氷空",
+    "suffix": "EX, LV.X, V, VSTAR",
+    "jphiragana": "しぇいみ"
+  },
+  {
+    "en": "Shedinja",
+    "jp": "ヌケニン",
+    "pokedex": "292",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ぬけにん"
+  },
+  {
+    "en": "Shelgon",
+    "jp": "コモルー",
+    "pokedex": "372",
+    "prefix": null,
+    "suffix": "δ",
+    "jphiragana": "こもるー"
+  },
+  {
+    "en": "Shellder",
+    "jp": "シェルダー",
+    "pokedex": "090",
+    "prefix": "カスミ",
+    "suffix": "δ",
+    "jphiragana": "しぇるだー"
+  },
+  {
+    "en": "Shellos",
+    "jp": "カラナクシ",
+    "pokedex": "422",
+    "prefix": "カラナクシ にし, カラナクシ ひがし",
+    "suffix": null,
+    "jphiragana": "からなくし"
+  },
+  {
+    "en": "Shelmet",
+    "jp": "チョボマキ",
+    "pokedex": "616",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ちょぼまき"
+  },
+  {
+    "en": "Shieldon",
+    "jp": "タテトプス",
+    "pokedex": "410",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "たてとぷす"
+  },
+  {
+    "en": "Shiftry",
+    "jp": "ダーテング",
+    "pokedex": "275",
+    "prefix": null,
+    "suffix": "ex, GX",
+    "jphiragana": "だーてんぐ"
+  },
+  {
+    "en": "Shiinotic",
+    "jp": "マシェード",
+    "pokedex": "756",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ましぇーど"
+  },
+  {
+    "en": "Shinx",
+    "jp": "コリンク",
+    "pokedex": "403",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "こりんく"
+  },
+  {
+    "en": "Shroodle",
+    "jp": "シルシュルー",
+    "pokedex": "944",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "しるしゅるー"
+  },
+  {
+    "en": "Shroomish",
+    "jp": "キノココ",
+    "pokedex": "285",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "きのここ"
+  },
+  {
+    "en": "Shuckle",
+    "jp": "ツボツボ",
+    "pokedex": "213",
+    "prefix": "アンズ",
+    "suffix": "GX",
+    "jphiragana": "つぼつぼ"
+  },
+  {
+    "en": "Shuppet",
+    "jp": "カゲボウズ",
+    "pokedex": "353",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "かげぼうず"
+  },
+  {
+    "en": "Sigilyph",
+    "jp": "シンボラー",
+    "pokedex": "561",
+    "prefix": "N",
+    "suffix": "GX",
+    "jphiragana": "しんぼらー"
+  },
+  {
+    "en": "Silcoon",
+    "jp": "カラサリス",
+    "pokedex": "266",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "からさりす"
+  },
+  {
+    "en": "Silicobra",
+    "jp": "スナヘビ",
+    "pokedex": "843",
+    "prefix": "Hop, ホップ",
+    "suffix": null,
+    "jphiragana": "すなへび"
+  },
+  {
+    "en": "Silvally",
+    "jp": "シルヴァディ",
+    "pokedex": "773",
+    "prefix": null,
+    "suffix": "GX",
+    "jphiragana": "しるヴぁでぃ"
+  },
+  {
+    "en": "Simipour",
+    "jp": "ヒヤッキー",
+    "pokedex": "516",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ひやっきー"
+  },
+  {
+    "en": "Simisage",
+    "jp": "ヤナッキー",
+    "pokedex": "512",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "やなっきー"
+  },
+  {
+    "en": "Simisear",
+    "jp": "バオッキー",
+    "pokedex": "514",
+    "prefix": null,
+    "suffix": "V, VSTAR",
+    "jphiragana": "ばおっきー"
+  },
+  {
+    "en": "Sinistcha",
+    "jp": "ヤバソチャ",
+    "pokedex": "1013",
+    "prefix": null,
+    "suffix": "ex",
+    "jphiragana": "やばそちゃ"
+  },
+  {
+    "en": "Sinistea",
+    "jp": "ヤバチャ",
+    "pokedex": "854",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "やばちゃ"
+  },
+  {
+    "en": "Sirfetch'd",
+    "jp": "ネギガナイト",
+    "pokedex": "865",
+    "prefix": null,
+    "suffix": "V",
+    "jphiragana": "ねぎがないと"
+  },
+  {
+    "en": "Sizzlipede",
+    "jp": "ヤクデ",
+    "pokedex": "850",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "やくで"
+  },
+  {
+    "en": "Skarmory",
+    "jp": "エアームド",
+    "pokedex": "227",
+    "prefix": "Steven, ダイゴ, ハヤト",
+    "suffix": "ex, EX",
+    "jphiragana": "えあーむど"
+  },
+  {
+    "en": "Skeledirge",
+    "jp": "ラウドボーン",
+    "pokedex": "911",
+    "prefix": null,
+    "suffix": "ex",
+    "jphiragana": "らうどぼーん"
+  },
+  {
+    "en": "Skiddo",
+    "jp": "メェークル",
+    "pokedex": "672",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "めぇーくる"
+  },
+  {
+    "en": "Skiploom",
+    "jp": "ポポッコ",
+    "pokedex": "188",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ぽぽっこ"
+  },
+  {
+    "en": "Skitty",
+    "jp": "エネコ",
+    "pokedex": "300",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "えねこ"
+  },
+  {
+    "en": "Skorupi",
+    "jp": "スコルピ",
+    "pokedex": "451",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "すこるぴ"
+  },
+  {
+    "en": "Skrelp",
+    "jp": "クズモー",
+    "pokedex": "690",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "くずもー"
+  },
+  {
+    "en": "Skuntank",
+    "jp": "スカタンク",
+    "pokedex": "435",
+    "prefix": null,
+    "suffix": "V",
+    "jphiragana": "すかたんく"
+  },
+  {
+    "en": "Skwovet",
+    "jp": "ホシガリス",
+    "pokedex": "819",
+    "prefix": "ペパー",
+    "suffix": null,
+    "jphiragana": "ほしがりす"
+  },
+  {
+    "en": "Slaking",
+    "jp": "ケッキング",
+    "pokedex": "289",
+    "prefix": null,
+    "suffix": "ex, V",
+    "jphiragana": "けっきんぐ"
+  },
+  {
+    "en": "Slakoth",
+    "jp": "ナマケロ",
+    "pokedex": "287",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "なまけろ"
+  },
+  {
+    "en": "Sliggoo",
+    "jp": "ヌメイル",
+    "pokedex": "705",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ぬめいる"
+  },
+  {
+    "en": "Slither Wing",
+    "jp": "チヲハウハネ",
+    "pokedex": "988",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ちをはうはね"
+  },
+  {
+    "en": "Slowbro",
+    "jp": "ヤドラン",
+    "pokedex": "080",
+    "prefix": "M, Sabrina, イツキ, ナツメ, やさしい, わるい",
+    "suffix": "EX, V",
+    "jphiragana": "やどらん"
+  },
+  {
+    "en": "Slowking",
+    "jp": "ヤドキング",
+    "pokedex": "199",
+    "prefix": "イツキ, ハマちゃん, わるい",
+    "suffix": "ex, V, VMAX",
+    "jphiragana": "やどきんぐ"
+  },
+  {
+    "en": "Slowpoke",
+    "jp": "ヤドン",
+    "pokedex": "079",
+    "prefix": "Sabrina, ナツメ",
+    "suffix": "GX",
+    "jphiragana": "やどん"
+  },
+  {
+    "en": "Slugma",
+    "jp": "マグマッグ",
+    "pokedex": "218",
+    "prefix": "Ethan, ヒビキ",
+    "suffix": null,
+    "jphiragana": "まぐまっぐ"
+  },
+  {
+    "en": "Slurpuff",
+    "jp": "ペロリーム",
+    "pokedex": "685",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ぺろりーむ"
+  },
+  {
+    "en": "Smeargle",
+    "jp": "ドーブル",
+    "pokedex": "235",
+    "prefix": null,
+    "suffix": "δ",
+    "jphiragana": "どーぶる"
+  },
+  {
+    "en": "Smoliv",
+    "jp": "ミニーブ",
+    "pokedex": "928",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "みにーぶ"
+  },
+  {
+    "en": "Smoochum",
+    "jp": "ムチュール",
+    "pokedex": "238",
+    "prefix": null,
+    "suffix": "δ",
+    "jphiragana": "むちゅーる"
+  },
+  {
+    "en": "Sneasel",
+    "jp": "ニューラ",
+    "pokedex": "215",
+    "prefix": "Rocket, R団, Team Rocket, キッド, ヤナギ, ロータ, ロケット団",
+    "suffix": "ex",
+    "jphiragana": "にゅーら"
+  },
+  {
+    "en": "Sneasler",
+    "jp": "オオニューラ",
+    "pokedex": "903",
+    "prefix": "radiant, かがやく",
+    "suffix": "V",
+    "jphiragana": "おおにゅーら"
+  },
+  {
+    "en": "Snivy",
+    "jp": "ツタージャ",
+    "pokedex": "495",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "つたーじゃ"
+  },
+  {
+    "en": "Snom",
+    "jp": "ユキハミ",
+    "pokedex": "872",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ゆきはみ"
+  },
+  {
+    "en": "Snorlax",
+    "jp": "カビゴン",
+    "pokedex": "143",
+    "prefix": "Hop, Rocket, R団, ホップ",
+    "suffix": "ex, GX, LV.X, V, VMAX, δ",
+    "jphiragana": "かびごん"
+  },
+  {
+    "en": "Snorunt",
+    "jp": "ユキワラシ",
+    "pokedex": "361",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ゆきわらし"
+  },
+  {
+    "en": "Snover",
+    "jp": "ユキカブリ",
+    "pokedex": "459",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ゆきかぶり"
+  },
+  {
+    "en": "Snubbull",
+    "jp": "ブルー",
+    "pokedex": "209",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ぶるー"
+  },
+  {
+    "en": "Sobble",
+    "jp": "メッソン",
+    "pokedex": "816",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "めっそん"
+  },
+  {
+    "en": "Solgaleo",
+    "jp": "ソルガレオ",
+    "pokedex": "791",
+    "prefix": null,
+    "suffix": "GX",
+    "jphiragana": "そるがれお"
+  },
+  {
+    "en": "Solosis",
+    "jp": "ユニラン",
+    "pokedex": "577",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ゆにらん"
+  },
+  {
+    "en": "Solrock",
+    "jp": "ソルロック",
+    "pokedex": "338",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "そるろっく"
+  },
+  {
+    "en": "Spearow",
+    "jp": "オニスズメ",
+    "pokedex": "021",
+    "prefix": "Lt. Surge, マチス",
+    "suffix": null,
+    "jphiragana": "おにすずめ"
+  },
+  {
+    "en": "Spectrier",
+    "jp": "レイスポス",
+    "pokedex": "897",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "れいすぽす"
+  },
+  {
+    "en": "Spewpa",
+    "jp": "コフーライ",
+    "pokedex": "665",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "こふーらい"
+  },
+  {
+    "en": "Spheal",
+    "jp": "タマザラシ",
+    "pokedex": "363",
+    "prefix": "Team Aqua, アクア団",
+    "suffix": null,
+    "jphiragana": "たまざらし"
+  },
+  {
+    "en": "Spidops",
+    "jp": "ワナイダー",
+    "pokedex": "918",
+    "prefix": "Team Rocket, ロケット団",
+    "suffix": "ex",
+    "jphiragana": "わないだー"
+  },
+  {
+    "en": "Spinarak",
+    "jp": "イトマル",
+    "pokedex": "167",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "いとまる"
+  },
+  {
+    "en": "Spinda",
+    "jp": "パッチール",
+    "pokedex": "327",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ぱっちーる"
+  },
+  {
+    "en": "Spiritomb",
+    "jp": "ミカルゲ",
+    "pokedex": "442",
+    "prefix": "Cynthia, シロナ",
+    "suffix": null,
+    "jphiragana": "みかるげ"
+  },
+  {
+    "en": "Spoink",
+    "jp": "バネブー",
+    "pokedex": "325",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ばねぶー"
+  },
+  {
+    "en": "Sprigatito",
+    "jp": "ニャオハ",
+    "pokedex": "906",
+    "prefix": null,
+    "suffix": "ex",
+    "jphiragana": "にゃおは"
+  },
+  {
+    "en": "Spritzee",
+    "jp": "シュシュプ",
+    "pokedex": "682",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "しゅしゅぷ"
+  },
+  {
+    "en": "Squawkabilly",
+    "jp": "イキリンコ",
+    "pokedex": "931",
+    "prefix": null,
+    "suffix": "ex",
+    "jphiragana": "いきりんこ"
+  },
+  {
+    "en": "Squirtle",
+    "jp": "ゼニガメ",
+    "pokedex": "007",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ぜにがめ"
+  },
+  {
+    "en": "Stakataka",
+    "jp": "ツンデツンデ",
+    "pokedex": "805",
+    "prefix": null,
+    "suffix": "GX",
+    "jphiragana": "つんでつんで"
+  },
+  {
+    "en": "Stantler",
+    "jp": "オドシシ",
+    "pokedex": "234",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "おどしし"
+  },
+  {
+    "en": "Staraptor",
+    "jp": "ムクホーク",
+    "pokedex": "398",
+    "prefix": null,
+    "suffix": "LV.X",
+    "jphiragana": "むくほーく"
+  },
+  {
+    "en": "Staravia",
+    "jp": "ムクバード",
+    "pokedex": "397",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "むくばーど"
+  },
+  {
+    "en": "Starly",
+    "jp": "ムックル",
+    "pokedex": "396",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "むっくる"
+  },
+  {
+    "en": "Starmie",
+    "jp": "スターミー",
+    "pokedex": "121",
+    "prefix": "Misty, カスミ, わるい",
+    "suffix": "BREAK, GX, V, δ",
+    "jphiragana": "すたーみー"
+  },
+  {
+    "en": "Staryu",
+    "jp": "ヒトデマン",
+    "pokedex": "120",
+    "prefix": "Misty, カスミ",
+    "suffix": null,
+    "jphiragana": "ひとでまん"
+  },
+  {
+    "en": "Steelix",
+    "jp": "ハガネール",
+    "pokedex": "208",
+    "prefix": "M, radiant, Shining, かがやく, シバ, ひかる, ミカン, わるい",
+    "suffix": "ex, EX, GL, V",
+    "jphiragana": "はがねーる"
+  },
+  {
+    "en": "Steenee",
+    "jp": "アママイコ",
+    "pokedex": "762",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "あままいこ"
+  },
+  {
+    "en": "Stonjourner",
+    "jp": "イシヘンジン",
+    "pokedex": "874",
+    "prefix": null,
+    "suffix": "V, VMAX",
+    "jphiragana": "いしへんじん"
+  },
+  {
+    "en": "Stoutland",
+    "jp": "ムーランド",
+    "pokedex": "508",
+    "prefix": null,
+    "suffix": "V",
+    "jphiragana": "むーらんど"
+  },
+  {
+    "en": "Stufful",
+    "jp": "ヌイコグマ",
+    "pokedex": "759",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ぬいこぐま"
+  },
+  {
+    "en": "Stunfisk",
+    "jp": "マッギョ",
+    "pokedex": "618",
+    "prefix": null,
+    "suffix": "V",
+    "jphiragana": "まっぎょ"
+  },
+  {
+    "en": "Stunky",
+    "jp": "スカンプー",
+    "pokedex": "434",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "すかんぷー"
+  },
+  {
+    "en": "Sudowoodo",
+    "jp": "ウソッキー",
+    "pokedex": "185",
+    "prefix": "Ethan, ヒビキ",
+    "suffix": null,
+    "jphiragana": "うそっきー"
+  },
+  {
+    "en": "Suicune",
+    "jp": "スイクン",
+    "pokedex": "245",
+    "prefix": "Rocket, R団",
+    "suffix": "ex, GX, LEGEND, V",
+    "jphiragana": "すいくん"
+  },
+  {
+    "en": "Sunflora",
+    "jp": "キマワリ",
+    "pokedex": "192",
+    "prefix": "やさしい",
+    "suffix": null,
+    "jphiragana": "きまわり"
+  },
+  {
+    "en": "Sunkern",
+    "jp": "ヒマナッツ",
+    "pokedex": "191",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ひまなっつ"
+  },
+  {
+    "en": "Surskit",
+    "jp": "アメタマ",
+    "pokedex": "283",
+    "prefix": "キャサリン",
+    "suffix": null,
+    "jphiragana": "あめたま"
+  },
+  {
+    "en": "Swablu",
+    "jp": "チルット",
+    "pokedex": "333",
+    "prefix": null,
+    "suffix": "δ",
+    "jphiragana": "ちるっと"
+  },
+  {
+    "en": "Swadloon",
+    "jp": "クルマユ",
+    "pokedex": "541",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "くるまゆ"
+  },
+  {
+    "en": "Swalot",
+    "jp": "マルノーム",
+    "pokedex": "317",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "まるのーむ"
+  },
+  {
+    "en": "Swampert",
+    "jp": "ラグラージ",
+    "pokedex": "260",
+    "prefix": "M",
+    "suffix": "ex, EX",
+    "jphiragana": "らぐらーじ"
+  },
+  {
+    "en": "Swanna",
+    "jp": "スワンナ",
+    "pokedex": "581",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "すわんな"
+  },
+  {
+    "en": "Swellow",
+    "jp": "オオスバメ",
+    "pokedex": "277",
+    "prefix": null,
+    "suffix": "δ",
+    "jphiragana": "おおすばめ"
+  },
+  {
+    "en": "Swinub",
+    "jp": "ウリムー",
+    "pokedex": "220",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "うりむー"
+  },
+  {
+    "en": "Swirlix",
+    "jp": "ペロッパフ",
+    "pokedex": "684",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ぺろっぱふ"
+  },
+  {
+    "en": "Swoobat",
+    "jp": "ココロモリ",
+    "pokedex": "528",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "こころもり"
+  },
+  {
+    "en": "Sylveon",
+    "jp": "ニンフィア",
+    "pokedex": "700",
+    "prefix": null,
+    "suffix": "ex, EX, GX, V, VMAX",
+    "jphiragana": "にんふぃあ"
+  },
+  {
+    "en": "Tadbulb",
+    "jp": "ズピカ",
+    "pokedex": "938",
+    "prefix": "Iono, ナンジャモ",
+    "suffix": null,
+    "jphiragana": "ずぴか"
+  },
+  {
+    "en": "Taillow",
+    "jp": "スバメ",
+    "pokedex": "276",
+    "prefix": "サトシ",
+    "suffix": "δ",
+    "jphiragana": "すばめ"
+  },
+  {
+    "en": "Talonflame",
+    "jp": "ファイアロー",
+    "pokedex": "663",
+    "prefix": null,
+    "suffix": "BREAK, V",
+    "jphiragana": "ふぁいあろー"
+  },
+  {
+    "en": "Tandemaus",
+    "jp": "ワッカネズミ",
+    "pokedex": "924",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "わっかねずみ"
+  },
+  {
+    "en": "Tangela",
+    "jp": "モンジャラ",
+    "pokedex": "114",
+    "prefix": "Erika, Koga, エリカ, キョウ",
+    "suffix": null,
+    "jphiragana": "もんじゃら"
+  },
+  {
+    "en": "Tangrowth",
+    "jp": "モジャンボ",
+    "pokedex": "465",
+    "prefix": null,
+    "suffix": "LV.X",
+    "jphiragana": "もじゃんぼ"
+  },
+  {
+    "en": "Tapu Bulu",
+    "jp": "カプ・ブルル",
+    "pokedex": "787",
+    "prefix": null,
+    "suffix": "GX",
+    "jphiragana": "かぷ・ぶるる"
+  },
+  {
+    "en": "Tapu Fini",
+    "jp": "カプ・レヒレ",
+    "pokedex": "788",
+    "prefix": null,
+    "suffix": "GX",
+    "jphiragana": "かぷ・れひれ"
+  },
+  {
+    "en": "Tapu Koko",
+    "jp": "カプ・コケコ",
+    "pokedex": "785",
+    "prefix": null,
+    "suffix": "ex, GX, V, VMAX",
+    "jphiragana": "かぷ・こけこ"
+  },
+  {
+    "en": "Tapu Lele",
+    "jp": "カプ・テテフ",
+    "pokedex": "786",
+    "prefix": null,
+    "suffix": "GX",
+    "jphiragana": "かぷ・ててふ"
+  },
+  {
+    "en": "Tarountula",
+    "jp": "タマンチュラ",
+    "pokedex": "917",
+    "prefix": "Team Rocket, ロケット団",
+    "suffix": null,
+    "jphiragana": "たまんちゅら"
+  },
+  {
+    "en": "Tatsugiri",
+    "jp": "シャリタツ",
+    "pokedex": "978",
+    "prefix": null,
+    "suffix": "ex",
+    "jphiragana": "しゃりたつ"
+  },
+  {
+    "en": "Tauros",
+    "jp": "ケンタロス",
+    "pokedex": "128",
+    "prefix": "Blaine, カツラ, シジマ",
+    "suffix": "GX",
+    "jphiragana": "けんたろす"
+  },
+  {
+    "en": "Teddiursa",
+    "jp": "ヒメグマ",
+    "pokedex": "216",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ひめぐま"
+  },
+  {
+    "en": "Tentacool",
+    "jp": "メノクラゲ",
+    "pokedex": "072",
+    "prefix": "Misty, カスミ",
+    "suffix": null,
+    "jphiragana": "めのくらげ"
+  },
+  {
+    "en": "Tentacruel",
+    "jp": "ドククラゲ",
+    "pokedex": "073",
+    "prefix": "Misty, カスミ",
+    "suffix": null,
+    "jphiragana": "どくくらげ"
+  },
+  {
+    "en": "Tepig",
+    "jp": "ポカブ",
+    "pokedex": "498",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ぽかぶ"
+  },
+  {
+    "en": "Terapagos",
+    "jp": "テラパゴス",
+    "pokedex": "1024",
+    "prefix": null,
+    "suffix": "ex",
+    "jphiragana": "てらぱごす"
+  },
+  {
+    "en": "Terrakion",
+    "jp": "テラキオン",
+    "pokedex": "639",
+    "prefix": null,
+    "suffix": "EX",
+    "jphiragana": "てらきおん"
+  },
+  {
+    "en": "Thievul",
+    "jp": "フォクスライ",
+    "pokedex": "828",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ふぉくすらい"
+  },
+  {
+    "en": "Throh",
+    "jp": "ナゲキ",
+    "pokedex": "538",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "なげき"
+  },
+  {
+    "en": "Thundurus",
+    "jp": "ボルトロス",
+    "pokedex": "642",
+    "prefix": null,
+    "suffix": "EX, GX",
+    "jphiragana": "ぼるとろす"
+  },
+  {
+    "en": "Thwackey",
+    "jp": "バチンキー",
+    "pokedex": "811",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ばちんきー"
+  },
+  {
+    "en": "Timburr",
+    "jp": "ドッコラー",
+    "pokedex": "532",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "どっこらー"
+  },
+  {
+    "en": "Ting-Lu",
+    "jp": "ディンルー",
+    "pokedex": "1003",
+    "prefix": null,
+    "suffix": "ex",
+    "jphiragana": "でぃんるー"
+  },
+  {
+    "en": "Tinkatink",
+    "jp": "カヌチャン",
+    "pokedex": "957",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "かぬちゃん"
+  },
+  {
+    "en": "Tinkaton",
+    "jp": "デカヌチャン",
+    "pokedex": "959",
+    "prefix": null,
+    "suffix": "ex",
+    "jphiragana": "でかぬちゃん"
+  },
+  {
+    "en": "Tinkatuff",
+    "jp": "ナカヌチャン",
+    "pokedex": "958",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "なかぬちゃん"
+  },
+  {
+    "en": "Tirtouga",
+    "jp": "プロトーガ",
+    "pokedex": "564",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ぷろとーが"
+  },
+  {
+    "en": "Toedscool",
+    "jp": "ノノクラゲ",
+    "pokedex": "948",
+    "prefix": "ペパー",
+    "suffix": null,
+    "jphiragana": "ののくらげ"
+  },
+  {
+    "en": "Toedscruel",
+    "jp": "リククラゲ",
+    "pokedex": "949",
+    "prefix": "ペパー",
+    "suffix": "ex",
+    "jphiragana": "りくくらげ"
+  },
+  {
+    "en": "Togedemaru",
+    "jp": "トゲデマル",
+    "pokedex": "777",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "とげでまる"
+  },
+  {
+    "en": "Togekiss",
+    "jp": "トゲキッス",
+    "pokedex": "468",
+    "prefix": null,
+    "suffix": "EX, V, VMAX",
+    "jphiragana": "とげきっす"
+  },
+  {
+    "en": "Togepi",
+    "jp": "トゲピー",
+    "pokedex": "175",
+    "prefix": null,
+    "suffix": "GX, δ",
+    "jphiragana": "とげぴー"
+  },
+  {
+    "en": "Togetic",
+    "jp": "トゲチック",
+    "pokedex": "176",
+    "prefix": "ハヤト, やさしい",
+    "suffix": "δ",
+    "jphiragana": "とげちっく"
+  },
+  {
+    "en": "Torchic",
+    "jp": "アチャモ",
+    "pokedex": "255",
+    "prefix": "ハルカ, ポケパーク",
+    "suffix": null,
+    "jphiragana": "あちゃも"
+  },
+  {
+    "en": "Torkoal",
+    "jp": "コータス",
+    "pokedex": "324",
+    "prefix": "Team Magma, サトシ, マグマ団",
+    "suffix": "V",
+    "jphiragana": "こーたす"
+  },
+  {
+    "en": "Tornadus",
+    "jp": "トルネロス",
+    "pokedex": "641",
+    "prefix": null,
+    "suffix": "EX, GX, V, VMAX",
+    "jphiragana": "とるねろす"
+  },
+  {
+    "en": "Torracat",
+    "jp": "ニャヒート",
+    "pokedex": "726",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "にゃひーと"
+  },
+  {
+    "en": "Torterra",
+    "jp": "ドダイトス",
+    "pokedex": "389",
+    "prefix": null,
+    "suffix": "ex, LV.X",
+    "jphiragana": "どだいとす"
+  },
+  {
+    "en": "Totodile",
+    "jp": "ワニノコ",
+    "pokedex": "158",
+    "prefix": null,
+    "suffix": "δ",
+    "jphiragana": "わにのこ"
+  },
+  {
+    "en": "Toucannon",
+    "jp": "ドデカバシ",
+    "pokedex": "733",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "どでかばし"
+  },
+  {
+    "en": "Toxapex",
+    "jp": "ドヒドイデ",
+    "pokedex": "748",
+    "prefix": null,
+    "suffix": "GX",
+    "jphiragana": "どひどいで"
+  },
+  {
+    "en": "Toxel",
+    "jp": "エレズン",
+    "pokedex": "848",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "えれずん"
+  },
+  {
+    "en": "Toxicroak",
+    "jp": "ドクロッグ",
+    "pokedex": "454",
+    "prefix": null,
+    "suffix": "ex, EX",
+    "jphiragana": "どくろっぐ"
+  },
+  {
+    "en": "Toxtricity",
+    "jp": "ストリンダー",
+    "pokedex": "849",
+    "prefix": null,
+    "suffix": "ex, V, VMAX",
+    "jphiragana": "すとりんだー"
+  },
+  {
+    "en": "Tranquill",
+    "jp": "ハトーボー",
+    "pokedex": "520",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "はとーぼー"
+  },
+  {
+    "en": "Trapinch",
+    "jp": "ナックラー",
+    "pokedex": "328",
+    "prefix": null,
+    "suffix": "δ",
+    "jphiragana": "なっくらー"
+  },
+  {
+    "en": "Treecko",
+    "jp": "キモリ",
+    "pokedex": "252",
+    "prefix": "サトシ",
+    "suffix": "δ",
+    "jphiragana": "きもり"
+  },
+  {
+    "en": "Trevenant",
+    "jp": "オーロット",
+    "pokedex": "709",
+    "prefix": null,
+    "suffix": "BREAK, EX, GX, V, VMAX",
+    "jphiragana": "おーろっと"
+  },
+  {
+    "en": "Tropius",
+    "jp": "トロピウス",
+    "pokedex": "357",
+    "prefix": "ファウンス",
+    "suffix": "δ",
+    "jphiragana": "とろぴうす"
+  },
+  {
+    "en": "Trubbish",
+    "jp": "ヤブクロン",
+    "pokedex": "568",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "やぶくろん"
+  },
+  {
+    "en": "Trumbeak",
+    "jp": "ケララッパ",
+    "pokedex": "732",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "けららっぱ"
+  },
+  {
+    "en": "Tsareena",
+    "jp": "アマージョ",
+    "pokedex": "763",
+    "prefix": "radiant, かがやく",
+    "suffix": "ex, GX, V",
+    "jphiragana": "あまーじょ"
+  },
+  {
+    "en": "Turtonator",
+    "jp": "バクガメス",
+    "pokedex": "776",
+    "prefix": null,
+    "suffix": "GX",
+    "jphiragana": "ばくがめす"
+  },
+  {
+    "en": "Turtwig",
+    "jp": "ナエトル",
+    "pokedex": "387",
+    "prefix": null,
+    "suffix": "GL",
+    "jphiragana": "なえとる"
+  },
+  {
+    "en": "Tympole",
+    "jp": "オタマロ",
+    "pokedex": "535",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "おたまろ"
+  },
+  {
+    "en": "Tynamo",
+    "jp": "シビシラス",
+    "pokedex": "602",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "しびしらす"
+  },
+  {
+    "en": "Type: Null",
+    "jp": "タイプ：ヌル",
+    "pokedex": "772",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "たいぷ：ぬる"
+  },
+  {
+    "en": "Typhlosion",
+    "jp": "バクフーン",
+    "pokedex": "157",
+    "prefix": "Ethan, カツラ, ヒビキ, わるい",
+    "suffix": "ex, V, VSTAR, δ",
+    "jphiragana": "ばくふーん"
+  },
+  {
+    "en": "Tyranitar",
+    "jp": "バンギラス",
+    "pokedex": "248",
+    "prefix": "M, R団, Shining, Team Rocket, カリン, ひかる, ロケット団, わるい",
+    "suffix": "ex, EX, GX, V, δ",
+    "jphiragana": "ばんぎらす"
+  },
+  {
+    "en": "Tyrantrum",
+    "jp": "ガチゴラス",
+    "pokedex": "697",
+    "prefix": null,
+    "suffix": "EX",
+    "jphiragana": "がちごらす"
+  },
+  {
+    "en": "Tyrogue",
+    "jp": "バルキー",
+    "pokedex": "236",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ばるきー"
+  },
+  {
+    "en": "Tyrunt",
+    "jp": "チゴラス",
+    "pokedex": "696",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ちごらす"
+  },
+  {
+    "en": "Umbreon",
+    "jp": "ブラッキー",
+    "pokedex": "197",
+    "prefix": null,
+    "suffix": "ex, EX, GX, V, VMAX, δ",
+    "jphiragana": "ぶらっきー"
+  },
+  {
+    "en": "Unfezant",
+    "jp": "ケンホロウ",
+    "pokedex": "521",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "けんほろう"
+  },
+  {
+    "en": "Unown",
+    "jp": "アンノーン",
+    "pokedex": "201",
+    "prefix": null,
+    "suffix": "V, VSTAR",
+    "jphiragana": "あんのーん"
+  },
+  {
+    "en": "Ursaluna",
+    "jp": "ガチグマ",
+    "pokedex": "901",
+    "prefix": null,
+    "suffix": "ex, V",
+    "jphiragana": "がちぐま"
+  },
+  {
+    "en": "Ursaring",
+    "jp": "リングマ",
+    "pokedex": "217",
+    "prefix": "シバ, わるい",
+    "suffix": "ex",
+    "jphiragana": "りんぐま"
+  },
+  {
+    "en": "Urshifu",
+    "jp": "ウーラオス",
+    "pokedex": "892",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "うーらおす"
+  },
+  {
+    "en": "Uxie",
+    "jp": "ユクシー",
+    "pokedex": "480",
+    "prefix": null,
+    "suffix": "LV.X",
+    "jphiragana": "ゆくしー"
+  },
+  {
+    "en": "Vanillish",
+    "jp": "バニリッチ",
+    "pokedex": "583",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ばにりっち"
+  },
+  {
+    "en": "Vanillite",
+    "jp": "バニプッチ",
+    "pokedex": "582",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ばにぷっち"
+  },
+  {
+    "en": "Vanilluxe",
+    "jp": "バイバニラ",
+    "pokedex": "584",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ばいばにら"
+  },
+  {
+    "en": "Vaporeon",
+    "jp": "シャワーズ",
+    "pokedex": "134",
+    "prefix": "やさしい, わるい",
+    "suffix": "ex, EX, GX, V, VMAX, δ",
+    "jphiragana": "しゃわーず"
+  },
+  {
+    "en": "Varoom",
+    "jp": "ブロロン",
+    "pokedex": "965",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ぶろろん"
+  },
+  {
+    "en": "Veluza",
+    "jp": "ミガルーサ",
+    "pokedex": "976",
+    "prefix": null,
+    "suffix": "ex",
+    "jphiragana": "みがるーさ"
+  },
+  {
+    "en": "Venipede",
+    "jp": "フシデ",
+    "pokedex": "543",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ふしで"
+  },
+  {
+    "en": "Venomoth",
+    "jp": "モルフォン",
+    "pokedex": "049",
+    "prefix": "Sabrina, アンズ, ナツメ, やさしい",
+    "suffix": "GX",
+    "jphiragana": "もるふぉん"
+  },
+  {
+    "en": "Venonat",
+    "jp": "コンパン",
+    "pokedex": "048",
+    "prefix": "Sabrina, ナツメ",
+    "suffix": null,
+    "jphiragana": "こんぱん"
+  },
+  {
+    "en": "Venusaur",
+    "jp": "フシギバナ",
+    "pokedex": "003",
+    "prefix": "Erika, M, radiant, エリカ, かがやく, わるい",
+    "suffix": "ex, EX, GX, V, VMAX",
+    "jphiragana": "ふしぎばな"
+  },
+  {
+    "en": "Vespiquen",
+    "jp": "ビークイン",
+    "pokedex": "416",
+    "prefix": null,
+    "suffix": "ex, 四天王",
+    "jphiragana": "びーくいん"
+  },
+  {
+    "en": "Vibrava",
+    "jp": "ビブラーバ",
+    "pokedex": "329",
+    "prefix": null,
+    "suffix": "δ",
+    "jphiragana": "びぶらーば"
+  },
+  {
+    "en": "Victini",
+    "jp": "ビクティニ",
+    "pokedex": "494",
+    "prefix": null,
+    "suffix": "ex, EX, V, VMAX",
+    "jphiragana": "びくてぃに"
+  },
+  {
+    "en": "Victreebel",
+    "jp": "ウツボット",
+    "pokedex": "071",
+    "prefix": "Erika, エリカ",
+    "suffix": null,
+    "jphiragana": "うつぼっと"
+  },
+  {
+    "en": "Vigoroth",
+    "jp": "ヤルキモノ",
+    "pokedex": "288",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "やるきもの"
+  },
+  {
+    "en": "Vikavolt",
+    "jp": "クワガノン",
+    "pokedex": "738",
+    "prefix": null,
+    "suffix": "GX, V",
+    "jphiragana": "くわがのん"
+  },
+  {
+    "en": "Vileplume",
+    "jp": "ラフレシア",
+    "pokedex": "045",
+    "prefix": "Erika, エリカ, わるい",
+    "suffix": "ex, GX, δ",
+    "jphiragana": "らふれしあ"
+  },
+  {
+    "en": "Virizion",
+    "jp": "ビリジオン",
+    "pokedex": "640",
+    "prefix": null,
+    "suffix": "EX, GX, V",
+    "jphiragana": "びりじおん"
+  },
+  {
+    "en": "Vivillon",
+    "jp": "ビビヨン",
+    "pokedex": "666",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "びびよん"
+  },
+  {
+    "en": "Volbeat",
+    "jp": "バルビート",
+    "pokedex": "313",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ばるびーと"
+  },
+  {
+    "en": "Volcanion",
+    "jp": "ボルケニオン",
+    "pokedex": "721",
+    "prefix": "Shining, ひかる",
+    "suffix": "ex, EX, V",
+    "jphiragana": "ぼるけにおん"
+  },
+  {
+    "en": "Volcarona",
+    "jp": "ウルガモス",
+    "pokedex": "637",
+    "prefix": null,
+    "suffix": "GX, V",
+    "jphiragana": "うるがもす"
+  },
+  {
+    "en": "Voltorb",
+    "jp": "ビリリダマ",
+    "pokedex": "100",
+    "prefix": "Holon, Iono, Lt. Surge, ナンジャモ, ホロン, マチス",
+    "suffix": "ex",
+    "jphiragana": "びりりだま"
+  },
+  {
+    "en": "Vullaby",
+    "jp": "バルチャイ",
+    "pokedex": "629",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ばるちゃい"
+  },
+  {
+    "en": "Vulpix",
+    "jp": "ロコン",
+    "pokedex": "037",
+    "prefix": "カツラ, タケシ",
+    "suffix": "V, VSTAR, δ",
+    "jphiragana": "ろこん"
+  },
+  {
+    "en": "Wailmer",
+    "jp": "ホエルコ",
+    "pokedex": "320",
+    "prefix": "ロッシ",
+    "suffix": null,
+    "jphiragana": "ほえるこ"
+  },
+  {
+    "en": "Wailord",
+    "jp": "ホエルオー",
+    "pokedex": "321",
+    "prefix": null,
+    "suffix": "ex, EX, V",
+    "jphiragana": "ほえるおー"
+  },
+  {
+    "en": "Walking Wake",
+    "jp": "ウネルミナモ",
+    "pokedex": "1009",
+    "prefix": null,
+    "suffix": "ex",
+    "jphiragana": "うねるみなも"
+  },
+  {
+    "en": "Walrein",
+    "jp": "トドゼルガ",
+    "pokedex": "365",
+    "prefix": "Team Aqua, アクア団, シップ",
+    "suffix": "ex",
+    "jphiragana": "とどぜるが"
+  },
+  {
+    "en": "Wartortle",
+    "jp": "カメール",
+    "pokedex": "008",
+    "prefix": "わるい",
+    "suffix": null,
+    "jphiragana": "かめーる"
+  },
+  {
+    "en": "Watchog",
+    "jp": "ミルホッグ",
+    "pokedex": "505",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "みるほっぐ"
+  },
+  {
+    "en": "Wattrel",
+    "jp": "カイデン",
+    "pokedex": "940",
+    "prefix": "ナンジャモ",
+    "suffix": null,
+    "jphiragana": "かいでん"
+  },
+  {
+    "en": "Weavile",
+    "jp": "マニューラ",
+    "pokedex": "461",
+    "prefix": null,
+    "suffix": "GX",
+    "jphiragana": "まにゅーら"
+  },
+  {
+    "en": "Weedle",
+    "jp": "ビードル",
+    "pokedex": "013",
+    "prefix": "Koga, キョウ",
+    "suffix": null,
+    "jphiragana": "びーどる"
+  },
+  {
+    "en": "Weepinbell",
+    "jp": "ウツドン",
+    "pokedex": "070",
+    "prefix": "Erika, エリカ",
+    "suffix": null,
+    "jphiragana": "うつどん"
+  },
+  {
+    "en": "Weezing",
+    "jp": "マタドガス",
+    "pokedex": "110",
+    "prefix": "Koga, Team Rocket, アンズ, キョウ, ロケット団, わるい",
+    "suffix": null,
+    "jphiragana": "またどがす"
+  },
+  {
+    "en": "Whimsicott",
+    "jp": "エルフーン",
+    "pokedex": "547",
+    "prefix": null,
+    "suffix": "GX, V, VSTAR",
+    "jphiragana": "えるふーん"
+  },
+  {
+    "en": "Whirlipede",
+    "jp": "ホイーガ",
+    "pokedex": "544",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ほいーが"
+  },
+  {
+    "en": "Whiscash",
+    "jp": "ナマズン",
+    "pokedex": "340",
+    "prefix": null,
+    "suffix": "四天王",
+    "jphiragana": "なまずん"
+  },
+  {
+    "en": "Whismur",
+    "jp": "ゴニョニョ",
+    "pokedex": "293",
+    "prefix": "イマクニ?, ポケパーク",
+    "suffix": null,
+    "jphiragana": "ごにょにょ"
+  },
+  {
+    "en": "Wigglytuff",
+    "jp": "プクリン",
+    "pokedex": "040",
+    "prefix": "アカネ, やさしい, わるい",
+    "suffix": "ex, GX",
+    "jphiragana": "ぷくりん"
+  },
+  {
+    "en": "Wiglett",
+    "jp": "ウミディグダ",
+    "pokedex": "960",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "うみでぃぐだ"
+  },
+  {
+    "en": "Wimpod",
+    "jp": "コソクムシ",
+    "pokedex": "767",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "こそくむし"
+  },
+  {
+    "en": "Wingull",
+    "jp": "キャモメ",
+    "pokedex": "278",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "きゃもめ"
+  },
+  {
+    "en": "Wishiwashi",
+    "jp": "ヨワシ",
+    "pokedex": "746",
+    "prefix": null,
+    "suffix": "GX",
+    "jphiragana": "よわし"
+  },
+  {
+    "en": "Wo-Chien",
+    "jp": "チオンジェン",
+    "pokedex": "1001",
+    "prefix": null,
+    "suffix": "ex",
+    "jphiragana": "ちおんじぇん"
+  },
+  {
+    "en": "Wobbuffet",
+    "jp": "ソーナンス",
+    "pokedex": "202",
+    "prefix": "Rocket, R団, Team Rocket, ロケット団",
+    "suffix": "BREAK, V",
+    "jphiragana": "そーなんす"
+  },
+  {
+    "en": "Woobat",
+    "jp": "コロモリ",
+    "pokedex": "527",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ころもり"
+  },
+  {
+    "en": "Wooloo",
+    "jp": "ウールー",
+    "pokedex": "831",
+    "prefix": "Hop, ホップ",
+    "suffix": null,
+    "jphiragana": "うーるー"
+  },
+  {
+    "en": "Wooper",
+    "jp": "ウパー",
+    "pokedex": "194",
+    "prefix": null,
+    "suffix": "δ",
+    "jphiragana": "うぱー"
+  },
+  {
+    "en": "Wormadam",
+    "jp": "ミノマダム",
+    "pokedex": "413",
+    "prefix": "ミノマダム くさき, ミノマダム ゴミ, ミノマダム すなち",
+    "suffix": null,
+    "jphiragana": "みのまだむ"
+  },
+  {
+    "en": "Wugtrio",
+    "jp": "ウミトリオ",
+    "pokedex": "961",
+    "prefix": null,
+    "suffix": "ex",
+    "jphiragana": "うみとりお"
+  },
+  {
+    "en": "Wurmple",
+    "jp": "ケムッソ",
+    "pokedex": "265",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "けむっそ"
+  },
+  {
+    "en": "Wynaut",
+    "jp": "ソーナノ",
+    "pokedex": "360",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "そーなの"
+  },
+  {
+    "en": "Wyrdeer",
+    "jp": "アヤシシ",
+    "pokedex": "899",
+    "prefix": null,
+    "suffix": "V",
+    "jphiragana": "あやしし"
+  },
+  {
+    "en": "Xatu",
+    "jp": "ネイティオ",
+    "pokedex": "178",
+    "prefix": null,
+    "suffix": "δ",
+    "jphiragana": "ねいてぃお"
+  },
+  {
+    "en": "Xerneas",
+    "jp": "ゼルネアス",
+    "pokedex": "716",
+    "prefix": null,
+    "suffix": "BREAK, EX, GX",
+    "jphiragana": "ぜるねあす"
+  },
+  {
+    "en": "Xurkitree",
+    "jp": "デンジュモク",
+    "pokedex": "796",
+    "prefix": null,
+    "suffix": "GX",
+    "jphiragana": "でんじゅもく"
+  },
+  {
+    "en": "Yamask",
+    "jp": "デスマス",
+    "pokedex": "562",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ですます"
+  },
+  {
+    "en": "Yamper",
+    "jp": "ワンパチ",
+    "pokedex": "835",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "わんぱち"
+  },
+  {
+    "en": "Yanma",
+    "jp": "ヤンヤンマ",
+    "pokedex": "193",
+    "prefix": "ツクシ",
+    "suffix": null,
+    "jphiragana": "やんやんま"
+  },
+  {
+    "en": "Yanmega",
+    "jp": "メガヤンマ",
+    "pokedex": "469",
+    "prefix": null,
+    "suffix": "BREAK, ex, 四天王",
+    "jphiragana": "めがやんま"
+  },
+  {
+    "en": "Yungoos",
+    "jp": "ヤングース",
+    "pokedex": "734",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "やんぐーす"
+  },
+  {
+    "en": "Yveltal",
+    "jp": "イベルタル",
+    "pokedex": "717",
+    "prefix": null,
+    "suffix": "BREAK, EX, GX",
+    "jphiragana": "いべるたる"
+  },
+  {
+    "en": "Zacian",
+    "jp": "ザシアン",
+    "pokedex": "888",
+    "prefix": "Hop, ホップ",
+    "suffix": "ex, LV.X, V, VSTAR",
+    "jphiragana": "ざしあん"
+  },
+  {
+    "en": "Zamazenta",
+    "jp": "ザマゼンタ",
+    "pokedex": "889",
+    "prefix": null,
+    "suffix": "V, VSTAR",
+    "jphiragana": "ざまぜんた"
+  },
+  {
+    "en": "Zangoose",
+    "jp": "ザングース",
+    "pokedex": "335",
+    "prefix": "Team Magma, マグマ団",
+    "suffix": "δ",
+    "jphiragana": "ざんぐーす"
+  },
+  {
+    "en": "Zapdos",
+    "jp": "サンダー",
+    "pokedex": "145",
+    "prefix": "Rocket, R団, Team Rocket, ロケット団",
+    "suffix": "ex, EX, V",
+    "jphiragana": "さんだー"
+  },
+  {
+    "en": "Zarude",
+    "jp": "ザルード",
+    "pokedex": "893",
+    "prefix": null,
+    "suffix": "V",
+    "jphiragana": "ざるーど"
+  },
+  {
+    "en": "Zebstrika",
+    "jp": "ゼブライカ",
+    "pokedex": "523",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "ぜぶらいか"
+  },
+  {
+    "en": "Zekrom",
+    "jp": "ゼクロム",
+    "pokedex": "644",
+    "prefix": null,
+    "suffix": "ex, EX, GX",
+    "jphiragana": "ぜくろむ"
+  },
+  {
+    "en": "Zeraora",
+    "jp": "ゼラオラ",
+    "pokedex": "807",
+    "prefix": null,
+    "suffix": "GX, V, VMAX, VSTAR",
+    "jphiragana": "ぜらおら"
+  },
+  {
+    "en": "Zigzagoon",
+    "jp": "ジグザグマ",
+    "pokedex": "263",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "じぐざぐま"
+  },
+  {
+    "en": "Zoroark",
+    "jp": "ゾロアーク",
+    "pokedex": "571",
+    "prefix": "N, 幻影",
+    "suffix": "BREAK, ex, GX, V, VSTAR",
+    "jphiragana": "ぞろあーく"
+  },
+  {
+    "en": "Zorua",
+    "jp": "ゾロア",
+    "pokedex": "570",
+    "prefix": "N, 幻影",
+    "suffix": null,
+    "jphiragana": "ぞろあ"
+  },
+  {
+    "en": "Zubat",
+    "jp": "ズバット",
+    "pokedex": "041",
+    "prefix": "Brock, Koga, Team Rocket, キョウ, タケシ, ロケット団",
+    "suffix": null,
+    "jphiragana": "ずばっと"
+  },
+  {
+    "en": "Zweilous",
+    "jp": "ジヘッド",
+    "pokedex": "634",
+    "prefix": null,
+    "suffix": null,
+    "jphiragana": "じへっど"
+  },
+  {
+    "en": "Zygarde",
+    "jp": "ジガルデ",
+    "pokedex": "718",
+    "prefix": null,
+    "suffix": "EX, GX",
+    "jphiragana": "じがるで"
+  }
+]
