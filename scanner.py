@@ -765,7 +765,10 @@ def detect_all_blobs(image_path):
 
 def detect_all_blobs_from_array(color_img):
     """detect_all_blobs but from an in-memory numpy array (no file I/O)."""
-    raw_img = np.mean(color_img.astype(float), axis=2) / 255.0
+    # Use luminance-weighted grayscale (same as iio.imread mode='L')
+    raw_img = (0.299 * color_img[:,:,0].astype(float) +
+               0.587 * color_img[:,:,1].astype(float) +
+               0.114 * color_img[:,:,2].astype(float)) / 255.0
     enhanced = exposure.rescale_intensity(raw_img)
     total_pixels = raw_img.shape[0] * raw_img.shape[1]
     min_area = total_pixels * 0.02
