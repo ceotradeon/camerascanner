@@ -6,22 +6,20 @@ POST /scan: Upload photo → detect & identify Pokemon cards → return JSON
 from fastapi import FastAPI, UploadFile, File, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from contextlib import asynccontextmanager
-import numpy as np
-import imageio.v3 as iio
 import cv2
-import io
 import os
 import time
 import asyncio
 import threading
+import tempfile
 import logging
 
 from scanner import (
     OCREngines,
-    detect_all_blobs_from_array,
+    detect_all_blobs,
     orient_card,
     apply_orientation,
-    process_single_blob_api,
+    process_single_blob,
     load_pokemon_db_from_json,
 )
 
@@ -84,15 +82,10 @@ async def scan_cards(image: UploadFile = File(...), max_cards: int = 9):
     if len(contents) > 10 * 1024 * 1024:
         raise HTTPException(413, "Image too large (max 10MB)")
 
-    try:
-        color_img = iio.imread(io.BytesIO(contents))
-    except Exception as e:
-        raise HTTPException(400, f"Invalid image: {e}")
-
     start = time.time()
     loop = asyncio.get_event_loop()
     results = await loop.run_in_executor(
-        None, _run_pipeline, color_img, max_cards
+        None, _run_pipeline, contents, max_cards
     )
     elapsed_ms = int((time.time() - start) * 1000)
 
@@ -147,65 +140,90 @@ def _clean_pokemon_match(pm):
     }
 
 
-def _run_pipeline(color_img, max_cards):
-    """Full scanner pipeline (runs in thread pool)."""
-    clahe = cv2.createCLAHE(clipLimit=3.0, tileGridSize=(8, 8))
+def _run_pipeline(image_bytes, max_cards):
+    """Full scanner pipeline (runs in thread pool).
+    Saves to temp file so detect_all_blobs uses the EXACT same
+    iio.imread code path as the local multicardv2.py scanner."""
 
-    blobs, raw_img, color_img, enhanced = detect_all_blobs_from_array(color_img)
-    if not blobs:
-        return []
+    # Save to temp file — identical to reading from disk locally
+    with tempfile.NamedTemporaryFile(suffix='.jpg', delete=False) as f:
+        f.write(image_bytes)
+        temp_path = f.name
 
-    card_blobs = [b for b in blobs if b["is_card_like"]]
-    if not card_blobs:
-        card_blobs = blobs[:5]
-    card_blobs = card_blobs[:max_cards]
+    try:
+        clahe = cv2.createCLAHE(clipLimit=3.0, tileGridSize=(8, 8))
 
-    # Phase 1: Orient all cards
-    orient_data_list = []
-    for i, blob in enumerate(card_blobs):
-        od = orient_card(blob, color_img, enhanced, engines, i)
-        orient_data_list.append(od)
+        blobs, raw_img, color_img, enhanced = detect_all_blobs(temp_path)
+        if not blobs:
+            return []
 
-    # Phase 2: Majority vote
-    WEAK_THRESHOLD = 3
-    total_signal = sum(od["orient_score"] for od in orient_data_list)
-    majority_flip = total_signal < 0
+        card_blobs = [b for b in blobs if b["is_card_like"]]
+        if not card_blobs:
+            card_blobs = blobs[:5]
+        card_blobs = card_blobs[:max_cards]
 
-    orientations = []
-    for i, od in enumerate(orient_data_list):
-        score = od["orient_score"]
-        if score >= WEAK_THRESHOLD:
-            flip = False
-        elif score <= -WEAK_THRESHOLD:
-            flip = True
-        else:
-            flip = score < 0
-        if len(card_blobs) >= 3 and abs(score) < WEAK_THRESHOLD:
-            flip = majority_flip
-        orientations.append(flip)
+        # Phase 1: Orient all cards
+        orient_data_list = []
+        for i, blob in enumerate(card_blobs):
+            od = orient_card(blob, color_img, enhanced, engines, i)
+            orient_data_list.append(od)
 
-    # Phase 3: Process each card
-    yomitoku_lock = threading.Lock()
-    from concurrent.futures import ThreadPoolExecutor, as_completed
+        # Phase 2: Majority vote
+        WEAK_THRESHOLD = 3
+        total_signal = sum(od["orient_score"] for od in orient_data_list)
+        majority_flip = total_signal < 0
 
-    def _process(args):
-        i, blob = args
-        return process_single_blob_api(
-            blob, color_img, enhanced, clahe,
-            blob_index=i, engines=engines, pokemon_db=pokemon_db,
-            orient_data=orient_data_list[i], card_flipped=orientations[i],
-            yomitoku_lock=yomitoku_lock,
-        )
+        orientations = []
+        n_overridden = 0
+        for i, od in enumerate(orient_data_list):
+            score = od["orient_score"]
+            if score >= WEAK_THRESHOLD:
+                individual_flip = False
+            elif score <= -WEAK_THRESHOLD:
+                individual_flip = True
+            else:
+                individual_flip = score < 0
 
-    results_by_idx = {}
-    with ThreadPoolExecutor(max_workers=3) as pool:
-        futures = {pool.submit(_process, (i, blob)): i
-                   for i, blob in enumerate(card_blobs)}
-        for future in as_completed(futures):
-            idx = futures[future]
-            try:
-                results_by_idx[idx] = future.result()
-            except Exception as e:
-                results_by_idx[idx] = {"summary": f"Error: {e}"}
+            if len(card_blobs) >= 3 and abs(score) < WEAK_THRESHOLD:
+                final_flip = majority_flip
+                if final_flip != individual_flip:
+                    n_overridden += 1
+            else:
+                final_flip = individual_flip
+            orientations.append(final_flip)
 
-    return [results_by_idx[i] for i in range(len(card_blobs))]
+        # Phase 3: Process each card
+        yomitoku_lock = threading.Lock()
+        from concurrent.futures import ThreadPoolExecutor, as_completed
+
+        def _process(args):
+            i, blob = args
+            result = process_single_blob(
+                blob, color_img, enhanced, clahe, temp_path,
+                blob_index=i, engines=engines, pokemon_db=pokemon_db,
+                orient_data=orient_data_list[i], card_flipped=orientations[i],
+                yomitoku_lock=yomitoku_lock,
+            )
+            # Strip non-serializable numpy arrays for JSON response
+            result.pop('ocr_img', None)
+            if result.get('best_match'):
+                result['best_match'].pop('ref_img', None)
+            if 'ocr_detections' in result:
+                result['ocr_detections'].pop('all_text', None)
+            return result
+
+        results_by_idx = {}
+        with ThreadPoolExecutor(max_workers=3) as pool:
+            futures = {pool.submit(_process, (i, blob)): i
+                       for i, blob in enumerate(card_blobs)}
+            for future in as_completed(futures):
+                idx = futures[future]
+                try:
+                    results_by_idx[idx] = future.result()
+                except Exception as e:
+                    results_by_idx[idx] = {"summary": f"Error: {e}"}
+
+        return [results_by_idx[i] for i in range(len(card_blobs))]
+
+    finally:
+        os.unlink(temp_path)

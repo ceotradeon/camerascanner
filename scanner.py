@@ -763,34 +763,6 @@ def detect_all_blobs(image_path):
     return blobs, raw_img, color_img, enhanced
 
 
-def detect_all_blobs_from_array(color_img):
-    """detect_all_blobs but from an in-memory numpy array (no file I/O)."""
-    # Use luminance-weighted grayscale (same as iio.imread mode='L')
-    raw_img = (0.299 * color_img[:,:,0].astype(float) +
-               0.587 * color_img[:,:,1].astype(float) +
-               0.114 * color_img[:,:,2].astype(float)) / 255.0
-    enhanced = exposure.rescale_intensity(raw_img)
-    total_pixels = raw_img.shape[0] * raw_img.shape[1]
-    min_area = total_pixels * 0.02
-
-    filled_l, labeled_l, n_l = _run_morphology(enhanced, sigma=3, usize=31,
-                                                close_kernel=3, close_iters=2)
-    blobs_light = _collect_blobs(labeled_l, n_l, filled_l, min_area)
-    n_card_light = sum(1 for b in blobs_light if b['is_card_like'])
-
-    filled_h, labeled_h, n_h = _run_morphology(enhanced, sigma=7, usize=51,
-                                                close_kernel=5, close_iters=3)
-    blobs_heavy = _collect_blobs(labeled_h, n_h, filled_h, min_area)
-    n_card_heavy = sum(1 for b in blobs_heavy if b['is_card_like'])
-
-    if n_card_light >= n_card_heavy:
-        blobs = blobs_light
-    else:
-        blobs = blobs_heavy
-
-    return blobs, raw_img, color_img, enhanced
-
-
 # ============================================================
 # STAGE 2A: PERSPECTIVE WARP (separated from orientation)
 # ============================================================
@@ -1320,24 +1292,6 @@ def process_single_blob(blob, color_img, enhanced, clahe, image_path,
                              f"Card# {card_id.get('card_number','?')}{rarity_part} | "
                              f"No match")
 
-    return result
-
-
-def process_single_blob_api(blob, color_img, enhanced, clahe,
-                             blob_index, engines, pokemon_db,
-                             orient_data, card_flipped, yomitoku_lock=None):
-    """API wrapper: returns JSON-serializable result (no numpy arrays)."""
-    result = process_single_blob(
-        blob, color_img, enhanced, clahe, None,
-        blob_index, engines, pokemon_db,
-        orient_data, card_flipped, yomitoku_lock
-    )
-    # Strip non-serializable numpy arrays
-    result.pop('ocr_img', None)
-    if result.get('best_match'):
-        result['best_match'].pop('ref_img', None)
-    if 'ocr_detections' in result:
-        result['ocr_detections'].pop('all_text', None)
     return result
 
 
