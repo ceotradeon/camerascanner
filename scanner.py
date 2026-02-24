@@ -1336,3 +1336,134 @@ def process_single_blob_api(blob, color_img, enhanced, clahe,
     if 'ocr_detections' in result:
         result['ocr_detections'].pop('all_text', None)
     return result
+
+
+# ============================================================
+# MAIN SCANNER
+# ============================================================
+
+def tradeon_scipy_scanner(image_path):
+    """Multi-card scanner: detect all card blobs, process each one."""
+    total_start = time.time()
+    clahe = cv2.createCLAHE(clipLimit=3.0, tileGridSize=(8, 8))
+
+    # Initialize OCR engines ONCE (lazy — loaded on first use)
+    engines = OCREngines()
+
+    # Load pokemon DB ONCE
+    pokemon_db = load_pokemon_db(image_path)
+    print(f"Pokemon DB: {len(pokemon_db)} entries loaded")
+
+    # Detect all blobs
+    result = detect_all_blobs(image_path)
+    if not result[0]:
+        print("No card-like blobs found.")
+        return []
+
+    blobs, raw_img, color_img, enhanced = result
+
+    # Filter to card-like blobs
+    card_blobs = [b for b in blobs if b['is_card_like']]
+    if not card_blobs:
+        print("No blobs with card-like aspect ratio. Using all blobs.")
+        card_blobs = blobs[:5]
+
+    print(f"\nProcessing {len(card_blobs)} card(s)...")
+
+    # ── Phase 1: Orient all cards (fast corner-crop detection) ──
+    print(f"\n--- Phase 1: Orientation detection (corner-crop) ---")
+    orient_data_list = []
+    for i, blob in enumerate(card_blobs):
+        od = orient_card(blob, color_img, enhanced, engines, i)
+        orient_data_list.append(od)
+
+    # ── Phase 2: Majority vote ──
+    WEAK_THRESHOLD = 3
+    total_signal = sum(od['orient_score'] for od in orient_data_list)
+    majority_flip = total_signal < 0
+
+    orientations = []
+    n_overridden = 0
+    for i, od in enumerate(orient_data_list):
+        score = od['orient_score']
+        if score >= WEAK_THRESHOLD:
+            individual_flip = False
+        elif score <= -WEAK_THRESHOLD:
+            individual_flip = True
+        else:
+            individual_flip = score < 0
+
+        # For multi-card scans: override weak decisions with majority
+        if len(card_blobs) >= 3 and abs(score) < WEAK_THRESHOLD:
+            final_flip = majority_flip
+            if final_flip != individual_flip:
+                n_overridden += 1
+                print(f"  [majority] Card {i+1}: overriding "
+                      f"{'flip' if individual_flip else 'keep'} → "
+                      f"{'flip' if final_flip else 'keep'} (score={score})")
+        else:
+            final_flip = individual_flip
+        orientations.append(final_flip)
+
+    n_flip = sum(orientations)
+    n_keep = len(orientations) - n_flip
+    print(f"\n--- Phase 2: Majority vote ---")
+    print(f"  Total signal: {total_signal:+d} → "
+          f"majority={'FLIP' if majority_flip else 'KEEP 0°'}")
+    print(f"  Result: {n_flip} flipped, {n_keep} kept, {n_overridden} overridden")
+
+    # ── Phase 3: Process each card (parallel where possible) ──
+    print(f"\n--- Phase 3: Card processing (parallel) ---")
+
+    # Strategy: Yomitoku is not thread-safe, but we can overlap:
+    #   - SIFT computation (CPU-bound, releases GIL in OpenCV)
+    #   - Image downloads (I/O-bound)
+    #   - EasyOCR for EN cards (separate from Yomitoku)
+    # We use a thread pool but serialize Yomitoku with a lock.
+    import threading
+    yomitoku_lock = threading.Lock()
+
+    def _process_card_thread_safe(args):
+        i, blob = args
+        # Wrap process_single_blob to serialize Yomitoku access
+        return process_single_blob(
+            blob, color_img, enhanced, clahe, image_path,
+            blob_index=i, engines=engines, pokemon_db=pokemon_db,
+            orient_data=orient_data_list[i], card_flipped=orientations[i],
+            yomitoku_lock=yomitoku_lock
+        )
+
+    all_results = []
+    with ThreadPoolExecutor(max_workers=3) as pool:
+        futures = {pool.submit(_process_card_thread_safe, (i, blob)): i
+                   for i, blob in enumerate(card_blobs)}
+        # Collect results in original order
+        results_by_idx = {}
+        for future in as_completed(futures):
+            idx = futures[future]
+            try:
+                results_by_idx[idx] = future.result()
+            except Exception as e:
+                print(f"  [!] Card {idx+1} failed: {e}")
+                results_by_idx[idx] = {'summary': f'Error: {e}'}
+        all_results = [results_by_idx[i] for i in range(len(card_blobs))]
+
+    elapsed = time.time() - total_start
+    print(f"\nAll {len(card_blobs)} cards processed in {elapsed:.1f}s")
+
+    # ============================================================
+    # SUMMARY
+    # ============================================================
+    print(f"\n{'='*60}")
+    print(f"SCAN COMPLETE — {len(all_results)} card(s) found")
+    print(f"{'='*60}")
+    for i, r in enumerate(all_results):
+        print(f"  [{i+1}] {r.get('summary', 'No data')}")
+
+    # Clean up large arrays (no image saving on server)
+    for r in all_results:
+        r.pop('ocr_img', None)
+        if r.get('best_match') and 'ref_img' in r.get('best_match', {}):
+            r['best_match'].pop('ref_img', None)
+
+    return all_results
