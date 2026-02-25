@@ -57,6 +57,9 @@ app.add_middleware(
     allow_origins=[
         "https://tradeon.jp",
         "https://www.tradeon.jp",
+        "https://tradeon.co",
+        "https://www.tradeon.co",
+        "https://tradeon-ce8q.vercel.app",
         "http://localhost:3000",
         "http://localhost:3001",
     ],
